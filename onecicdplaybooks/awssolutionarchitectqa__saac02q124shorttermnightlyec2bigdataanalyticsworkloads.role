@@ -1,0 +1,7 @@
+A company is using Amazon EC2 to run its big data analytics workloads. These variable workloads run each night, and it is critical they finish by the start of business the following day. A solutions architect has been tasked with designing the MOST cost-effective solution.
+Which solution will accomplish this?
+
+A. Spot Fleet
+B. Spot Instances
+C. Reserved Instances
+D. On-Demand Instances

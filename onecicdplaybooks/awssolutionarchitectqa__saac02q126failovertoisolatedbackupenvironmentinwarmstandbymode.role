@@ -1,0 +1,9 @@
+A company has created an isolated backup of its environment in another Region. The application is running in warm standby mode and is fronted by an Application Load Balancer (ALB). The current failover process is manual and requires updating a DNS alias record to point to the secondary ALB in another
+Region.
+
+What should a solutions architect do to automate the failover process?
+
+A. Enable an ALB health check
+B. Enable an Amazon Route 53 health check.
+C. Crate an CNAME record on Amazon Route 53 pointing to the ALB endpoint.
+D. Create conditional forwarding rules on Amazon Route 53 pointing to an internal BIND DNS server.

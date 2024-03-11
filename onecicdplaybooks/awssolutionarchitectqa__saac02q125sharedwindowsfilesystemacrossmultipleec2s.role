@@ -1,0 +1,10 @@
+A company has a Microsoft Windows-based application that must be migrated to AWS. This application requires the use of a shared Windows file system attached to multiple Amazon EC2 Windows instances.
+What should a solutions architect do to accomplish this?
+
+A. Configure a volume using Amazon Elastic File System (Amazon EFS). Mount the EFS volume to each Windows instance.
+
+B. Configure AWS Storage Gateway in Volume Gateway mode. Mount the volume to each Windows instance.
+
+C. Configure Amazon FSx for Windows File Server. Mount the Amazon FSx volume to each Windows instance.
+
+D. Configure an Amazon Elastic Block Store (Amazon EBS) volume with the required size. Attach each EC2 instance to the volume. Mount the file system within the volume to each Windows instance.

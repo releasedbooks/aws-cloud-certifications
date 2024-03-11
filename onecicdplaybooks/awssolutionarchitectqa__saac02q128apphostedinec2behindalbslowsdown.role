@@ -1,0 +1,8 @@
+A company is creating an architecture for a mobile app that requires minimal latency for its users. The company's architecture consists of Amazon EC2 instances behind an Application Load Balancer running in an Auto Scaling group. The EC2 instances connect to Amazon RDS. Application beta testing showed there was a slowdown when reading the data. However, the metrics indicate that the EC2 instances do not cross any CPU utilization thresholds.
+
+How can this issue be addressed?
+
+A. Reduce the threshold for CPU utilization in the Auto Scaling group.
+B. Replace the Application Load Balancer with a Network Load Balancer.
+C. Add read replicas for the RDS instances and direct read traffic to the replica.
+D. Add Multi-AZ support to the RDS instances and direct read traffic to the new EC2 instance.
