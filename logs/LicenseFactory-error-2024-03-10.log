@@ -1,9 +1,9 @@
-[INFO ] 2024-03-10 20:03:20.410 [AWT-EventQueue-0] OneCICD - Entering countLines
-[INFO ] 2024-03-10 20:03:20.469 [AWT-EventQueue-0] OneCICD - Entering countLines
-[INFO ] 2024-03-10 20:03:20.469 [AWT-EventQueue-0] OneCICD -  getNote: MAXLINES: 24 MAXWORDS: 509
-[INFO ] 2024-03-10 20:03:20.469 [AWT-EventQueue-0] OneCICD - getNote: revised Max lines: 509 Max words: 509
-[INFO ] 2024-03-10 20:03:20.469 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:151
-[INFO ] 2024-03-10 20:03:20.470 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'SAAC02 Q27 Slow page response on websites hosted on EC2 behind ALB'
-[INFO ] 2024-03-10 20:03:20.470 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Solution Architect QA ANCICDRoleName:SAAC02 Q27 Slow page response on websites hosted on EC2 behind ALB
-[INFO ] 2024-03-10 20:03:20.470 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awssolutionarchitectqa_4fanz_saac02q27slowpageresponseonwebsiteshostedonec2behindalb
-[INFO ] 2024-03-10 20:03:20.470 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:151
+[INFO ] 2024-03-10 23:52:48.378 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-100:Inside: OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-10 23:52:48.379 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-101:compareConfigValuesWithEncrypted: Success
+[INFO ] 2024-03-10 23:52:48.379 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-111:Inside: OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-10 23:52:48.379 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-112:license_auth_status: PAIDLICENSEISVALIDLOCAL
+[INFO ] 2024-03-10 23:52:48.379 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-113:Remote Authentication Not Required
+[INFO ] 2024-03-10 23:52:48.379 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-121:is_license_valid_with_date_check: true
+[INFO ] 2024-03-10 23:52:48.379 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-100Today:2024-03-10
+[INFO ] 2024-03-10 23:52:48.379 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-101todayLD:2024-03-10
+[INFO ] 2024-03-10 23:52:48.379 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-104Inside checkDateAndVersionValidity: Issue Check :

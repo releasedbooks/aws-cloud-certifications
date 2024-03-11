@@ -6637,3 +6637,1078 @@
 [INFO ] 2024-03-10 20:03:20.471 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:ifloop:24: dividerperform is now 16
 [INFO ] 2024-03-10 20:03:20.471 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:outof loop:dividerperform is now 16
 [INFO ] 2024-03-10 20:03:20.471 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:dividerperform is now 16
+[INFO ] 2024-03-10 23:52:46.944 [AWT-EventQueue-0] OneCICD - OCICD-118:Inside OneCICD createAndShowGUI
+[INFO ] 2024-03-10 23:52:46.945 [AWT-EventQueue-0] OneCICD - OCICDCASG-119:bbCaption: null
+[INFO ] 2024-03-10 23:52:46.945 [AWT-EventQueue-0] OneCICDGetPropertyValues - Inside: OneCICDGetPropertyValues
+[INFO ] 2024-03-10 23:52:46.949 [AWT-EventQueue-0] OneCICDGetPropertyValues - properties file: config.properties found
+[INFO ] 2024-03-10 23:52:46.949 [AWT-EventQueue-0] OneCICDGetPropertyValues - licensor: 4FANZ found
+[INFO ] 2024-03-10 23:52:46.955 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:configoveeride is 0
+[INFO ] 2024-03-10 23:52:46.955 [AWT-EventQueue-0] OneCICDGetPropertyValues - Inside: OneCICDGetPropertyValues
+[INFO ] 2024-03-10 23:52:46.956 [AWT-EventQueue-0] OneCICDGetPropertyValues - properties file: config.properties found
+[INFO ] 2024-03-10 23:52:46.956 [AWT-EventQueue-0] OneCICDGetPropertyValues - licensor: 4FANZ found
+[INFO ] 2024-03-10 23:52:46.956 [AWT-EventQueue-0] OneCICD - getScreenWidth 1470
+[INFO ] 2024-03-10 23:52:46.956 [AWT-EventQueue-0] OneCICD - getScreenHeight 848
+[INFO ] 2024-03-10 23:52:46.956 [AWT-EventQueue-0] OneCICD - getBoundX 54
+[INFO ] 2024-03-10 23:52:46.956 [AWT-EventQueue-0] OneCICD - getBoundY 0
+[INFO ] 2024-03-10 23:52:46.972 [AWT-EventQueue-0] OneCICD - getScreenWidth 1470
+[INFO ] 2024-03-10 23:52:46.974 [AWT-EventQueue-0] OneCICD - getScreenHeight 848
+[INFO ] 2024-03-10 23:52:46.974 [AWT-EventQueue-0] OneCICD - getBoundX 54
+[INFO ] 2024-03-10 23:52:46.974 [AWT-EventQueue-0] OneCICD - getBoundY 0
+[INFO ] 2024-03-10 23:52:46.974 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:defaultStudioPanelWidth was 870
+[INFO ] 2024-03-10 23:52:46.974 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:defaultStudioPanelHeight was 550
+[INFO ] 2024-03-10 23:52:46.974 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:defaultStudioCenterLine was 4
+[INFO ] 2024-03-10 23:52:46.974 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:defaultPerformCenterLine was 9
+[INFO ] 2024-03-10 23:52:46.974 [AWT-EventQueue-0] OneCICD - (FansGlobalComponents.defstudiopanelwidth):auto:effectivestudiopanelwidth 1470
+[INFO ] 2024-03-10 23:52:46.974 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:revisedStudiotextAreaWidth is now 1379
+[INFO ] 2024-03-10 23:52:46.974 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:read:revisedStudioPaneHeight is now 848
+[INFO ] 2024-03-10 23:52:46.975 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:revisedtextareaHeightStudio is now 507
+[INFO ] 2024-03-10 23:52:46.975 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:revisedtextareaHeightPerform is now 566
+[INFO ] 2024-03-10 23:52:46.975 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:read:revisedStudiotextAreaHeight is now 507
+[INFO ] 2024-03-10 23:52:46.975 [AWT-EventQueue-0] OneCICD - (FansGlobalComponents.defstudiopanelheight):auto:effectivestudiopanelheight 848
+[INFO ] 2024-03-10 23:52:46.975 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:read:revisedPerformtextAreaHeight is now 566
+[INFO ] 2024-03-10 23:52:46.975 [AWT-EventQueue-0] OneCICD - (FansGlobalComponents.defperformpanelheight):auto:effectiveperformpanelheight 848
+[INFO ] 2024-03-10 23:52:46.975 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:determined-defaultStudioPanelTextAreaHeight was 507
+[INFO ] 2024-03-10 23:52:46.975 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:determined-defaultStudioPanelTextAreaWidth was 1379
+[INFO ] 2024-03-10 23:52:46.976 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:determined-defaultPerformPanelTextAreaHeight was 566
+[INFO ] 2024-03-10 23:52:46.976 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:determined-defaultPerformPanelTextAreaWidth was 1379
+[INFO ] 2024-03-10 23:52:46.980 [AWT-EventQueue-0] OneCICDGetPropertyValues - Inside: OneCICDGetPropertyValues
+[INFO ] 2024-03-10 23:52:46.980 [AWT-EventQueue-0] OneCICDGetPropertyValues - properties file: config.properties found
+[INFO ] 2024-03-10 23:52:46.980 [AWT-EventQueue-0] OneCICDGetPropertyValues - licensor: 4FANZ found
+[INFO ] 2024-03-10 23:52:48.129 [AWT-EventQueue-0] OneCICD - scrollPaneLyricTextAre:defForegroundPerform java.awt.Color[r=255,g=255,b=0]
+[INFO ] 2024-03-10 23:52:48.129 [AWT-EventQueue-0] OneCICD - scrollPaneLyricTextAre:Background java.awt.Color[r=0,g=0,b=0]
+[INFO ] 2024-03-10 23:52:48.143 [AWT-EventQueue-0] OneCICD - lyricPanelScrollPreferredSize:(FansGlobalComponents.defstudiopanelwidth) 1470
+[INFO ] 2024-03-10 23:52:48.143 [AWT-EventQueue-0] OneCICD - lyricPanelScrollPreferredSize:(FansGlobalComponents.defstudiopanelheight) 848
+[INFO ] 2024-03-10 23:52:48.144 [AWT-EventQueue-0] OneCICD - lyricPanel:textareaWidthStudio 1379
+[INFO ] 2024-03-10 23:52:48.144 [AWT-EventQueue-0] OneCICD - lyricPanel:textareaHeightStudio 507
+[INFO ] 2024-03-10 23:52:48.144 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:ifloop:24: dividerstudio is now 11
+[INFO ] 2024-03-10 23:52:48.144 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:outof loop:dividerstudio is now 11
+[INFO ] 2024-03-10 23:52:48.144 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:dividerstudio is now 11
+[INFO ] 2024-03-10 23:52:48.146 [AWT-EventQueue-0] OneCICD - scrollPaneLyricTextAre:defForegroundPerform java.awt.Color[r=255,g=255,b=255]
+[INFO ] 2024-03-10 23:52:48.146 [AWT-EventQueue-0] OneCICD - scrollPaneLyricTextAre:Background java.awt.Color[r=0,g=0,b=0]
+[INFO ] 2024-03-10 23:52:48.148 [AWT-EventQueue-0] OneCICD - lyricPanel:bbcomscrollScroll:defaultStudioPanelWidth is 1470
+[INFO ] 2024-03-10 23:52:48.148 [AWT-EventQueue-0] OneCICD - lyricPanel:bbcomscrollScroll:defaultStudioPanelHeight is 848
+[INFO ] 2024-03-10 23:52:48.149 [AWT-EventQueue-0] OneCICD - scrollPanelScrollPreferredSize:(FansGlobalComponents.defperformpanelwidth) 1470
+[INFO ] 2024-03-10 23:52:48.150 [AWT-EventQueue-0] OneCICD - scrollPreferredSize:(FansGlobalComponents.defperformpanelheight) 848
+[INFO ] 2024-03-10 23:52:48.150 [AWT-EventQueue-0] OneCICD - scrollPanel:textareaWidthPerform 1379
+[INFO ] 2024-03-10 23:52:48.150 [AWT-EventQueue-0] OneCICD - scrollPanel:textareaHeightPerform 566
+[INFO ] 2024-03-10 23:52:48.150 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:ifloop:24: dividerperform is now 16
+[INFO ] 2024-03-10 23:52:48.150 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:outof loop:dividerperform is now 16
+[INFO ] 2024-03-10 23:52:48.150 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:dividerperform is now 16
+[INFO ] 2024-03-10 23:52:48.151 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:defaultcontentPaneWidth 875
+[INFO ] 2024-03-10 23:52:48.151 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:defaultcontentPaneHeight 600
+[INFO ] 2024-03-10 23:52:48.152 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:defaultcontentPaneWidthRevised 1456
+[INFO ] 2024-03-10 23:52:48.152 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:defaultcontentPaneWidthRevised-fg 1456
+[INFO ] 2024-03-10 23:52:48.152 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:defaultcontentPaneHeightRevised 806
+[INFO ] 2024-03-10 23:52:48.152 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:defaultcontentPaneHeightRevised-fg 806
+[INFO ] 2024-03-10 23:52:48.152 [AWT-EventQueue-0] OneCICD - TabbedPaneSizeWidth 1427
+[INFO ] 2024-03-10 23:52:48.152 [AWT-EventQueue-0] OneCICD - TabbedPaneSizeHeight 722
+[INFO ] 2024-03-10 23:52:48.153 [AWT-EventQueue-0] OneCICDGetPropertyValues - Inside: OneCICDGetPropertyValues
+[INFO ] 2024-03-10 23:52:48.153 [AWT-EventQueue-0] OneCICDGetPropertyValues - properties file: config.properties found
+[INFO ] 2024-03-10 23:52:48.153 [AWT-EventQueue-0] OneCICDGetPropertyValues - licensor: 4FANZ found
+[INFO ] 2024-03-10 23:52:48.154 [AWT-EventQueue-0] OneCICD - SELECT id PlayBookID, movieAlbumName as PlayBookName,releaseYear Provider ,movieDirector as DeployEnv,musicDirector as Cluster,lyricsComposer as BuildType ,movieProducer as Region from ANCICDROLES where ISACTIVE = TRUE  order by movieAlbumName
+[INFO ] 2024-03-10 23:52:48.170 [AWT-EventQueue-0] OneCICD - SELECT songid as ANCICDRoleID,moviename as PlayBookName,songtitle as ANCICDRoleTitle, singername1 as DeployRole1,singername2 as DeployRole2,singername3 as DeployRole3,singername4 as DeployRole4 from ANCICDPLAYBOOKTOCS order by moviename
+[INFO ] 2024-03-10 23:52:48.247 [AWT-EventQueue-0] OneCICDGetPropertyValues - Inside: OneCICDGetPropertyValues
+[INFO ] 2024-03-10 23:52:48.247 [AWT-EventQueue-0] OneCICDGetPropertyValues - properties file: config.properties found
+[INFO ] 2024-03-10 23:52:48.247 [AWT-EventQueue-0] OneCICDGetPropertyValues - licensor: 4FANZ found
+[INFO ] 2024-03-10 23:52:48.248 [AWT-EventQueue-0] OneCICDGetPropertyValues - Inside: OneCICDGetPropertyValues
+[INFO ] 2024-03-10 23:52:48.250 [AWT-EventQueue-0] OneCICDGetPropertyValues - properties file: config.properties found
+[INFO ] 2024-03-10 23:52:48.250 [AWT-EventQueue-0] OneCICDGetPropertyValues - licensor: 4FANZ found
+[INFO ] 2024-03-10 23:52:48.322 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-100:Inside: OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-10 23:52:48.322 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-101:compareConfigValuesWithEncrypted: Success
+[INFO ] 2024-03-10 23:52:48.322 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-111:Inside: OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-10 23:52:48.322 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-112:license_auth_status: PAIDLICENSEISVALIDLOCAL
+[INFO ] 2024-03-10 23:52:48.322 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-113:Remote Authentication Not Required
+[INFO ] 2024-03-10 23:52:48.322 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-121:is_license_valid_with_date_check: false
+[INFO ] 2024-03-10 23:52:48.365 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-100Today:2024-03-10
+[INFO ] 2024-03-10 23:52:48.371 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-101todayLD:2024-03-10
+[INFO ] 2024-03-10 23:52:48.372 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-104Inside checkDateAndVersionValidity: Issue Check :
+[INFO ] 2024-03-10 23:52:48.372 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-105is_license_valid_with_date_check:true
+[INFO ] 2024-03-10 23:52:48.372 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-122:Inside: OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-10 23:52:48.372 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-123:Inside checkDateAndVersionValidity
+[INFO ] 2024-03-10 23:52:48.372 [AWT-EventQueue-0] OneCICDGetPropertyValues - Inside: OneCICDGetPropertyValues
+[INFO ] 2024-03-10 23:52:48.372 [AWT-EventQueue-0] OneCICDGetPropertyValues - properties file: config.properties found
+[INFO ] 2024-03-10 23:52:48.372 [AWT-EventQueue-0] OneCICDGetPropertyValues - licensor: 4FANZ found
+[INFO ] 2024-03-10 23:52:48.378 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-100:Inside: OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-10 23:52:48.379 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-101:compareConfigValuesWithEncrypted: Success
+[INFO ] 2024-03-10 23:52:48.379 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-111:Inside: OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-10 23:52:48.379 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-112:license_auth_status: PAIDLICENSEISVALIDLOCAL
+[INFO ] 2024-03-10 23:52:48.379 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-113:Remote Authentication Not Required
+[INFO ] 2024-03-10 23:52:48.379 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-121:is_license_valid_with_date_check: true
+[INFO ] 2024-03-10 23:52:48.379 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-100Today:2024-03-10
+[INFO ] 2024-03-10 23:52:48.379 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-101todayLD:2024-03-10
+[INFO ] 2024-03-10 23:52:48.379 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-104Inside checkDateAndVersionValidity: Issue Check :
+[INFO ] 2024-03-10 23:52:48.379 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-105is_license_valid_with_date_check:true
+[INFO ] 2024-03-10 23:52:48.380 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-122:Inside: OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-10 23:52:48.380 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-123:Inside checkDateAndVersionValidity
+[INFO ] 2024-03-10 23:52:48.381 [AWT-EventQueue-0] OneCICDGetPropertyValues - Inside: OneCICDGetPropertyValues
+[INFO ] 2024-03-10 23:52:48.381 [AWT-EventQueue-0] OneCICDGetPropertyValues - properties file: config.properties found
+[INFO ] 2024-03-10 23:52:48.381 [AWT-EventQueue-0] OneCICDGetPropertyValues - licensor: 4FANZ found
+[INFO ] 2024-03-11 00:07:15.813 [AWT-EventQueue-0] OneCICD - OCICD-118:Inside OneCICD createAndShowGUI
+[INFO ] 2024-03-11 00:07:15.813 [AWT-EventQueue-0] OneCICD - OCICDCASG-119:bbCaption: null
+[INFO ] 2024-03-11 00:07:15.814 [AWT-EventQueue-0] OneCICDGetPropertyValues - Inside: OneCICDGetPropertyValues
+[INFO ] 2024-03-11 00:07:15.815 [AWT-EventQueue-0] OneCICDGetPropertyValues - properties file: config.properties found
+[INFO ] 2024-03-11 00:07:15.815 [AWT-EventQueue-0] OneCICDGetPropertyValues - licensor: 4FANZ found
+[INFO ] 2024-03-11 00:07:15.820 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:configoveeride is 0
+[INFO ] 2024-03-11 00:07:15.820 [AWT-EventQueue-0] OneCICDGetPropertyValues - Inside: OneCICDGetPropertyValues
+[INFO ] 2024-03-11 00:07:15.821 [AWT-EventQueue-0] OneCICDGetPropertyValues - properties file: config.properties found
+[INFO ] 2024-03-11 00:07:15.821 [AWT-EventQueue-0] OneCICDGetPropertyValues - licensor: 4FANZ found
+[INFO ] 2024-03-11 00:07:15.821 [AWT-EventQueue-0] OneCICD - getScreenWidth 1470
+[INFO ] 2024-03-11 00:07:15.821 [AWT-EventQueue-0] OneCICD - getScreenHeight 848
+[INFO ] 2024-03-11 00:07:15.821 [AWT-EventQueue-0] OneCICD - getBoundX 54
+[INFO ] 2024-03-11 00:07:15.821 [AWT-EventQueue-0] OneCICD - getBoundY 0
+[INFO ] 2024-03-11 00:07:15.834 [AWT-EventQueue-0] OneCICD - getScreenWidth 1470
+[INFO ] 2024-03-11 00:07:15.835 [AWT-EventQueue-0] OneCICD - getScreenHeight 848
+[INFO ] 2024-03-11 00:07:15.835 [AWT-EventQueue-0] OneCICD - getBoundX 54
+[INFO ] 2024-03-11 00:07:15.835 [AWT-EventQueue-0] OneCICD - getBoundY 0
+[INFO ] 2024-03-11 00:07:15.837 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:defaultStudioPanelWidth was 870
+[INFO ] 2024-03-11 00:07:15.837 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:defaultStudioPanelHeight was 550
+[INFO ] 2024-03-11 00:07:15.837 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:defaultStudioCenterLine was 4
+[INFO ] 2024-03-11 00:07:15.837 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:defaultPerformCenterLine was 9
+[INFO ] 2024-03-11 00:07:15.837 [AWT-EventQueue-0] OneCICD - (FansGlobalComponents.defstudiopanelwidth):auto:effectivestudiopanelwidth 1470
+[INFO ] 2024-03-11 00:07:15.838 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:revisedStudiotextAreaWidth is now 1379
+[INFO ] 2024-03-11 00:07:15.838 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:read:revisedStudioPaneHeight is now 848
+[INFO ] 2024-03-11 00:07:15.838 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:revisedtextareaHeightStudio is now 507
+[INFO ] 2024-03-11 00:07:15.838 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:revisedtextareaHeightPerform is now 566
+[INFO ] 2024-03-11 00:07:15.839 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:read:revisedStudiotextAreaHeight is now 507
+[INFO ] 2024-03-11 00:07:15.839 [AWT-EventQueue-0] OneCICD - (FansGlobalComponents.defstudiopanelheight):auto:effectivestudiopanelheight 848
+[INFO ] 2024-03-11 00:07:15.839 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:read:revisedPerformtextAreaHeight is now 566
+[INFO ] 2024-03-11 00:07:15.839 [AWT-EventQueue-0] OneCICD - (FansGlobalComponents.defperformpanelheight):auto:effectiveperformpanelheight 848
+[INFO ] 2024-03-11 00:07:15.839 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:determined-defaultStudioPanelTextAreaHeight was 507
+[INFO ] 2024-03-11 00:07:15.839 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:determined-defaultStudioPanelTextAreaWidth was 1379
+[INFO ] 2024-03-11 00:07:15.839 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:determined-defaultPerformPanelTextAreaHeight was 566
+[INFO ] 2024-03-11 00:07:15.839 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:determined-defaultPerformPanelTextAreaWidth was 1379
+[INFO ] 2024-03-11 00:07:15.843 [AWT-EventQueue-0] OneCICDGetPropertyValues - Inside: OneCICDGetPropertyValues
+[INFO ] 2024-03-11 00:07:15.844 [AWT-EventQueue-0] OneCICDGetPropertyValues - properties file: config.properties found
+[INFO ] 2024-03-11 00:07:15.844 [AWT-EventQueue-0] OneCICDGetPropertyValues - licensor: 4FANZ found
+[INFO ] 2024-03-11 00:07:16.950 [AWT-EventQueue-0] OneCICD - scrollPaneLyricTextAre:defForegroundPerform java.awt.Color[r=255,g=255,b=0]
+[INFO ] 2024-03-11 00:07:16.951 [AWT-EventQueue-0] OneCICD - scrollPaneLyricTextAre:Background java.awt.Color[r=0,g=0,b=0]
+[INFO ] 2024-03-11 00:07:16.959 [AWT-EventQueue-0] OneCICD - lyricPanelScrollPreferredSize:(FansGlobalComponents.defstudiopanelwidth) 1470
+[INFO ] 2024-03-11 00:07:16.959 [AWT-EventQueue-0] OneCICD - lyricPanelScrollPreferredSize:(FansGlobalComponents.defstudiopanelheight) 848
+[INFO ] 2024-03-11 00:07:16.959 [AWT-EventQueue-0] OneCICD - lyricPanel:textareaWidthStudio 1379
+[INFO ] 2024-03-11 00:07:16.959 [AWT-EventQueue-0] OneCICD - lyricPanel:textareaHeightStudio 507
+[INFO ] 2024-03-11 00:07:16.960 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:ifloop:24: dividerstudio is now 11
+[INFO ] 2024-03-11 00:07:16.960 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:outof loop:dividerstudio is now 11
+[INFO ] 2024-03-11 00:07:16.960 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:dividerstudio is now 11
+[INFO ] 2024-03-11 00:07:16.962 [AWT-EventQueue-0] OneCICD - scrollPaneLyricTextAre:defForegroundPerform java.awt.Color[r=255,g=255,b=255]
+[INFO ] 2024-03-11 00:07:16.963 [AWT-EventQueue-0] OneCICD - scrollPaneLyricTextAre:Background java.awt.Color[r=0,g=0,b=0]
+[INFO ] 2024-03-11 00:07:16.963 [AWT-EventQueue-0] OneCICD - lyricPanel:bbcomscrollScroll:defaultStudioPanelWidth is 1470
+[INFO ] 2024-03-11 00:07:16.963 [AWT-EventQueue-0] OneCICD - lyricPanel:bbcomscrollScroll:defaultStudioPanelHeight is 848
+[INFO ] 2024-03-11 00:07:16.963 [AWT-EventQueue-0] OneCICD - scrollPanelScrollPreferredSize:(FansGlobalComponents.defperformpanelwidth) 1470
+[INFO ] 2024-03-11 00:07:16.964 [AWT-EventQueue-0] OneCICD - scrollPreferredSize:(FansGlobalComponents.defperformpanelheight) 848
+[INFO ] 2024-03-11 00:07:16.965 [AWT-EventQueue-0] OneCICD - scrollPanel:textareaWidthPerform 1379
+[INFO ] 2024-03-11 00:07:16.965 [AWT-EventQueue-0] OneCICD - scrollPanel:textareaHeightPerform 566
+[INFO ] 2024-03-11 00:07:16.965 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:ifloop:24: dividerperform is now 16
+[INFO ] 2024-03-11 00:07:16.965 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:outof loop:dividerperform is now 16
+[INFO ] 2024-03-11 00:07:16.965 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:dividerperform is now 16
+[INFO ] 2024-03-11 00:07:16.966 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:defaultcontentPaneWidth 875
+[INFO ] 2024-03-11 00:07:16.966 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:defaultcontentPaneHeight 600
+[INFO ] 2024-03-11 00:07:16.966 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:defaultcontentPaneWidthRevised 1456
+[INFO ] 2024-03-11 00:07:16.966 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:defaultcontentPaneWidthRevised-fg 1456
+[INFO ] 2024-03-11 00:07:16.967 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:defaultcontentPaneHeightRevised 806
+[INFO ] 2024-03-11 00:07:16.967 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:defaultcontentPaneHeightRevised-fg 806
+[INFO ] 2024-03-11 00:07:16.967 [AWT-EventQueue-0] OneCICD - TabbedPaneSizeWidth 1427
+[INFO ] 2024-03-11 00:07:16.967 [AWT-EventQueue-0] OneCICD - TabbedPaneSizeHeight 722
+[INFO ] 2024-03-11 00:07:16.968 [AWT-EventQueue-0] OneCICDGetPropertyValues - Inside: OneCICDGetPropertyValues
+[INFO ] 2024-03-11 00:07:16.968 [AWT-EventQueue-0] OneCICDGetPropertyValues - properties file: config.properties found
+[INFO ] 2024-03-11 00:07:16.968 [AWT-EventQueue-0] OneCICDGetPropertyValues - licensor: 4FANZ found
+[INFO ] 2024-03-11 00:07:16.968 [AWT-EventQueue-0] OneCICD - SELECT id PlayBookID, movieAlbumName as PlayBookName,releaseYear Provider ,movieDirector as DeployEnv,musicDirector as Cluster,lyricsComposer as BuildType ,movieProducer as Region from ANCICDROLES where ISACTIVE = TRUE  order by movieAlbumName
+[INFO ] 2024-03-11 00:07:16.981 [AWT-EventQueue-0] OneCICD - SELECT songid as ANCICDRoleID,moviename as PlayBookName,songtitle as ANCICDRoleTitle, singername1 as DeployRole1,singername2 as DeployRole2,singername3 as DeployRole3,singername4 as DeployRole4 from ANCICDPLAYBOOKTOCS order by moviename
+[INFO ] 2024-03-11 00:07:17.051 [AWT-EventQueue-0] OneCICDGetPropertyValues - Inside: OneCICDGetPropertyValues
+[INFO ] 2024-03-11 00:07:17.052 [AWT-EventQueue-0] OneCICDGetPropertyValues - properties file: config.properties found
+[INFO ] 2024-03-11 00:07:17.052 [AWT-EventQueue-0] OneCICDGetPropertyValues - licensor: 4FANZ found
+[INFO ] 2024-03-11 00:07:17.053 [AWT-EventQueue-0] OneCICDGetPropertyValues - Inside: OneCICDGetPropertyValues
+[INFO ] 2024-03-11 00:07:17.053 [AWT-EventQueue-0] OneCICDGetPropertyValues - properties file: config.properties found
+[INFO ] 2024-03-11 00:07:17.053 [AWT-EventQueue-0] OneCICDGetPropertyValues - licensor: 4FANZ found
+[INFO ] 2024-03-11 00:07:17.102 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-100:Inside: OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-11 00:07:17.102 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-101:compareConfigValuesWithEncrypted: Success
+[INFO ] 2024-03-11 00:07:17.103 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-111:Inside: OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-11 00:07:17.103 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-112:license_auth_status: PAIDLICENSEISVALIDLOCAL
+[INFO ] 2024-03-11 00:07:17.103 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-113:Remote Authentication Not Required
+[INFO ] 2024-03-11 00:07:17.103 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-121:is_license_valid_with_date_check: false
+[INFO ] 2024-03-11 00:07:17.149 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-100Today:2024-03-11
+[INFO ] 2024-03-11 00:07:17.154 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-101todayLD:2024-03-11
+[INFO ] 2024-03-11 00:07:17.154 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-104Inside checkDateAndVersionValidity: Issue Check :
+[INFO ] 2024-03-11 00:07:17.154 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-105is_license_valid_with_date_check:true
+[INFO ] 2024-03-11 00:07:17.154 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-122:Inside: OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-11 00:07:17.156 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-123:Inside checkDateAndVersionValidity
+[INFO ] 2024-03-11 00:07:17.156 [AWT-EventQueue-0] OneCICDGetPropertyValues - Inside: OneCICDGetPropertyValues
+[INFO ] 2024-03-11 00:07:17.156 [AWT-EventQueue-0] OneCICDGetPropertyValues - properties file: config.properties found
+[INFO ] 2024-03-11 00:07:17.156 [AWT-EventQueue-0] OneCICDGetPropertyValues - licensor: 4FANZ found
+[INFO ] 2024-03-11 00:07:17.161 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-100:Inside: OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-11 00:07:17.161 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-101:compareConfigValuesWithEncrypted: Success
+[INFO ] 2024-03-11 00:07:17.161 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-111:Inside: OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-11 00:07:17.162 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-112:license_auth_status: PAIDLICENSEISVALIDLOCAL
+[INFO ] 2024-03-11 00:07:17.162 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-113:Remote Authentication Not Required
+[INFO ] 2024-03-11 00:07:17.163 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-121:is_license_valid_with_date_check: true
+[INFO ] 2024-03-11 00:07:17.163 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-100Today:2024-03-11
+[INFO ] 2024-03-11 00:07:17.163 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-101todayLD:2024-03-11
+[INFO ] 2024-03-11 00:07:17.163 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-104Inside checkDateAndVersionValidity: Issue Check :
+[INFO ] 2024-03-11 00:07:17.163 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-105is_license_valid_with_date_check:true
+[INFO ] 2024-03-11 00:07:17.163 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-122:Inside: OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-11 00:07:17.163 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-123:Inside checkDateAndVersionValidity
+[INFO ] 2024-03-11 00:07:17.163 [AWT-EventQueue-0] OneCICDGetPropertyValues - Inside: OneCICDGetPropertyValues
+[INFO ] 2024-03-11 00:07:17.163 [AWT-EventQueue-0] OneCICDGetPropertyValues - properties file: config.properties found
+[INFO ] 2024-03-11 00:07:17.164 [AWT-EventQueue-0] OneCICDGetPropertyValues - licensor: 4FANZ found
+[INFO ] 2024-03-11 00:07:39.341 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 161 row !!
+[INFO ] 2024-03-11 00:07:39.342 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 160 row !!
+[INFO ] 2024-03-11 00:07:39.342 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 159 row !!
+[INFO ] 2024-03-11 00:07:39.342 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 158 row !!
+[INFO ] 2024-03-11 00:07:39.342 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 157 row !!
+[INFO ] 2024-03-11 00:07:39.342 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 156 row !!
+[INFO ] 2024-03-11 00:07:39.342 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 155 row !!
+[INFO ] 2024-03-11 00:07:39.342 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 154 row !!
+[INFO ] 2024-03-11 00:07:39.342 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 153 row !!
+[INFO ] 2024-03-11 00:07:39.342 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 152 row !!
+[INFO ] 2024-03-11 00:07:39.345 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 151 row !!
+[INFO ] 2024-03-11 00:07:39.345 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 150 row !!
+[INFO ] 2024-03-11 00:07:39.345 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 149 row !!
+[INFO ] 2024-03-11 00:07:39.345 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 148 row !!
+[INFO ] 2024-03-11 00:07:39.345 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 147 row !!
+[INFO ] 2024-03-11 00:07:39.345 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 146 row !!
+[INFO ] 2024-03-11 00:07:39.345 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 145 row !!
+[INFO ] 2024-03-11 00:07:39.345 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 144 row !!
+[INFO ] 2024-03-11 00:07:39.345 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 143 row !!
+[INFO ] 2024-03-11 00:07:39.345 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 142 row !!
+[INFO ] 2024-03-11 00:07:39.345 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 141 row !!
+[INFO ] 2024-03-11 00:07:39.345 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 140 row !!
+[INFO ] 2024-03-11 00:07:39.346 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 139 row !!
+[INFO ] 2024-03-11 00:07:39.346 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 138 row !!
+[INFO ] 2024-03-11 00:07:39.346 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 137 row !!
+[INFO ] 2024-03-11 00:07:39.346 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 136 row !!
+[INFO ] 2024-03-11 00:07:39.346 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 135 row !!
+[INFO ] 2024-03-11 00:07:39.346 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 134 row !!
+[INFO ] 2024-03-11 00:07:39.347 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 133 row !!
+[INFO ] 2024-03-11 00:07:39.347 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 132 row !!
+[INFO ] 2024-03-11 00:07:39.347 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 131 row !!
+[INFO ] 2024-03-11 00:07:39.347 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 130 row !!
+[INFO ] 2024-03-11 00:07:39.347 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 129 row !!
+[INFO ] 2024-03-11 00:07:39.347 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 128 row !!
+[INFO ] 2024-03-11 00:07:39.348 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 127 row !!
+[INFO ] 2024-03-11 00:07:39.348 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 126 row !!
+[INFO ] 2024-03-11 00:07:39.348 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 125 row !!
+[INFO ] 2024-03-11 00:07:39.348 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 124 row !!
+[INFO ] 2024-03-11 00:07:39.348 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 123 row !!
+[INFO ] 2024-03-11 00:07:39.348 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 122 row !!
+[INFO ] 2024-03-11 00:07:39.348 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 121 row !!
+[INFO ] 2024-03-11 00:07:39.348 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 120 row !!
+[INFO ] 2024-03-11 00:07:39.348 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 119 row !!
+[INFO ] 2024-03-11 00:07:39.348 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 118 row !!
+[INFO ] 2024-03-11 00:07:39.348 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 117 row !!
+[INFO ] 2024-03-11 00:07:39.348 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 116 row !!
+[INFO ] 2024-03-11 00:07:39.349 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 115 row !!
+[INFO ] 2024-03-11 00:07:39.349 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 114 row !!
+[INFO ] 2024-03-11 00:07:39.349 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 113 row !!
+[INFO ] 2024-03-11 00:07:39.349 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 112 row !!
+[INFO ] 2024-03-11 00:07:39.349 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 111 row !!
+[INFO ] 2024-03-11 00:07:39.349 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 110 row !!
+[INFO ] 2024-03-11 00:07:39.349 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 109 row !!
+[INFO ] 2024-03-11 00:07:39.349 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 108 row !!
+[INFO ] 2024-03-11 00:07:39.349 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 107 row !!
+[INFO ] 2024-03-11 00:07:39.349 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 106 row !!
+[INFO ] 2024-03-11 00:07:39.349 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 105 row !!
+[INFO ] 2024-03-11 00:07:39.349 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 104 row !!
+[INFO ] 2024-03-11 00:07:39.350 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 103 row !!
+[INFO ] 2024-03-11 00:07:39.350 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 102 row !!
+[INFO ] 2024-03-11 00:07:39.350 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 101 row !!
+[INFO ] 2024-03-11 00:07:39.351 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 100 row !!
+[INFO ] 2024-03-11 00:07:39.352 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 99 row !!
+[INFO ] 2024-03-11 00:07:39.352 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 98 row !!
+[INFO ] 2024-03-11 00:07:39.352 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 97 row !!
+[INFO ] 2024-03-11 00:07:39.352 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 96 row !!
+[INFO ] 2024-03-11 00:07:39.352 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 95 row !!
+[INFO ] 2024-03-11 00:07:39.352 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 94 row !!
+[INFO ] 2024-03-11 00:07:39.352 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 93 row !!
+[INFO ] 2024-03-11 00:07:39.352 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 92 row !!
+[INFO ] 2024-03-11 00:07:39.353 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 91 row !!
+[INFO ] 2024-03-11 00:07:39.353 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 90 row !!
+[INFO ] 2024-03-11 00:07:39.353 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 89 row !!
+[INFO ] 2024-03-11 00:07:39.353 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 88 row !!
+[INFO ] 2024-03-11 00:07:39.353 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 87 row !!
+[INFO ] 2024-03-11 00:07:39.353 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 86 row !!
+[INFO ] 2024-03-11 00:07:39.353 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 85 row !!
+[INFO ] 2024-03-11 00:07:39.353 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 84 row !!
+[INFO ] 2024-03-11 00:07:39.353 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 83 row !!
+[INFO ] 2024-03-11 00:07:39.353 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 82 row !!
+[INFO ] 2024-03-11 00:07:39.353 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 81 row !!
+[INFO ] 2024-03-11 00:07:39.353 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 80 row !!
+[INFO ] 2024-03-11 00:07:39.354 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 79 row !!
+[INFO ] 2024-03-11 00:07:39.354 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 78 row !!
+[INFO ] 2024-03-11 00:07:39.354 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 77 row !!
+[INFO ] 2024-03-11 00:07:39.354 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 76 row !!
+[INFO ] 2024-03-11 00:07:39.354 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 75 row !!
+[INFO ] 2024-03-11 00:07:39.354 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 74 row !!
+[INFO ] 2024-03-11 00:07:39.354 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 73 row !!
+[INFO ] 2024-03-11 00:07:39.354 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 72 row !!
+[INFO ] 2024-03-11 00:07:39.354 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 71 row !!
+[INFO ] 2024-03-11 00:07:39.354 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 70 row !!
+[INFO ] 2024-03-11 00:07:39.354 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 69 row !!
+[INFO ] 2024-03-11 00:07:39.354 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 68 row !!
+[INFO ] 2024-03-11 00:07:39.355 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 67 row !!
+[INFO ] 2024-03-11 00:07:39.355 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 66 row !!
+[INFO ] 2024-03-11 00:07:39.355 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 65 row !!
+[INFO ] 2024-03-11 00:07:39.355 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 64 row !!
+[INFO ] 2024-03-11 00:07:39.355 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 63 row !!
+[INFO ] 2024-03-11 00:07:39.355 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 62 row !!
+[INFO ] 2024-03-11 00:07:39.355 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 61 row !!
+[INFO ] 2024-03-11 00:07:39.355 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 60 row !!
+[INFO ] 2024-03-11 00:07:39.355 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 59 row !!
+[INFO ] 2024-03-11 00:07:39.355 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 58 row !!
+[INFO ] 2024-03-11 00:07:39.355 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 57 row !!
+[INFO ] 2024-03-11 00:07:39.355 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 56 row !!
+[INFO ] 2024-03-11 00:07:39.356 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 55 row !!
+[INFO ] 2024-03-11 00:07:39.356 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 54 row !!
+[INFO ] 2024-03-11 00:07:39.356 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 53 row !!
+[INFO ] 2024-03-11 00:07:39.356 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 52 row !!
+[INFO ] 2024-03-11 00:07:39.356 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 51 row !!
+[INFO ] 2024-03-11 00:07:39.356 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 50 row !!
+[INFO ] 2024-03-11 00:07:39.357 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 49 row !!
+[INFO ] 2024-03-11 00:07:39.357 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 48 row !!
+[INFO ] 2024-03-11 00:07:39.357 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 47 row !!
+[INFO ] 2024-03-11 00:07:39.357 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 46 row !!
+[INFO ] 2024-03-11 00:07:39.357 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 45 row !!
+[INFO ] 2024-03-11 00:07:39.357 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 44 row !!
+[INFO ] 2024-03-11 00:07:39.357 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 43 row !!
+[INFO ] 2024-03-11 00:07:39.358 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 42 row !!
+[INFO ] 2024-03-11 00:07:39.358 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 41 row !!
+[INFO ] 2024-03-11 00:07:39.358 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 40 row !!
+[INFO ] 2024-03-11 00:07:39.358 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 39 row !!
+[INFO ] 2024-03-11 00:07:39.358 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 38 row !!
+[INFO ] 2024-03-11 00:07:39.358 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 37 row !!
+[INFO ] 2024-03-11 00:07:39.358 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 36 row !!
+[INFO ] 2024-03-11 00:07:39.358 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 35 row !!
+[INFO ] 2024-03-11 00:07:39.358 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 34 row !!
+[INFO ] 2024-03-11 00:07:39.358 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 33 row !!
+[INFO ] 2024-03-11 00:07:39.358 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 32 row !!
+[INFO ] 2024-03-11 00:07:39.359 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 31 row !!
+[INFO ] 2024-03-11 00:07:39.359 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 30 row !!
+[INFO ] 2024-03-11 00:07:39.359 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 29 row !!
+[INFO ] 2024-03-11 00:07:39.359 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 28 row !!
+[INFO ] 2024-03-11 00:07:39.359 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 27 row !!
+[INFO ] 2024-03-11 00:07:39.359 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 26 row !!
+[INFO ] 2024-03-11 00:07:39.359 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 25 row !!
+[INFO ] 2024-03-11 00:07:39.359 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 24 row !!
+[INFO ] 2024-03-11 00:07:39.359 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 23 row !!
+[INFO ] 2024-03-11 00:07:39.359 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 22 row !!
+[INFO ] 2024-03-11 00:07:39.359 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 21 row !!
+[INFO ] 2024-03-11 00:07:39.359 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 20 row !!
+[INFO ] 2024-03-11 00:07:39.360 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 19 row !!
+[INFO ] 2024-03-11 00:07:39.360 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 18 row !!
+[INFO ] 2024-03-11 00:07:39.360 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 17 row !!
+[INFO ] 2024-03-11 00:07:39.360 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 16 row !!
+[INFO ] 2024-03-11 00:07:39.360 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 15 row !!
+[INFO ] 2024-03-11 00:07:39.360 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 14 row !!
+[INFO ] 2024-03-11 00:07:39.360 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 13 row !!
+[INFO ] 2024-03-11 00:07:39.360 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 12 row !!
+[INFO ] 2024-03-11 00:07:39.360 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 11 row !!
+[INFO ] 2024-03-11 00:07:39.360 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 10 row !!
+[INFO ] 2024-03-11 00:07:39.360 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 9 row !!
+[INFO ] 2024-03-11 00:07:39.360 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 8 row !!
+[INFO ] 2024-03-11 00:07:39.362 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 7 row !!
+[INFO ] 2024-03-11 00:07:39.362 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 6 row !!
+[INFO ] 2024-03-11 00:07:39.362 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 5 row !!
+[INFO ] 2024-03-11 00:07:39.362 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 4 row !!
+[INFO ] 2024-03-11 00:07:39.362 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 3 row !!
+[INFO ] 2024-03-11 00:07:39.362 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 2 row !!
+[INFO ] 2024-03-11 00:07:39.362 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 1 row !!
+[INFO ] 2024-03-11 00:07:39.362 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 0 row !!
+[INFO ] 2024-03-11 00:07:39.363 [AWT-EventQueue-0] OneCICD - SELECT songid as ANCICDRoleID,moviename as PlayBookName,songtitle as ANCICDRole,singername1 as DeployRole1,singername2 as DeployRole2,singername3 as DeployRole3,singername4 as DeployRole4 from ANCICDPLAYBOOKTOCS order by moviename
+[INFO ] 2024-03-11 00:07:39.366 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 6 row !!
+[INFO ] 2024-03-11 00:07:39.367 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 5 row !!
+[INFO ] 2024-03-11 00:07:39.367 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 4 row !!
+[INFO ] 2024-03-11 00:07:39.367 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 3 row !!
+[INFO ] 2024-03-11 00:07:39.367 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 2 row !!
+[INFO ] 2024-03-11 00:07:39.367 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 1 row !!
+[INFO ] 2024-03-11 00:07:39.367 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 0 row !!
+[INFO ] 2024-03-11 00:07:39.368 [AWT-EventQueue-0] OneCICD - SELECT id PlayBookID, movieAlbumName as PlayBookName,releaseYear Provider ,movieDirector as DeployEnv,musicDirector as Cluster,lyricsComposer as BuildType ,movieProducer as Region from ANCICDROLES where ISACTIVE = TRUE  order by movieAlbumName
+[INFO ] 2024-03-11 00:08:11.517 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:08:11.519 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:08:11.529 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:08:11.529 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:08:11.529 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:08:11.529 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:08:11.530 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:08:11.530 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:08:11.531 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:08:11.531 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:08:11.532 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:08:11.533 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:08:11.533 [AWT-EventQueue-0] OneCICD - LyricFileName:onecicdplaybooks/awsservicesdirectory__amazontimestream.role
+[INFO ] 2024-03-11 00:08:11.534 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:ifloop:24: dividerstudio is now 11
+[INFO ] 2024-03-11 00:08:11.534 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:outof loop:dividerstudio is now 11
+[INFO ] 2024-03-11 00:08:11.534 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:dividerstudio is now 11
+[INFO ] 2024-03-11 00:09:07.916 [AWT-EventQueue-0] OneCICDGetPropertyValues - Inside: OneCICDGetPropertyValues
+[INFO ] 2024-03-11 00:09:07.918 [AWT-EventQueue-0] OneCICDGetPropertyValues - properties file: config.properties found
+[INFO ] 2024-03-11 00:09:07.918 [AWT-EventQueue-0] OneCICDGetPropertyValues - licensor: 4FANZ found
+[INFO ] 2024-03-11 00:09:07.952 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-100:Inside: OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-11 00:09:07.954 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-101:compareConfigValuesWithEncrypted: Success
+[INFO ] 2024-03-11 00:09:07.954 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-111:Inside: OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-11 00:09:07.955 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-112:license_auth_status: PAIDLICENSEISVALIDLOCAL
+[INFO ] 2024-03-11 00:09:07.955 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-113:Remote Authentication Not Required
+[INFO ] 2024-03-11 00:09:07.955 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-121:is_license_valid_with_date_check: true
+[INFO ] 2024-03-11 00:09:07.955 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-100Today:2024-03-11
+[INFO ] 2024-03-11 00:09:07.955 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-101todayLD:2024-03-11
+[INFO ] 2024-03-11 00:09:07.955 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-104Inside checkDateAndVersionValidity: Issue Check :
+[INFO ] 2024-03-11 00:09:07.955 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-105is_license_valid_with_date_check:true
+[INFO ] 2024-03-11 00:09:07.957 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-122:Inside: OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-11 00:09:07.957 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-123:Inside checkDateAndVersionValidity
+[INFO ] 2024-03-11 00:09:07.957 [AWT-EventQueue-0] OneCICD - OCICDIC:Inside: OneCICD:initComponents:saveLyricButton.addActionListener
+[INFO ] 2024-03-11 00:09:07.957 [AWT-EventQueue-0] OneCICD - OCICDIC:computedLicenseEntitlement:OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-11 00:09:07.957 [AWT-EventQueue-0] OneCICD - OCICDIC:Inside: OneCICD:initComponents:saveLyricButton.addActionListener
+[INFO ] 2024-03-11 00:09:07.957 [AWT-EventQueue-0] OneCICD - OCICDIC:startButton.isEnabledOneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-11 00:09:07.957 [AWT-EventQueue-0] OneCICD - OCICDCULF:Entering OneCICD:createUpdateLyricFile
+[INFO ] 2024-03-11 00:09:07.957 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:07.958 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:07.960 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:07.960 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:07.960 [AWT-EventQueue-0] OneCICD - OCICDCULF:Entering createUpdateLyricFile
+[DEBUG] 2024-03-11 00:09:07.960 [AWT-EventQueue-0] OneCICD - onecicdplaybooks/awsservicesdirectory__amazontimestream.role
+[DEBUG] 2024-03-11 00:09:07.960 [AWT-EventQueue-0] OneCICD - null
+[INFO ] 2024-03-11 00:09:07.960 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:07.960 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:07.961 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:07.961 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:07.962 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:07.963 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:07.963 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:07.963 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:07.963 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:07.965 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:07.966 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:07.966 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:07.966 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:07.968 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:07.968 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:07.968 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[DEBUG] 2024-03-11 00:09:07.968 [AWT-EventQueue-0] OneCICD - onecicdplaybooks/awsservicesdirectory__amazontimestream.role
+[DEBUG] 2024-03-11 00:09:07.968 [AWT-EventQueue-0] OneCICD - onecicdnotes/awsservicesdirectory__amazontimestream.note
+[DEBUG] 2024-03-11 00:09:07.969 [AWT-EventQueue-0] OneCICD -  Blank Notes file:onecicdnotes/awsservicesdirectory__amazontimestream.note Created
+[INFO ] 2024-03-11 00:09:09.218 [AWT-EventQueue-0] OneCICD - Exited createUpdateLyricFile
+[DEBUG] 2024-03-11 00:09:09.218 [AWT-EventQueue-0] OneCICD - ANCICDRoleFile:onecicdplaybooks/awsservicesdirectory__amazontimestream.roledoes not exist.. creating..
+[DEBUG] 2024-03-11 00:09:09.219 [AWT-EventQueue-0] OneCICD - User contents were written to :onecicdplaybooks/awsservicesdirectory__amazontimestream.role
+[INFO ] 2024-03-11 00:09:09.259 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:09.259 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:09.260 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:09.260 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:09.260 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:09.260 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:09.261 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:09.261 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:09.261 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:09.263 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:09.263 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:09.263 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:09.263 [AWT-EventQueue-0] OneCICD - LyricFileName:onecicdplaybooks/awsservicesdirectory__amazontimestream.role
+[INFO ] 2024-03-11 00:09:09.265 [AWT-EventQueue-0] OneCICD - Entering countLines
+[INFO ] 2024-03-11 00:09:09.309 [AWT-EventQueue-0] OneCICD - Entering countLines
+[INFO ] 2024-03-11 00:09:09.310 [AWT-EventQueue-0] OneCICD -  getLyric: MAXLINES: 12 MAXWORDS: 63
+[INFO ] 2024-03-11 00:09:09.310 [AWT-EventQueue-0] OneCICD - getLyric: revised Max lines: 63 Max words: 63
+[INFO ] 2024-03-11 00:09:09.310 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:09.311 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:09.312 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:09.312 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:09.312 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:09.313 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:09.313 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:09.313 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:09.313 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:09.314 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:09.314 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:09.315 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:09.315 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:ifloop:24: dividerperform is now 16
+[INFO ] 2024-03-11 00:09:09.315 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:outof loop:dividerperform is now 16
+[INFO ] 2024-03-11 00:09:09.315 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:dividerperform is now 16
+[INFO ] 2024-03-11 00:09:09.315 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:09.316 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:09.316 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:09.316 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:09.316 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:09.317 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:09.317 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:09.317 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:09.317 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:09.318 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:09.318 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:09.318 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:09.318 [AWT-EventQueue-0] OneCICD - LyricFileName:onecicdplaybooks/awsservicesdirectory__amazontimestream.role
+[INFO ] 2024-03-11 00:09:09.318 [AWT-EventQueue-0] OneCICD - Entering countLines
+[INFO ] 2024-03-11 00:09:09.351 [AWT-EventQueue-0] OneCICD - Entering countLines
+[INFO ] 2024-03-11 00:09:09.352 [AWT-EventQueue-0] OneCICD -  getLyric: MAXLINES: 12 MAXWORDS: 63
+[INFO ] 2024-03-11 00:09:09.352 [AWT-EventQueue-0] OneCICD - getLyric: revised Max lines: 63 Max words: 63
+[INFO ] 2024-03-11 00:09:09.352 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:09.352 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:09.353 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:09.353 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:09.353 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:09.353 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:09.353 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:09.355 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:09.355 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:09.355 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:09.355 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:09.355 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:09.356 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:ifloop:24: dividerstudio is now 11
+[INFO ] 2024-03-11 00:09:09.356 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:outof loop:dividerstudio is now 11
+[INFO ] 2024-03-11 00:09:09.356 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:dividerstudio is now 11
+[INFO ] 2024-03-11 00:09:09.356 [AWT-EventQueue-0] OneCICD - Exited createUpdateLyricFile
+[INFO ] 2024-03-11 00:09:39.034 [AWT-EventQueue-0] OneCICDGetPropertyValues - Inside: OneCICDGetPropertyValues
+[INFO ] 2024-03-11 00:09:39.036 [AWT-EventQueue-0] OneCICDGetPropertyValues - properties file: config.properties found
+[INFO ] 2024-03-11 00:09:39.036 [AWT-EventQueue-0] OneCICDGetPropertyValues - licensor: 4FANZ found
+[INFO ] 2024-03-11 00:09:39.055 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-100:Inside: OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-11 00:09:39.056 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-101:compareConfigValuesWithEncrypted: Success
+[INFO ] 2024-03-11 00:09:39.056 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-111:Inside: OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-11 00:09:39.056 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-112:license_auth_status: PAIDLICENSEISVALIDLOCAL
+[INFO ] 2024-03-11 00:09:39.056 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-113:Remote Authentication Not Required
+[INFO ] 2024-03-11 00:09:39.056 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-121:is_license_valid_with_date_check: true
+[INFO ] 2024-03-11 00:09:39.058 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-100Today:2024-03-11
+[INFO ] 2024-03-11 00:09:39.058 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-101todayLD:2024-03-11
+[INFO ] 2024-03-11 00:09:39.058 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-104Inside checkDateAndVersionValidity: Issue Check :
+[INFO ] 2024-03-11 00:09:39.058 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-105is_license_valid_with_date_check:true
+[INFO ] 2024-03-11 00:09:39.058 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-122:Inside: OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-11 00:09:39.058 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-123:Inside checkDateAndVersionValidity
+[INFO ] 2024-03-11 00:09:39.058 [AWT-EventQueue-0] OneCICD - OCICDIC:Inside: OneCICD:initComponents:saveLyricButton.addActionListener
+[INFO ] 2024-03-11 00:09:39.058 [AWT-EventQueue-0] OneCICD - OCICDIC:computedLicenseEntitlement:OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-11 00:09:39.059 [AWT-EventQueue-0] OneCICD - OCICDIC:Inside: OneCICD:initComponents:saveLyricButton.addActionListener
+[INFO ] 2024-03-11 00:09:39.060 [AWT-EventQueue-0] OneCICD - OCICDIC:startButton.isEnabledOneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-11 00:09:39.060 [AWT-EventQueue-0] OneCICD - OCICDCULF:Entering OneCICD:createUpdateLyricFile
+[INFO ] 2024-03-11 00:09:39.060 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:39.061 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:39.062 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:39.062 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:39.062 [AWT-EventQueue-0] OneCICD - OCICDCULF:Entering createUpdateLyricFile
+[DEBUG] 2024-03-11 00:09:39.062 [AWT-EventQueue-0] OneCICD - onecicdplaybooks/awsservicesdirectory__amazontimestream.role
+[DEBUG] 2024-03-11 00:09:39.062 [AWT-EventQueue-0] OneCICD - onecicdnotes/awsservicesdirectory__amazontimestream.note
+[INFO ] 2024-03-11 00:09:39.063 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:39.064 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:39.064 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:39.064 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:39.064 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:39.065 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:39.065 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:39.065 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:39.065 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:39.068 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:39.068 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:39.068 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:39.068 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:39.068 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:39.069 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:39.069 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[DEBUG] 2024-03-11 00:09:39.069 [AWT-EventQueue-0] OneCICD - onecicdplaybooks/awsservicesdirectory__amazontimestream.role
+[DEBUG] 2024-03-11 00:09:39.069 [AWT-EventQueue-0] OneCICD - onecicdnotes/awsservicesdirectory__amazontimestream.note
+[DEBUG] 2024-03-11 00:09:39.071 [AWT-EventQueue-0] OneCICD - Notes file:onecicdnotes/awsservicesdirectory__amazontimestream.note Exists
+[DEBUG] 2024-03-11 00:09:40.452 [AWT-EventQueue-0] OneCICD - ANCICD Role TitleFile: onecicdplaybooks/awsservicesdirectory__amazontimestream.role Exists
+[DEBUG] 2024-03-11 00:09:41.635 [AWT-EventQueue-0] OneCICD - User Selected YES to Overwrite: onecicdplaybooks/awsservicesdirectory__amazontimestream.role
+[DEBUG] 2024-03-11 00:09:41.636 [AWT-EventQueue-0] OneCICD - User contents were overwritten to : onecicdplaybooks/awsservicesdirectory__amazontimestream.role
+[INFO ] 2024-03-11 00:09:42.912 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:42.913 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:42.913 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:42.913 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:42.915 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:42.916 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:42.916 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:42.916 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:42.916 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:42.916 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:42.917 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:42.917 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:42.917 [AWT-EventQueue-0] OneCICD - LyricFileName:onecicdplaybooks/awsservicesdirectory__amazontimestream.role
+[INFO ] 2024-03-11 00:09:42.919 [AWT-EventQueue-0] OneCICD - Entering countLines
+[INFO ] 2024-03-11 00:09:42.957 [AWT-EventQueue-0] OneCICD - Entering countLines
+[INFO ] 2024-03-11 00:09:42.958 [AWT-EventQueue-0] OneCICD -  getLyric: MAXLINES: 14 MAXWORDS: 140
+[INFO ] 2024-03-11 00:09:42.958 [AWT-EventQueue-0] OneCICD - getLyric: revised Max lines: 140 Max words: 140
+[INFO ] 2024-03-11 00:09:42.958 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:42.958 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:42.958 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:42.958 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:42.959 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:42.959 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:42.960 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:42.960 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:42.961 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:42.961 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:42.961 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:42.961 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:42.961 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:ifloop:24: dividerperform is now 16
+[INFO ] 2024-03-11 00:09:42.961 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:outof loop:dividerperform is now 16
+[INFO ] 2024-03-11 00:09:42.961 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:dividerperform is now 16
+[INFO ] 2024-03-11 00:09:42.962 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:42.962 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:42.963 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:42.963 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:42.963 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:42.963 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:42.963 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:42.963 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:42.963 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:42.964 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:42.964 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:42.964 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:42.964 [AWT-EventQueue-0] OneCICD - LyricFileName:onecicdplaybooks/awsservicesdirectory__amazontimestream.role
+[INFO ] 2024-03-11 00:09:42.965 [AWT-EventQueue-0] OneCICD - Entering countLines
+[INFO ] 2024-03-11 00:09:42.995 [AWT-EventQueue-0] OneCICD - Entering countLines
+[INFO ] 2024-03-11 00:09:42.996 [AWT-EventQueue-0] OneCICD -  getLyric: MAXLINES: 14 MAXWORDS: 140
+[INFO ] 2024-03-11 00:09:42.996 [AWT-EventQueue-0] OneCICD - getLyric: revised Max lines: 140 Max words: 140
+[INFO ] 2024-03-11 00:09:42.996 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:42.996 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:42.998 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:42.998 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:42.998 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:42.998 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:42.998 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:42.998 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:42.999 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:123
+[INFO ] 2024-03-11 00:09:42.999 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Timestream'
+[INFO ] 2024-03-11 00:09:42.999 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Timestream
+[INFO ] 2024-03-11 00:09:43.000 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazontimestream
+[INFO ] 2024-03-11 00:09:43.000 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:ifloop:24: dividerstudio is now 11
+[INFO ] 2024-03-11 00:09:43.000 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:outof loop:dividerstudio is now 11
+[INFO ] 2024-03-11 00:09:43.000 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:dividerstudio is now 11
+[INFO ] 2024-03-11 00:09:43.000 [AWT-EventQueue-0] OneCICD - Exited createUpdateLyricFile
+[INFO ] 2024-03-11 00:12:16.880 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 162 row !!
+[INFO ] 2024-03-11 00:12:16.881 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 161 row !!
+[INFO ] 2024-03-11 00:12:16.881 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 160 row !!
+[INFO ] 2024-03-11 00:12:16.881 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 159 row !!
+[INFO ] 2024-03-11 00:12:16.881 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 158 row !!
+[INFO ] 2024-03-11 00:12:16.883 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 157 row !!
+[INFO ] 2024-03-11 00:12:16.883 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 156 row !!
+[INFO ] 2024-03-11 00:12:16.883 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 155 row !!
+[INFO ] 2024-03-11 00:12:16.883 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 154 row !!
+[INFO ] 2024-03-11 00:12:16.883 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 153 row !!
+[INFO ] 2024-03-11 00:12:16.883 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 152 row !!
+[INFO ] 2024-03-11 00:12:16.883 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 151 row !!
+[INFO ] 2024-03-11 00:12:16.883 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 150 row !!
+[INFO ] 2024-03-11 00:12:16.883 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 149 row !!
+[INFO ] 2024-03-11 00:12:16.883 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 148 row !!
+[INFO ] 2024-03-11 00:12:16.883 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 147 row !!
+[INFO ] 2024-03-11 00:12:16.883 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 146 row !!
+[INFO ] 2024-03-11 00:12:16.884 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 145 row !!
+[INFO ] 2024-03-11 00:12:16.884 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 144 row !!
+[INFO ] 2024-03-11 00:12:16.884 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 143 row !!
+[INFO ] 2024-03-11 00:12:16.884 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 142 row !!
+[INFO ] 2024-03-11 00:12:16.884 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 141 row !!
+[INFO ] 2024-03-11 00:12:16.884 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 140 row !!
+[INFO ] 2024-03-11 00:12:16.884 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 139 row !!
+[INFO ] 2024-03-11 00:12:16.884 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 138 row !!
+[INFO ] 2024-03-11 00:12:16.884 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 137 row !!
+[INFO ] 2024-03-11 00:12:16.884 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 136 row !!
+[INFO ] 2024-03-11 00:12:16.884 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 135 row !!
+[INFO ] 2024-03-11 00:12:16.884 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 134 row !!
+[INFO ] 2024-03-11 00:12:16.886 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 133 row !!
+[INFO ] 2024-03-11 00:12:16.886 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 132 row !!
+[INFO ] 2024-03-11 00:12:16.886 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 131 row !!
+[INFO ] 2024-03-11 00:12:16.886 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 130 row !!
+[INFO ] 2024-03-11 00:12:16.886 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 129 row !!
+[INFO ] 2024-03-11 00:12:16.886 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 128 row !!
+[INFO ] 2024-03-11 00:12:16.886 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 127 row !!
+[INFO ] 2024-03-11 00:12:16.886 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 126 row !!
+[INFO ] 2024-03-11 00:12:16.886 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 125 row !!
+[INFO ] 2024-03-11 00:12:16.886 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 124 row !!
+[INFO ] 2024-03-11 00:12:16.886 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 123 row !!
+[INFO ] 2024-03-11 00:12:16.886 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 122 row !!
+[INFO ] 2024-03-11 00:12:16.887 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 121 row !!
+[INFO ] 2024-03-11 00:12:16.887 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 120 row !!
+[INFO ] 2024-03-11 00:12:16.887 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 119 row !!
+[INFO ] 2024-03-11 00:12:16.887 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 118 row !!
+[INFO ] 2024-03-11 00:12:16.887 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 117 row !!
+[INFO ] 2024-03-11 00:12:16.887 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 116 row !!
+[INFO ] 2024-03-11 00:12:16.887 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 115 row !!
+[INFO ] 2024-03-11 00:12:16.887 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 114 row !!
+[INFO ] 2024-03-11 00:12:16.887 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 113 row !!
+[INFO ] 2024-03-11 00:12:16.887 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 112 row !!
+[INFO ] 2024-03-11 00:12:16.887 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 111 row !!
+[INFO ] 2024-03-11 00:12:16.887 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 110 row !!
+[INFO ] 2024-03-11 00:12:16.888 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 109 row !!
+[INFO ] 2024-03-11 00:12:16.889 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 108 row !!
+[INFO ] 2024-03-11 00:12:16.889 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 107 row !!
+[INFO ] 2024-03-11 00:12:16.889 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 106 row !!
+[INFO ] 2024-03-11 00:12:16.889 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 105 row !!
+[INFO ] 2024-03-11 00:12:16.889 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 104 row !!
+[INFO ] 2024-03-11 00:12:16.889 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 103 row !!
+[INFO ] 2024-03-11 00:12:16.889 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 102 row !!
+[INFO ] 2024-03-11 00:12:16.889 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 101 row !!
+[INFO ] 2024-03-11 00:12:16.889 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 100 row !!
+[INFO ] 2024-03-11 00:12:16.889 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 99 row !!
+[INFO ] 2024-03-11 00:12:16.889 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 98 row !!
+[INFO ] 2024-03-11 00:12:16.890 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 97 row !!
+[INFO ] 2024-03-11 00:12:16.890 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 96 row !!
+[INFO ] 2024-03-11 00:12:16.890 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 95 row !!
+[INFO ] 2024-03-11 00:12:16.890 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 94 row !!
+[INFO ] 2024-03-11 00:12:16.890 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 93 row !!
+[INFO ] 2024-03-11 00:12:16.890 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 92 row !!
+[INFO ] 2024-03-11 00:12:16.890 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 91 row !!
+[INFO ] 2024-03-11 00:12:16.890 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 90 row !!
+[INFO ] 2024-03-11 00:12:16.890 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 89 row !!
+[INFO ] 2024-03-11 00:12:16.890 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 88 row !!
+[INFO ] 2024-03-11 00:12:16.890 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 87 row !!
+[INFO ] 2024-03-11 00:12:16.890 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 86 row !!
+[INFO ] 2024-03-11 00:12:16.891 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 85 row !!
+[INFO ] 2024-03-11 00:12:16.891 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 84 row !!
+[INFO ] 2024-03-11 00:12:16.891 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 83 row !!
+[INFO ] 2024-03-11 00:12:16.891 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 82 row !!
+[INFO ] 2024-03-11 00:12:16.891 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 81 row !!
+[INFO ] 2024-03-11 00:12:16.891 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 80 row !!
+[INFO ] 2024-03-11 00:12:16.891 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 79 row !!
+[INFO ] 2024-03-11 00:12:16.891 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 78 row !!
+[INFO ] 2024-03-11 00:12:16.891 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 77 row !!
+[INFO ] 2024-03-11 00:12:16.891 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 76 row !!
+[INFO ] 2024-03-11 00:12:16.892 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 75 row !!
+[INFO ] 2024-03-11 00:12:16.892 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 74 row !!
+[INFO ] 2024-03-11 00:12:16.893 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 73 row !!
+[INFO ] 2024-03-11 00:12:16.893 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 72 row !!
+[INFO ] 2024-03-11 00:12:16.893 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 71 row !!
+[INFO ] 2024-03-11 00:12:16.893 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 70 row !!
+[INFO ] 2024-03-11 00:12:16.893 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 69 row !!
+[INFO ] 2024-03-11 00:12:16.893 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 68 row !!
+[INFO ] 2024-03-11 00:12:16.893 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 67 row !!
+[INFO ] 2024-03-11 00:12:16.893 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 66 row !!
+[INFO ] 2024-03-11 00:12:16.893 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 65 row !!
+[INFO ] 2024-03-11 00:12:16.893 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 64 row !!
+[INFO ] 2024-03-11 00:12:16.893 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 63 row !!
+[INFO ] 2024-03-11 00:12:16.893 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 62 row !!
+[INFO ] 2024-03-11 00:12:16.894 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 61 row !!
+[INFO ] 2024-03-11 00:12:16.894 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 60 row !!
+[INFO ] 2024-03-11 00:12:16.894 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 59 row !!
+[INFO ] 2024-03-11 00:12:16.894 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 58 row !!
+[INFO ] 2024-03-11 00:12:16.894 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 57 row !!
+[INFO ] 2024-03-11 00:12:16.894 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 56 row !!
+[INFO ] 2024-03-11 00:12:16.894 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 55 row !!
+[INFO ] 2024-03-11 00:12:16.894 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 54 row !!
+[INFO ] 2024-03-11 00:12:16.894 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 53 row !!
+[INFO ] 2024-03-11 00:12:16.894 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 52 row !!
+[INFO ] 2024-03-11 00:12:16.894 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 51 row !!
+[INFO ] 2024-03-11 00:12:16.894 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 50 row !!
+[INFO ] 2024-03-11 00:12:16.895 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 49 row !!
+[INFO ] 2024-03-11 00:12:16.895 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 48 row !!
+[INFO ] 2024-03-11 00:12:16.895 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 47 row !!
+[INFO ] 2024-03-11 00:12:16.895 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 46 row !!
+[INFO ] 2024-03-11 00:12:16.895 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 45 row !!
+[INFO ] 2024-03-11 00:12:16.895 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 44 row !!
+[INFO ] 2024-03-11 00:12:16.895 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 43 row !!
+[INFO ] 2024-03-11 00:12:16.895 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 42 row !!
+[INFO ] 2024-03-11 00:12:16.895 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 41 row !!
+[INFO ] 2024-03-11 00:12:16.895 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 40 row !!
+[INFO ] 2024-03-11 00:12:16.895 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 39 row !!
+[INFO ] 2024-03-11 00:12:16.895 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 38 row !!
+[INFO ] 2024-03-11 00:12:16.896 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 37 row !!
+[INFO ] 2024-03-11 00:12:16.896 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 36 row !!
+[INFO ] 2024-03-11 00:12:16.896 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 35 row !!
+[INFO ] 2024-03-11 00:12:16.896 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 34 row !!
+[INFO ] 2024-03-11 00:12:16.896 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 33 row !!
+[INFO ] 2024-03-11 00:12:16.896 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 32 row !!
+[INFO ] 2024-03-11 00:12:16.896 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 31 row !!
+[INFO ] 2024-03-11 00:12:16.896 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 30 row !!
+[INFO ] 2024-03-11 00:12:16.896 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 29 row !!
+[INFO ] 2024-03-11 00:12:16.896 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 28 row !!
+[INFO ] 2024-03-11 00:12:16.896 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 27 row !!
+[INFO ] 2024-03-11 00:12:16.896 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 26 row !!
+[INFO ] 2024-03-11 00:12:16.897 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 25 row !!
+[INFO ] 2024-03-11 00:12:16.897 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 24 row !!
+[INFO ] 2024-03-11 00:12:16.897 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 23 row !!
+[INFO ] 2024-03-11 00:12:16.897 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 22 row !!
+[INFO ] 2024-03-11 00:12:16.897 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 21 row !!
+[INFO ] 2024-03-11 00:12:16.897 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 20 row !!
+[INFO ] 2024-03-11 00:12:16.897 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 19 row !!
+[INFO ] 2024-03-11 00:12:16.897 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 18 row !!
+[INFO ] 2024-03-11 00:12:16.897 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 17 row !!
+[INFO ] 2024-03-11 00:12:16.897 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 16 row !!
+[INFO ] 2024-03-11 00:12:16.897 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 15 row !!
+[INFO ] 2024-03-11 00:12:16.897 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 14 row !!
+[INFO ] 2024-03-11 00:12:16.898 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 13 row !!
+[INFO ] 2024-03-11 00:12:16.898 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 12 row !!
+[INFO ] 2024-03-11 00:12:16.898 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 11 row !!
+[INFO ] 2024-03-11 00:12:16.898 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 10 row !!
+[INFO ] 2024-03-11 00:12:16.898 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 9 row !!
+[INFO ] 2024-03-11 00:12:16.898 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 8 row !!
+[INFO ] 2024-03-11 00:12:16.898 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 7 row !!
+[INFO ] 2024-03-11 00:12:16.898 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 6 row !!
+[INFO ] 2024-03-11 00:12:16.898 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 5 row !!
+[INFO ] 2024-03-11 00:12:16.898 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 4 row !!
+[INFO ] 2024-03-11 00:12:16.898 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 3 row !!
+[INFO ] 2024-03-11 00:12:16.898 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 2 row !!
+[INFO ] 2024-03-11 00:12:16.899 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 1 row !!
+[INFO ] 2024-03-11 00:12:16.899 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 0 row !!
+[INFO ] 2024-03-11 00:12:16.900 [AWT-EventQueue-0] OneCICD - SELECT songid as ANCICDRoleID,moviename as PlayBookName,songtitle as ANCICDRole,singername1 as DeployRole1,singername2 as DeployRole2,singername3 as DeployRole3,singername4 as DeployRole4 from ANCICDPLAYBOOKTOCS order by moviename
+[INFO ] 2024-03-11 00:12:16.901 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 6 row !!
+[INFO ] 2024-03-11 00:12:16.901 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 5 row !!
+[INFO ] 2024-03-11 00:12:16.901 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 4 row !!
+[INFO ] 2024-03-11 00:12:16.901 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 3 row !!
+[INFO ] 2024-03-11 00:12:16.901 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 2 row !!
+[INFO ] 2024-03-11 00:12:16.901 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 1 row !!
+[INFO ] 2024-03-11 00:12:16.901 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 0 row !!
+[INFO ] 2024-03-11 00:12:16.903 [AWT-EventQueue-0] OneCICD - SELECT id PlayBookID, movieAlbumName as PlayBookName,releaseYear Provider ,movieDirector as DeployEnv,musicDirector as Cluster,lyricsComposer as BuildType ,movieProducer as Region from ANCICDROLES where ISACTIVE = TRUE  order by movieAlbumName
+[INFO ] 2024-03-11 00:12:42.878 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:12:42.880 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:12:42.883 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:12:42.883 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:12:42.883 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:12:42.883 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:12:42.883 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:12:42.885 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:12:42.885 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:12:42.885 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:12:42.885 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:12:42.885 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:12:42.885 [AWT-EventQueue-0] OneCICD - LyricFileName:onecicdplaybooks/awsservicesdirectory__amazonneptune.role
+[INFO ] 2024-03-11 00:12:42.886 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:ifloop:24: dividerstudio is now 11
+[INFO ] 2024-03-11 00:12:42.886 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:outof loop:dividerstudio is now 11
+[INFO ] 2024-03-11 00:12:42.886 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:dividerstudio is now 11
+[INFO ] 2024-03-11 00:13:20.561 [AWT-EventQueue-0] OneCICDGetPropertyValues - Inside: OneCICDGetPropertyValues
+[INFO ] 2024-03-11 00:13:20.563 [AWT-EventQueue-0] OneCICDGetPropertyValues - properties file: config.properties found
+[INFO ] 2024-03-11 00:13:20.563 [AWT-EventQueue-0] OneCICDGetPropertyValues - licensor: 4FANZ found
+[INFO ] 2024-03-11 00:13:20.587 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-100:Inside: OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-11 00:13:20.587 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-101:compareConfigValuesWithEncrypted: Success
+[INFO ] 2024-03-11 00:13:20.587 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-111:Inside: OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-11 00:13:20.587 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-112:license_auth_status: PAIDLICENSEISVALIDLOCAL
+[INFO ] 2024-03-11 00:13:20.587 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-113:Remote Authentication Not Required
+[INFO ] 2024-03-11 00:13:20.587 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-121:is_license_valid_with_date_check: true
+[INFO ] 2024-03-11 00:13:20.590 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-100Today:2024-03-11
+[INFO ] 2024-03-11 00:13:20.590 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-101todayLD:2024-03-11
+[INFO ] 2024-03-11 00:13:20.590 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-104Inside checkDateAndVersionValidity: Issue Check :
+[INFO ] 2024-03-11 00:13:20.590 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-105is_license_valid_with_date_check:true
+[INFO ] 2024-03-11 00:13:20.590 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-122:Inside: OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-11 00:13:20.590 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-123:Inside checkDateAndVersionValidity
+[INFO ] 2024-03-11 00:13:20.590 [AWT-EventQueue-0] OneCICD - OCICDIC:Inside: OneCICD:initComponents:saveLyricButton.addActionListener
+[INFO ] 2024-03-11 00:13:20.590 [AWT-EventQueue-0] OneCICD - OCICDIC:computedLicenseEntitlement:OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-11 00:13:20.590 [AWT-EventQueue-0] OneCICD - OCICDIC:Inside: OneCICD:initComponents:saveLyricButton.addActionListener
+[INFO ] 2024-03-11 00:13:20.592 [AWT-EventQueue-0] OneCICD - OCICDIC:startButton.isEnabledOneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-11 00:13:20.592 [AWT-EventQueue-0] OneCICD - OCICDCULF:Entering OneCICD:createUpdateLyricFile
+[INFO ] 2024-03-11 00:13:20.592 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:13:20.593 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:13:20.593 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:13:20.593 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:13:20.593 [AWT-EventQueue-0] OneCICD - OCICDCULF:Entering createUpdateLyricFile
+[DEBUG] 2024-03-11 00:13:20.593 [AWT-EventQueue-0] OneCICD - onecicdplaybooks/awsservicesdirectory__amazonneptune.role
+[DEBUG] 2024-03-11 00:13:20.593 [AWT-EventQueue-0] OneCICD - onecicdnotes/awsservicesdirectory__amazontimestream.note
+[INFO ] 2024-03-11 00:13:20.595 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:13:20.595 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:13:20.596 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:13:20.596 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:13:20.596 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:13:20.596 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:13:20.597 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:13:20.597 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:13:20.597 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:13:20.599 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:13:20.599 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:13:20.600 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:13:20.600 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:13:20.600 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:13:20.600 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:13:20.600 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[DEBUG] 2024-03-11 00:13:20.600 [AWT-EventQueue-0] OneCICD - onecicdplaybooks/awsservicesdirectory__amazonneptune.role
+[DEBUG] 2024-03-11 00:13:20.600 [AWT-EventQueue-0] OneCICD - onecicdnotes/awsservicesdirectory__amazonneptune.note
+[DEBUG] 2024-03-11 00:13:20.602 [AWT-EventQueue-0] OneCICD -  Blank Notes file:onecicdnotes/awsservicesdirectory__amazonneptune.note Created
+[INFO ] 2024-03-11 00:13:21.978 [AWT-EventQueue-0] OneCICD - Exited createUpdateLyricFile
+[DEBUG] 2024-03-11 00:13:21.979 [AWT-EventQueue-0] OneCICD - ANCICDRoleFile:onecicdplaybooks/awsservicesdirectory__amazonneptune.roledoes not exist.. creating..
+[DEBUG] 2024-03-11 00:13:21.979 [AWT-EventQueue-0] OneCICD - User contents were written to :onecicdplaybooks/awsservicesdirectory__amazonneptune.role
+[INFO ] 2024-03-11 00:13:22.009 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:13:22.009 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:13:22.010 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:13:22.010 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:13:22.010 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:13:22.011 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:13:22.012 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:13:22.012 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:13:22.012 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:13:22.012 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:13:22.012 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:13:22.013 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:13:22.013 [AWT-EventQueue-0] OneCICD - LyricFileName:onecicdplaybooks/awsservicesdirectory__amazonneptune.role
+[INFO ] 2024-03-11 00:13:22.013 [AWT-EventQueue-0] OneCICD - Entering countLines
+[INFO ] 2024-03-11 00:13:22.054 [AWT-EventQueue-0] OneCICD - Entering countLines
+[INFO ] 2024-03-11 00:13:22.056 [AWT-EventQueue-0] OneCICD -  getLyric: MAXLINES: 4 MAXWORDS: 59
+[INFO ] 2024-03-11 00:13:22.056 [AWT-EventQueue-0] OneCICD - getLyric: revised Max lines: 59 Max words: 59
+[INFO ] 2024-03-11 00:13:22.056 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:13:22.056 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:13:22.056 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:13:22.057 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:13:22.057 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:13:22.057 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:13:22.057 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:13:22.058 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:13:22.058 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:13:22.058 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:13:22.059 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:13:22.059 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:13:22.059 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:ifloop:24: dividerperform is now 16
+[INFO ] 2024-03-11 00:13:22.059 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:outof loop:dividerperform is now 16
+[INFO ] 2024-03-11 00:13:22.059 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:dividerperform is now 16
+[INFO ] 2024-03-11 00:13:22.059 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:13:22.060 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:13:22.060 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:13:22.060 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:13:22.060 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:13:22.060 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:13:22.060 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:13:22.060 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:13:22.060 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:13:22.061 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:13:22.061 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:13:22.061 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:13:22.061 [AWT-EventQueue-0] OneCICD - LyricFileName:onecicdplaybooks/awsservicesdirectory__amazonneptune.role
+[INFO ] 2024-03-11 00:13:22.062 [AWT-EventQueue-0] OneCICD - Entering countLines
+[INFO ] 2024-03-11 00:13:22.094 [AWT-EventQueue-0] OneCICD - Entering countLines
+[INFO ] 2024-03-11 00:13:22.094 [AWT-EventQueue-0] OneCICD -  getLyric: MAXLINES: 4 MAXWORDS: 59
+[INFO ] 2024-03-11 00:13:22.094 [AWT-EventQueue-0] OneCICD - getLyric: revised Max lines: 59 Max words: 59
+[INFO ] 2024-03-11 00:13:22.095 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:13:22.095 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:13:22.095 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:13:22.096 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:13:22.096 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:13:22.097 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:13:22.097 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:13:22.097 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:13:22.097 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:13:22.098 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:13:22.098 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:13:22.098 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:13:22.099 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:ifloop:24: dividerstudio is now 11
+[INFO ] 2024-03-11 00:13:22.099 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:outof loop:dividerstudio is now 11
+[INFO ] 2024-03-11 00:13:22.099 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:dividerstudio is now 11
+[INFO ] 2024-03-11 00:13:22.099 [AWT-EventQueue-0] OneCICD - Exited createUpdateLyricFile
+[INFO ] 2024-03-11 00:13:23.995 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:13:23.996 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:13:23.997 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:13:23.997 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:13:23.997 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:13:24.000 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:13:24.000 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:13:24.000 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:13:24.000 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:13:24.001 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:13:24.001 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:13:24.001 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:13:24.001 [AWT-EventQueue-0] OneCICD - LyricFileName:onecicdplaybooks/awsservicesdirectory__amazonneptune.role
+[INFO ] 2024-03-11 00:13:24.002 [AWT-EventQueue-0] OneCICD - Entering countLines
+[INFO ] 2024-03-11 00:13:24.043 [AWT-EventQueue-0] OneCICD - Entering countLines
+[INFO ] 2024-03-11 00:13:24.044 [AWT-EventQueue-0] OneCICD -  getLyric: MAXLINES: 4 MAXWORDS: 59
+[INFO ] 2024-03-11 00:13:24.044 [AWT-EventQueue-0] OneCICD - getLyric: revised Max lines: 59 Max words: 59
+[INFO ] 2024-03-11 00:13:24.044 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:13:24.044 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:13:24.045 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:13:24.045 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:13:24.045 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:13:24.045 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:13:24.045 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:13:24.046 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:13:24.047 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:13:24.047 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:13:24.047 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:13:24.047 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:13:24.047 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:ifloop:24: dividerstudio is now 11
+[INFO ] 2024-03-11 00:13:24.047 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:outof loop:dividerstudio is now 11
+[INFO ] 2024-03-11 00:13:24.047 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:dividerstudio is now 11
+[INFO ] 2024-03-11 00:14:13.343 [AWT-EventQueue-0] OneCICDGetPropertyValues - Inside: OneCICDGetPropertyValues
+[INFO ] 2024-03-11 00:14:13.346 [AWT-EventQueue-0] OneCICDGetPropertyValues - properties file: config.properties found
+[INFO ] 2024-03-11 00:14:13.346 [AWT-EventQueue-0] OneCICDGetPropertyValues - licensor: 4FANZ found
+[INFO ] 2024-03-11 00:14:13.355 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-100:Inside: OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-11 00:14:13.355 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-101:compareConfigValuesWithEncrypted: Success
+[INFO ] 2024-03-11 00:14:13.355 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-111:Inside: OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-11 00:14:13.355 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-112:license_auth_status: PAIDLICENSEISVALIDLOCAL
+[INFO ] 2024-03-11 00:14:13.355 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-113:Remote Authentication Not Required
+[INFO ] 2024-03-11 00:14:13.355 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-121:is_license_valid_with_date_check: true
+[INFO ] 2024-03-11 00:14:13.355 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-100Today:2024-03-11
+[INFO ] 2024-03-11 00:14:13.356 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-101todayLD:2024-03-11
+[INFO ] 2024-03-11 00:14:13.356 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-104Inside checkDateAndVersionValidity: Issue Check :
+[INFO ] 2024-03-11 00:14:13.356 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-105is_license_valid_with_date_check:true
+[INFO ] 2024-03-11 00:14:13.356 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-122:Inside: OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-11 00:14:13.356 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-123:Inside checkDateAndVersionValidity
+[INFO ] 2024-03-11 00:14:13.356 [AWT-EventQueue-0] OneCICD - OCICDIC:Inside: OneCICD:initComponents:saveLyricButton.addActionListener
+[INFO ] 2024-03-11 00:14:13.356 [AWT-EventQueue-0] OneCICD - OCICDIC:computedLicenseEntitlement:OneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-11 00:14:13.356 [AWT-EventQueue-0] OneCICD - OCICDIC:Inside: OneCICD:initComponents:saveLyricButton.addActionListener
+[INFO ] 2024-03-11 00:14:13.356 [AWT-EventQueue-0] OneCICD - OCICDIC:startButton.isEnabledOneCICDLicense:computedLicenseEntitlement
+[INFO ] 2024-03-11 00:14:13.357 [AWT-EventQueue-0] OneCICD - OCICDCULF:Entering OneCICD:createUpdateLyricFile
+[INFO ] 2024-03-11 00:14:13.357 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:14:13.358 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:14:13.358 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:14:13.358 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:14:13.358 [AWT-EventQueue-0] OneCICD - OCICDCULF:Entering createUpdateLyricFile
+[DEBUG] 2024-03-11 00:14:13.358 [AWT-EventQueue-0] OneCICD - onecicdplaybooks/awsservicesdirectory__amazonneptune.role
+[DEBUG] 2024-03-11 00:14:13.358 [AWT-EventQueue-0] OneCICD - onecicdnotes/awsservicesdirectory__amazonneptune.note
+[INFO ] 2024-03-11 00:14:13.358 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:14:13.360 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:14:13.360 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:14:13.360 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:14:13.360 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:14:13.360 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:14:13.360 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:14:13.360 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:14:13.360 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:14:13.361 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:14:13.362 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:14:13.362 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:14:13.362 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:14:13.362 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:14:13.362 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:14:13.362 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[DEBUG] 2024-03-11 00:14:13.362 [AWT-EventQueue-0] OneCICD - onecicdplaybooks/awsservicesdirectory__amazonneptune.role
+[DEBUG] 2024-03-11 00:14:13.362 [AWT-EventQueue-0] OneCICD - onecicdnotes/awsservicesdirectory__amazonneptune.note
+[DEBUG] 2024-03-11 00:14:13.362 [AWT-EventQueue-0] OneCICD - Notes file:onecicdnotes/awsservicesdirectory__amazonneptune.note Exists
+[DEBUG] 2024-03-11 00:14:14.927 [AWT-EventQueue-0] OneCICD - ANCICD Role TitleFile: onecicdplaybooks/awsservicesdirectory__amazonneptune.role Exists
+[DEBUG] 2024-03-11 00:14:15.863 [AWT-EventQueue-0] OneCICD - User Selected YES to Overwrite: onecicdplaybooks/awsservicesdirectory__amazonneptune.role
+[DEBUG] 2024-03-11 00:14:15.865 [AWT-EventQueue-0] OneCICD - User contents were overwritten to : onecicdplaybooks/awsservicesdirectory__amazonneptune.role
+[INFO ] 2024-03-11 00:14:17.460 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:14:17.461 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:14:17.461 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:14:17.461 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:14:17.461 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:14:17.463 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:14:17.463 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:14:17.463 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:14:17.464 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:14:17.464 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:14:17.464 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:14:17.464 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:14:17.464 [AWT-EventQueue-0] OneCICD - LyricFileName:onecicdplaybooks/awsservicesdirectory__amazonneptune.role
+[INFO ] 2024-03-11 00:14:17.464 [AWT-EventQueue-0] OneCICD - Entering countLines
+[INFO ] 2024-03-11 00:14:17.510 [AWT-EventQueue-0] OneCICD - Entering countLines
+[INFO ] 2024-03-11 00:14:17.510 [AWT-EventQueue-0] OneCICD -  getLyric: MAXLINES: 12 MAXWORDS: 186
+[INFO ] 2024-03-11 00:14:17.510 [AWT-EventQueue-0] OneCICD - getLyric: revised Max lines: 186 Max words: 186
+[INFO ] 2024-03-11 00:14:17.510 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:14:17.511 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:14:17.511 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:14:17.511 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:14:17.511 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:14:17.512 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:14:17.512 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:14:17.513 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:14:17.513 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:14:17.513 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:14:17.514 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:14:17.514 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:14:17.514 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:ifloop:24: dividerperform is now 16
+[INFO ] 2024-03-11 00:14:17.514 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:outof loop:dividerperform is now 16
+[INFO ] 2024-03-11 00:14:17.514 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:dividerperform is now 16
+[INFO ] 2024-03-11 00:14:17.514 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:14:17.515 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:14:17.515 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:14:17.515 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:14:17.515 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:14:17.515 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:14:17.515 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:14:17.515 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:14:17.515 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:14:17.516 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:14:17.516 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:14:17.516 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:14:17.516 [AWT-EventQueue-0] OneCICD - LyricFileName:onecicdplaybooks/awsservicesdirectory__amazonneptune.role
+[INFO ] 2024-03-11 00:14:17.517 [AWT-EventQueue-0] OneCICD - Entering countLines
+[INFO ] 2024-03-11 00:14:17.551 [AWT-EventQueue-0] OneCICD - Entering countLines
+[INFO ] 2024-03-11 00:14:17.551 [AWT-EventQueue-0] OneCICD -  getLyric: MAXLINES: 12 MAXWORDS: 186
+[INFO ] 2024-03-11 00:14:17.551 [AWT-EventQueue-0] OneCICD - getLyric: revised Max lines: 186 Max words: 186
+[INFO ] 2024-03-11 00:14:17.551 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:14:17.552 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:14:17.552 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:14:17.553 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:14:17.553 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:14:17.553 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:14:17.553 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:14:17.554 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:14:17.554 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:109
+[INFO ] 2024-03-11 00:14:17.554 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'Amazon Neptune'
+[INFO ] 2024-03-11 00:14:17.554 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:Amazon Neptune
+[INFO ] 2024-03-11 00:14:17.554 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_amazonneptune
+[INFO ] 2024-03-11 00:14:17.555 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:ifloop:24: dividerstudio is now 11
+[INFO ] 2024-03-11 00:14:17.555 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:outof loop:dividerstudio is now 11
+[INFO ] 2024-03-11 00:14:17.555 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:dividerstudio is now 11
+[INFO ] 2024-03-11 00:14:17.555 [AWT-EventQueue-0] OneCICD - Exited createUpdateLyricFile

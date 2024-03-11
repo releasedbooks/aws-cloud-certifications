@@ -1,0 +1,15 @@
+Fast, scalable, and serverless time-series database
+
+Amazon Timestream is a fast, scalable database service that offers fully managed, purpose-built time-series database engines for workloads from low-latency queries to large-scale data ingestion. These engines give you a single time-series database service that supports the range of time-series workloads from low-latency queries and large-scale data ingestion. As it is fully managed, Timestream frees up your time as it removes time-consuming database infrastructure tasks such as installation, upgrades, storage, replication for high availability, and manual backups.
+
+Scale with ease
+Quickly analyze time-series data using SQL, with built-in analytic functions for smoothing, approximation, and interpolation
+
+
+Fully managed
+Serverless database processes millions of queries per day and automatically scales as needed
+
+
+Trusted security
+Simplify data lifecycle management with storage tiers, including a memory store for recent data and a magnetic store for historical data
+https://aws.amazon.com/timestream/

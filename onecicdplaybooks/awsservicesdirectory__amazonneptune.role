@@ -1,0 +1,13 @@
+High-performance graph analytics and serverless database for superior scalability and availability
+
+Amazon Neptune Database is a serverless graph database designed for superior scalability and availability. Neptune Database provides built-in security, continuous backups, and integrations with other AWS services. Neptune Global Database offers cross-region data replication for low-latency reads and writes, disaster recovery, and scalability for globally distributed applications.
+
+Scale your graphs with unlimited vertices and edges and more than 100,000 queries per second for the most demanding applications. Storage scales up to 128 TiB per cluster and read scales up to 15 replicas per cluster.
+
+Find insights faster by analyzing graph datasets with tens of billions of relationships within seconds using built-in algorithms, and perform similarity searches on vectors stored along with your graph for gen AI apps.
+
+Secure your applications with features including ACID transactions, automated backups (with Neptune Database), Snapshots, point-in-time recovery, encryption at transit/rest, IAM support and AWS KMS.
+
+Provide high availability for your applications and make your data durable across three Availability Zones in an AWS Region. Improve your disaster recovery posture and access local reads with Amazon Neptune Global Database.
+
+https://aws.amazon.com/neptune/
