@@ -1,0 +1,9 @@
+A company runs a multi-tier web application that hosts news content. The application runs on Amazon EC2 instances behind an Application Load Balancer. The instances run in an EC2 Auto Scaling group across multiple Availability Zones and use an Amazon Aurora database. A solutions architect needs to make the application more resilient to periodic increases in request rates.
+
+Which architecture should the solutions architect implement? (Choose two.)
+
+A. Add AWS Shield.
+B. Add Aurora Replica.
+C. Add AWS Direct Connect.
+D. Add AWS Global Accelerator.
+E. Add an Amazon CloudFront distribution in front of the Application Load Balancer.

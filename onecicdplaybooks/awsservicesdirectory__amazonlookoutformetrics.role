@@ -1,0 +1,14 @@
+Lookout for Metrics uses ML to detect and diagnose anomalies within business and operational data.
+
+Automatically detect anomalies within metrics and identify their root causes
+
+Reduce false positives and use machine learning (ML) to accurately detect anomalies in business metrics.
+
+Diagnose the root cause of anomalies by grouping related outliers together. Summarize root causes and rank them by severity.
+
+Seamlessly integrate AWS databases, storage services, and third-party SaaS applications to monitor metrics and detect anomalies.
+
+Automate customized alerts and actions when anomalies are detected.
+
+https://aws.amazon.com/lookout-for-metrics/
+

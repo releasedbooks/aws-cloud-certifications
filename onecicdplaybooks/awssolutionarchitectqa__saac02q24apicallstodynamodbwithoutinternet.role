@@ -1,0 +1,9 @@
+A solutions architect needs to ensure that API calls to Amazon DynamoDB from Amazon EC2 instances in a VPC do not traverse the internet.
+
+What should the solutions architect do to accomplish this? (Choose two.)
+
+A. Create a route table entry for the endpoint.
+B. Create a gateway endpoint for DynamoDB.
+C. Create a new DynamoDB table that uses the endpoint.
+D. Create an ENI for the endpoint in each of the subnets of the VPC.
+E. Create a security group entry in the default security group to provide access.

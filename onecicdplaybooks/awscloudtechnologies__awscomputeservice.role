@@ -1,0 +1,41 @@
+In this module, you will learn about core services offered by Aws. 
+
+Here you will explore more about service offerings such as Aws compute storage network databases. 
+
+Aws offers cost effective and flexible compute services to encounter customer demand. 
+
+Aws storage services reduce cost offers better innovation and increased agility for the business. 
+
+Aws networking services offers broadest and deepest set of networking and content delivery services in the world. With Aws 
+
+Aws offers a range of purpose built databases which will allow you to innovate faster, save more and grow in no time. 
+
+In this module, you will learn about different Aws compute services such as easy to auto scaling ALB. Aws provides secured compute capacity with different sizes in the form of EC2.
+
+auto scaling supports in meeting the demand by adding and removing the compute capacity. Aws batch provide fully managed batch processing of jobs at any scale. Aws provides a variety of container services such as ECs, EKS, ECR and Fargate elastic container services helps in running containers in a secured and reliable way. Elastic Containers services are fully managed open source services which is supported by Aws. 
+
+Aws. Elastic container registry is used for managing storing and deploying the container images. 
+
+Aws Fargate supports serverless computing way for multiple containers, serverless services removes infrastructure management task from customer end and allow them to think only about building and running application services. For example, customers can use LAMBDA function which is event driven. Aws SNS is a fully managed service which will be used for communication between any application and person. Aws provides support for on premises data center as well as hybrid model of computing under its different services. 
+
+Aws outpost is a perfect example of hybrid experience in which Aws infrastructure and its services can be used on the premise of the organization. 
+
+AwS Snow family offers support for the customers who are running their workload in a non data center environment. Snow family has three members named as Snow Cone, snowball and snowmobile based on the data size and number of CPUS required, These devices can be used. 
+
+Amazon EC2  is a very fundamental service of Aws. The capability of EC2 service includes the ability to launch EC two instances or virtual machines. A customized operating environment known as Amazon machine image or AM data. In the EC2 instances are stored on virtual disks known as EBS volumes. EC two allows to automatically scale our applications with the use of the auto scaling feature. traffic between multiple EC two instances can be managed easily with the help of elastic load balancer. based on the hardware configuration required AWS provides a vast range of ec two instance types, 
+
+instance types are broadly classified into five types based on the hardware configurations which are general purpose instance, compute optimized memory optimized, accelerated computing instance and storage optimized. 
+
+So what is auto scaling auto scaling service allows you to maintain high availability of your application by automatically adding or removing EC two instances as per the need of the application or as stated by the user with EC two auto scaling, you can significantly improve the fault tolerance of your application. As unhealthy instances can be replaced by a new one with auto scaling, auto scaling can lower costs by adding resources when needed and removing them when not needed. 
+
+So what is Aws elastic load balancer or ELB ? ELB is a scalable solution from AWS which can automatically distribute traffic among multiple targets. The targets can be EC two instances, containers IP addresses and lambda functions. Elastic load balancer orb can handle the variable traffic load of your application either in a single AZ or multiple AZS in a region. 
+
+Aws provides three kinds of elastic load balancer. Users can opt for a specific one based on the type of workload. 
+
+First is application load balancer which is a layer seven load balancer and is suited for web applications with HTTP and HTTPS traffic. 
+
+Next is the network load balancer which is a layer four load balancer and is used for providing ultra high performance for TCP and UDP traffic.
+
+Classic Load balancer is a previous generation load balancer for http https and TCP traffic application and network load balancer are newer generations of load balancers offered by AWS and classis load balancer is a previous generation load balancer.
+
+ And AWS recommends to use either application or network load balancer. In this module, you learned about different Aws compute services such as easy to auto scaling B.

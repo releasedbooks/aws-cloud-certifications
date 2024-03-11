@@ -1,0 +1,26 @@
+Visual workflows for distributed applications
+
+AWS Step Functions is a serverless orchestration service that lets you integrate with AWS Lambda functions and other AWS services to build business-critical applications. Through Step Functions' graphical console, you see your application’s workflow as a series of event-driven steps.
+
+Step Functions is based on state machines and tasks. In Step Functions, a workflow is called a state machine, which is a series of event-driven steps. Each step in a workflow is called a state. A Task state represents a unit of work that another AWS service, such as AWS Lambda, performs. A Task state can call any AWS service or API.
+
+With Step Functions' built-in controls, you examine the state of each step in your workflow to make sure that your application runs in order and as expected. Depending on your use case, you can have Step Functions call AWS services, such as Lambda, to perform tasks. You can create workflows that process and publish machine learning models. You can have Step Functions control AWS services, such as AWS Glue, to create extract, transform, and load (ETL) workflows. You also can create long-running, automated workflows for applications that require human interaction.
+
+AWS Step Functions is a visual workflow service that helps developers use AWS services to build distributed applications, automate processes, orchestrate microservices, and create data and machine learning (ML) pipelines.
+
+Use cases:
+
+Automate extract, transform, and load (ETL) processes:
+Ensure that multiple long-running ETL jobs run in order and complete successfully, without the need for manual orchestration.
+
+Orchestrate large-scale parallel workloads:
+Iterate over and process large data-sets such as security logs, transaction data, or image and video files.
+
+Orchestrate microservices:
+Combine multiple AWS Lambda functions into responsive serverless applications and microservices.
+
+Automate security and IT functions:
+Create automated workflows, including manual approval steps, for security incident response.
+
+https://aws.amazon.com/step-functions/
+https://aws.amazon.com/step-functions/

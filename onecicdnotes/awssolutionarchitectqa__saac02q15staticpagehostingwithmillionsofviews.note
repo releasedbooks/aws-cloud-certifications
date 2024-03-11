@@ -1,0 +1,35 @@
+Correct Answer: D
+Using Amazon S3 Origins, MediaPackage Channels, and Custom Origins for Web Distributions
+Using Amazon S3 Buckets for Your Origin:
+
+When you use Amazon S3 as an origin for your distribution, you place any objects that you want 
+CloudFront to deliver in an Amazon S3 bucket. You can use any method that is supported by 
+Amazon S3 to get your objects into Amazon S3, for example, the Amazon S3 console or API, or 
+a third-party tool. You can create a hierarchy in your bucket to store the objects, just as you 
+would with any other Amazon S3 bucket.
+
+Using an existing Amazon S3 bucket as your CloudFront origin server doesn't change the bucket 
+in any way; you can still use it as you normally would to store and access Amazon S3 objects 
+at the standard Amazon S3 price. You incur regular Amazon S3 charges for storing the objects in the bucket.
+
+Using Amazon S3 Buckets Configured as Website Endpoints for Your Origin:
+You can set up an Amazon S3 bucket that is configured as a website endpoint as custom origin 
+with CloudFront.
+
+When you configure your CloudFront distribution, for the origin, enter the Amazon S3 static 
+website hosting endpoint for your bucket. This value appears in the Amazon S3 console, on the 
+Properties tab, in the Static website hosting pane. 
+For example: http://bucket-name.s3-website-region.amazonaws.com
+
+For more information about specifying Amazon S3 static website endpoints, see Website endpoints 
+in the Amazon Simple Storage Service Developer Guide.
+
+When you specify the bucket name in this format as your origin, you can use Amazon S3 redirects
+and Amazon S3 custom error documents. For more information about Amazon S3 features, see the 
+
+Amazon S3 documentation.
+Using an Amazon S3 bucket as your CloudFront origin server doesn't change it in any way. You can still use it as you normally would and you incur regular
+
+Amazon S3 charges.
+Reference:
+https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/DownloadDistS3AndCustomOrigins.html

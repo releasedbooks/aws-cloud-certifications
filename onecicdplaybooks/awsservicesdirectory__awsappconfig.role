@@ -1,0 +1,112 @@
+AWS AppConfig is a capability of AWS Systems Manager.
+
+AWS AppConfig feature flags and dynamic configurations help software builders quickly and securely adjust application behavior in production environments without full code deployments. AWS AppConfig speeds up software release frequency, improves application resiliency, and helps you address emergent issues more quickly. With feature flags, you can gradually release new capabilities to users and measure the impact of those changes before fully deploying the new capabilities to all users. With operational flags and dynamic configurations, you can update block lists, allow lists, throttling limits, logging verbosity, and perform other operational tuning to quickly respond to issues in production environments.
+
+Improve efficiency and release changes faster
+
+Using feature flags with new capabilities speeds up the process of releasing changes to production environments. Instead of relying on long-lived development branches that require complicated merges before a release, feature flags enable you to write software using trunk-based development. Feature flags enable you to safely roll out pre-release code in a CI/CD pipeline that is hidden from users. When you are ready to release the changes, you can update the feature flag without deploying new code. After the launch is complete, the flag can still function as a block switch to disable a new feature or capability without the need to roll back the code deployment.
+
+Avoid unintended changes or failures with built-in safety features
+
+AWS AppConfig offers the following safety features to help you avoid enabling feature flags or updating configuration data that could cause application failures.
+
+Validators: A validator ensures that your configuration data is syntactically and semantically correct before deploying the changes to production environments.
+
+Deployment strategies: A deployment strategy enables you to slowly release changes to production environments over minutes or hours.
+
+Monitoring and automatic rollback: AWS AppConfig integrates with Amazon CloudWatch to monitor changes to your applications. If your application becomes unhealthy because of a bad configuration change and that change triggers an alarm in CloudWatch, AWS AppConfig automatically rolls back the change to minimize impact on your application users.
+
+Secure and scalable feature flag deployments
+
+AWS AppConfig integrates with AWS Identity and Access Management (IAM) to provide fine-grain, role-based access to the service. AWS AppConfig also integrates with AWS Key Management Service (AWS KMS) for encryption and AWS CloudTrail for auditing. Before being released to external customers, all AWS AppConfig safety controls were initially developed with and validated by internal customers that use the service at scale.
+
+AWS AppConfig use cases
+
+Despite the fact that application configuration content can vary greatly from application to application, AWS AppConfig supports the following use cases, which cover a broad spectrum of customer needs:
+
+Feature flags and toggles – Safely release new capabilities to your customers in a controlled environment. Instantly roll back changes if you experience a problem.
+
+Application tuning – Carefully introduce application changes while testing the impact of those changes with users in production environments.
+
+Allow list or block list – Control access to premium features or instantly block specific users without deploying new code.
+
+Centralized configuration storage – Keep your configuration data organized and consistent across all of your workloads. You can use AWS AppConfig to deploy configuration data stored in the AWS AppConfig hosted configuration store, AWS Secrets Manager, Systems Manager Parameter Store, or Amazon S3.
+
+Benefits of using AWS AppConfig
+
+AWS AppConfig offers the following benefits for your organization:
+
+Reduce unexpected down time for your customers
+
+AWS AppConfig reduces application downtime by enabling you to create rules to validate your configuration. Configurations that aren't valid can't be deployed. AWS AppConfig provides the following two options for validating configurations:
+
+For syntactic validation, you can use a JSON schema. AWS AppConfig validates your configuration by using the JSON schema to ensure that configuration changes adhere to the application requirements.
+
+For semantic validation, AWS AppConfig can call an AWS Lambda function that you own to validate the data within your configuration.
+
+Quickly deploy changes across a set of targets
+
+AWS AppConfig simplifies the administration of applications at scale by deploying configuration changes from a central location. AWS AppConfig supports configurations stored in the AWS AppConfig hosted configuration store, Systems Manager Parameter Store, Systems Manager (SSM) documents, and Amazon S3. You can use AWS AppConfig with applications hosted on EC2 instances, AWS Lambda, containers, mobile applications, or IoT devices.
+
+Targets don't need to be configured with the Systems Manager SSM Agent or the IAM instance profile required by other Systems Manager capabilities. This means that AWS AppConfig works with unmanaged instances.
+
+Update applications without interruptions
+
+AWS AppConfig deploys configuration changes to your targets at runtime without a heavy-weight build process or taking your targets out of service.
+
+Control deployment of changes across your application
+
+When deploying configuration changes to your targets, AWS AppConfig enables you to minimize risk by using a deployment strategy. Deployment strategies allow you to slowly roll out configuration changes to your fleet. If you experience a problem during the deployment, you can roll back the configuration change before it reaches the majority of yours hosts.
+
+How AWS AppConfig works
+
+This section provides a high-level description of how AWS AppConfig works and how you get started.
+
+1. Identify configuration values in code you want to manage in the cloud
+Before you start creating AWS AppConfig artifacts, we recommend you identify configuration data in your code that you want to dynamically manage using AWS AppConfig. Good examples include feature flags or toggles, allow and block lists, logging verbosity, service limits, and throttling rules, to name a few.
+
+If your configuration data already exists in the cloud, you can take advantage of AWS AppConfig validation, deployment, and extension features to further streamline configuration data management.
+
+2. Create an application namespace
+To create a namespace, you create an AWS AppConfig artifact called an application. An application is simply an organizational construct like a folder.
+
+3. Create environments
+For each AWS AppConfig application, you define one or more environments. An environment is a logical grouping of targets, such as applications in a Beta or Production environment, AWS Lambda functions, or containers. You can also define environments for application subcomponents, such as the Web, Mobile, and Back-end.
+
+You can configure Amazon CloudWatch alarms for each environment. The system monitors alarms during a configuration deployment. If an alarm is triggered, the system rolls back the configuration.
+
+4. Create a configuration profile
+A configuration profile includes, among other things, a URI that enables AWS AppConfig to locate your configuration data in its stored location and a profile type. AWS AppConfig supports two configuration profile types: feature flags and freeform configurations. Feature flag configuration profiles store their data in the AWS AppConfig hosted configuration store and the URI is simply hosted. For freeform configuration profiles, you can store your data in the AWS AppConfig hosted configuration store or any AWS service that integrates with AWS AppConfig, as described in Creating a free form configuration profile in AWS AppConfig.
+
+A configuration profile can also include optional validators to ensure your configuration data is syntactically and semantically correct. AWS AppConfig performs a check using the validators when you start a deployment. If any errors are detected, the deployment rolls back to the previous configuration data.
+
+5. Deploy configuration data
+When you create a new deployment, you specify the following:
+
+An application ID
+
+A configuration profile ID
+
+A configuration version
+
+An environment ID where you want to deploy the configuration data
+
+A deployment strategy ID that defines how fast you want the changes to take effect
+
+When you call the StartDeployment API action, AWS AppConfig performs the following tasks:
+
+Retrieves the configuration data from the underlying data store by using the location URI in the configuration profile.
+
+Verifies the configuration data is syntactically and semantically correct by using the validators you specified when you created your configuration profile.
+
+Caches a copy of the data so it is ready to be retrieved by your application. This cached copy is called the deployed data.
+
+6. Retrieve the configuration
+You can configure AWS AppConfig Agent as a local host and have the agent poll AWS AppConfig for configuration updates. The agent calls the StartConfigurationSession and GetLatestConfiguration API actions and caches your configuration data locally. To retrieve the data, your application makes an HTTP call to the localhost server. AWS AppConfig Agent supports several use cases, as described in Simplified retrieval methods.
+
+If AWS AppConfig Agent isn't supported for your use case, you can configure your application to poll AWS AppConfig for configuration updates by directly calling the StartConfigurationSession and GetLatestConfiguration API actions.
+
+https://docs.aws.amazon.com/appconfig/latest/userguide/what-is-appconfig.html
+
+
+

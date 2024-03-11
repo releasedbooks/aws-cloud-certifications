@@ -1,0 +1,28 @@
+✔ Collect, process, and analyze real-time, streaming data so you can get timely insights and react quickly to new information.
+
+✔ Ingest real-time data such as video, audio, application logs, website clickstreams, and IoT telemetry data for machine learning, analytics, and other applications.
+
+✔ Process and analyze data as it arrives and respond instantly instead of having to wait until all your data is collected before the processing can begin.
+
+Use Cases:
+Build video analytics applications:
+Securely stream video from camera-equipped devices in homes and public places to AWS and use these video streams for security monitoring, face detection,and other analytics.
+
+Evolve from batch to real-time analytics:
+Perform real-time analytics on data that has been traditionally analyzed using batch processing. For example, sharing data between different applications and streaming extract-transform-load.
+
+Build real-time applications:
+Use Kinesis for real-time applications such as application monitoring, fraud detection, and live leader-boards to learn about what your customers and applications are doing right now and react promptly.
+
+Analyze IoT device data:
+Process streaming data from IoT devices and use the data to send real-time alerts or take other actions programmatically when a sensor exceeds certain operating thresholds.
+
+Zillow uses Kinesis Data Streams to collect public record data and MLS listings, and then update home value estimates in near real-time so home buyers and sellers can get the most up to date home value estimates. Zillow also sends the same data to its Amazon S3 data lake using Amazon Data Firehose, so that all the applications can work with the most recent information.
+
+Netflix uses Amazon Kinesis to monitor the communications between all of its applications so it can detect and fix issues quickly, ensuring high service uptime and availability to its customers.
+
+Veritone Inc. (NASDAQ: VERI), a leading artificial intelligence (AI) and cognitive solutions provider, combines a powerful suite of applications with over 120 best-in-class cognitive engines including facial and object recognition, transcription, geolocation, sentiment detection, and translation. With Amazon Kinesis Video Streams, customers can easily stream their content to AWS, where Veritone processes and enriches their content with AI, in near real-time and at scale. Within seconds of capture, Kinesis Video Streams and Veritone make every frame of video or second of audio searchable for objects, faces, brands, keywords and more.
+
+Sonos uses Amazon Kinesis to monitor 1 billion events per week from wireless hi-fi audio devices, and delivers better listening experience to its customers.
+
+https://aws.amazon.com/pm/kinesis

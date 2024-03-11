@@ -1,0 +1,5 @@
+Correct Answer: C
+"block access for certain countries." You can use geo restriction, also known as geo blocking, 
+to prevent users in specific geographic locations from accessing content that you're distributing through a CloudFront web distribution.
+Reference:
+https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/georestrictions.html

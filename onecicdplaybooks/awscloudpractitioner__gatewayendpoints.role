@@ -1,0 +1,9 @@
+Gateway endpoints -
+A gateway endpoint is a gateway that you specify as a target for a route in your route table 
+for traffic destined to a supported AWS service. The following AWS services are supported:
+
+Amazon S3 -
+
+DynamoDB -
+Reference:
+https://docs.aws.amazon.com/vpc/latest/userguide/vpc-endpoints.html

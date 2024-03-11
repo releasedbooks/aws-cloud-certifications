@@ -1,0 +1,20 @@
+Correct Answer: BD
+Cross Region EC2 AMI Copy -
+We know that you want to build applications that span AWS Regions and we're working to provide you with the services and features needed to do so. We started out by launching the EBS Snapshot Copy feature late last year. This feature gave you the ability to copy a snapshot from Region to Region with just a couple of clicks. In addition, last month we made a significant reduction (26% to 83%) in the cost of transferring data between AWS Regions, making it less expensive to operate in more than one AWS region.
+
+Today we are introducing a new feature: Amazon Machine Image (AMI) Copy. AMI Copy enables you to easily copy your Amazon Machine Images between AWS
+Regions. AMI Copy helps enable several key scenarios including:
+Simple and Consistent Multi-Region Deployment ג€" You can copy an AMI from one region to another, enabling you to easily launch consistent instances based on the same AMI into different regions.
+Scalability  
+You can more easily design and build world-scale applications that meet the needs of your users, regardless of their location.
+Performance 
+You can increase performance by distributing your application and locating critical components of your application in closer proximity to your users.
+
+You can also take advantage of region-specific features such as instance types or other AWS services.
+Even Higher Availability 
+
+You can design and deploy applications across AWS regions, to increase availability.
+
+Once the new AMI is in an Available state the copy is complete.
+Reference:
+https://aws.amazon.com/blogs/aws/ec2-ami-copy-between-regions/

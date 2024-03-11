@@ -1,0 +1,19 @@
+✔ Amazon SageMaker JumpStart provides a set of solutions for the most common use cases that can be deployed readily with just a few clicks.
+✔ Prepare, build, train, and deploy high-quality machine learning models quickly by bringing together a broad set of capabilities purpose-built for machine learning.
+✔ Amazon SageMaker is available for free, for 2 months, as part of the AWS Free Tier program. Users can get access to 250 hours per month of ml.t3.medium notebooks usage with the Free Tier.
+
+Amazon SageMaker JumpStart helps you quickly and easily get started with machine learning. The solutions are fully customizable and supports one-click deployment and fine-tuning of more than 150 popular open source models such as natural language processing, object detection, and image classification models. Popular solutions include:
+
+Extract & Analyze Data:
+Automatically extract, process, and analyze documents for more accurate investigation and faster decision making.
+
+Fraud Detection:
+Automate detection of suspicious transactions faster and alert your customers to reduce potential financial loss.
+
+Churn Prediction:
+Predict likelihood of customer churn and improve retention by honing in on likely abandoners and taking remedial actions such as promotional offers.
+
+Personalized Recommendations:
+Deliver customized, unique experiences to customers to improve customer satisfaction and grow your business rapidly.
+
+https://aws.amazon.com/pm/sagemaker

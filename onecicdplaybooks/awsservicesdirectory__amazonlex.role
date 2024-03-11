@@ -1,0 +1,23 @@
+✔ Easily add AI that understands intent, maintains context, and automates simple tasks across many languages.
+✔ Design and deploy omnichannel conversational AI in one click, without worrying about hardware or infrastructure.
+
+✔ Connect seamlessly with other AWS services to query data, execute business logic, monitor performance, and more.
+
+✔ Pay only for speech and text requests with no upfront costs or minimum fees.
+
+Use Cases:
+
+Build virtual agents and voice assistants:
+Enable self-service capabilities with virtual contact center agents and interactive voice response (IVR). Users can change a password or schedule an appointment without speaking to a human agent.
+
+Automate informational responses:
+Design conversational solutions that provide responses to frequently asked questions. Improve Connect & Lex conversation flows for tech support, HR benefits, or finance with natural language search for FAQs powered by Amazon Kendra.
+
+Improve productivity with application bots:
+Automate basic user tasks in your application with powerful chatbots. Seamlessly connect with other enterprise software through AWS Lambda and maintain granular access control through IAM.
+
+Maximize the information trapped in transcripts:
+Design chatbots using existing contact center transcripts. Reduce design time from weeks to hours and accelerate bot deployment.
+
+https://aws.amazon.com/pm/lex
+Read the blog »

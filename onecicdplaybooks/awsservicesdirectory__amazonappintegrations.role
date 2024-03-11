@@ -1,0 +1,31 @@
+The Amazon AppIntegrations service enables you to configure and reuse connections to external applications.
+https://docs.aws.amazon.com/appintegrations/latest/APIReference/Welcome.html
+POST /dataIntegrations HTTP/1.1
+Content-type: application/json
+
+{
+   "ClientToken": "string",
+   "Description": "string",
+   "FileConfiguration": { 
+      "Filters": { 
+         "string" : [ "string" ]
+      },
+      "Folders": [ "string" ]
+   },
+   "KmsKey": "string",
+   "Name": "string",
+   "ObjectConfiguration": { 
+      "string" : { 
+         "string" : [ "string" ]
+      }
+   },
+   "ScheduleConfig": { 
+      "FirstExecutionFrom": "string",
+      "Object": "string",
+      "ScheduleExpression": "string"
+   },
+   "SourceURI": "string",
+   "Tags": { 
+      "string" : "string" 
+   }
+}

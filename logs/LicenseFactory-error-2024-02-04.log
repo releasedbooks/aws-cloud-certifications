@@ -1,0 +1,9 @@
+[INFO ] 2024-02-04 23:51:49.310 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:9
+[INFO ] 2024-02-04 23:51:49.312 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'AWS Storage Service'
+[INFO ] 2024-02-04 23:51:49.315 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Cloud Technologies ANCICDRoleName:AWS Storage Service
+[INFO ] 2024-02-04 23:51:49.315 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awscloudtechnologies_4fanz_awsstorageservice
+[INFO ] 2024-02-04 23:51:49.315 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:9
+[INFO ] 2024-02-04 23:51:49.315 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'AWS Storage Service'
+[INFO ] 2024-02-04 23:51:49.315 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Cloud Technologies ANCICDRoleName:AWS Storage Service
+[INFO ] 2024-02-04 23:51:49.315 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awscloudtechnologies_4fanz_awsstorageservice
+[INFO ] 2024-02-04 23:51:49.315 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:9

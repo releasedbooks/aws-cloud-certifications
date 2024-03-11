@@ -1,0 +1,9 @@
+Correct Answer: C
+Scheduled Scaling for Amazon EC2 Auto Scaling
+Scheduled scaling allows you to set your own scaling schedule. 
+For example, let's say that every week the traffic to your web application starts to increase 
+on Wednesday, remains high on Thursday, and starts to decrease on Friday. 
+You can plan your scaling actions based on the predictable traffic patterns of your 
+web application. Scaling actions are performed automatically as a function of time and date.
+Reference:
+https://docs.aws.amazon.com/autoscaling/ec2/userguide/schedule_time.html

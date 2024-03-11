@@ -1,0 +1,13 @@
+A company's application is running on Amazon EC2 instances in a single Region. In the event of a disaster, a solutions architect needs to ensure that the resources can also be deployed to a second Region.
+
+Which combination of actions should the solutions architect take to accomplish this? (Choose two.)
+
+A. Detach a volume on an EC2 instance and copy it to Amazon S3.
+
+B. Launch a new EC2 instance from an Amazon Machine Image (AMI) in a new Region.
+
+C. Launch a new EC2 instance in a new Region and copy a volume from Amazon S3 to the new instance.
+
+D. Copy an Amazon Machine Image (AMI) of an EC2 instance and specify a different Region for the destination.
+
+E. Copy an Amazon Elastic Block Store (Amazon EBS) volume from Amazon S3 and launch an EC2 instance in the destination Region using that EBS volume.

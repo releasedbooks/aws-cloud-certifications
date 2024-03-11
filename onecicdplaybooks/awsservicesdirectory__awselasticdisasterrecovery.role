@@ -1,0 +1,13 @@
+Scalable, cost-effective application recovery to AWS
+
+Save costs by removing idle recovery site resources, and pay for your full disaster recovery site only when needed.
+
+Recover your applications within minutes, at their most up-to-date state or from a previous point in time.
+
+Use a unified process to test, recover, and fail back a wide range of applications, without specialized skillsets.
+
+Automate actions such as configuring your environment, cleaning up drill resources or activating monitoring tools on launched instances.
+
+AWS Elastic Disaster Recovery (AWS DRS) minimizes downtime and data loss with fast, reliable recovery of on-premises and cloud-based applications using affordable storage, minimal compute, and point-in-time recovery.
+
+https://aws.amazon.com/disaster-recovery/

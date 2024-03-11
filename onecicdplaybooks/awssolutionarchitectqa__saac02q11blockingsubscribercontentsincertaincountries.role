@@ -1,0 +1,8 @@
+A company serves content to its subscribers across the world using an application running on AWS. The application has several Amazon EC2 instances in a private subnet behind an Application Load Balancer (ALB). Due to a recent change in copyright restrictions, the chief information officer (CIO) wants to block access for certain countries.
+
+Which action will meet these requirements?
+
+A. Modify the ALB security group to deny incoming traffic from blocked countries.
+B. Modify the security group for EC2 instances to deny incoming traffic from blocked countries.
+C. Use Amazon CloudFront to serve the application and deny access to blocked countries.
+D. Use ALB listener rules to return access denied responses to incoming traffic from blocked countries.

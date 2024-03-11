@@ -1,0 +1,26 @@
+Amplify is everything you need to build full-stack web and mobile apps on AWS. Build and host your frontend, add features like auth and storage, connect to real-time data sources, deploy, and scale to millions of users.
+
+Everything you need to build apps in the cloud
+Simply configure a backend and connect it to your frontend in just a few lines of code. No cloud expertise required.
+
+Build cloud-connected UI
+Accelerate frontend UI development with dozens of pre-built, themeable, and responsive cloud-connected React components.
+
+Connect your app to data
+Build secure, real-time GraphQL APIs backed by AWS databases quickly and easily.
+
+Add Authentication and authorization
+Enable secure authentication flows with email/social sign-up and multi-factor auth. Control data and file access with fine-grained authorization rules.
+
+Store and manage app content and data
+Store user-created content and application data in Amazon S3 buckets. Enable file uploading and display with pre-built components.
+
+Fully managed CI/CD and hosting
+Deploy your frontend, fast
+Easily deploy and host fast, secure, and reliable websites and server-side rendered apps in a few clicks. 
+
+Full-stack CI/CD workflows
+Connect your git branches to automatically deploy frontend and backend changes in a single workflow.
+
+https://aws.amazon.com/amplify
+https://aws.amazon.com/amplify

@@ -1,0 +1,11 @@
+A company is planning to migrate a business-critical dataset to Amazon S3. The current solution design uses a single S3 bucket in the us-east-1 Region with versioning enabled to store the dataset. The company's disaster recovery policy states that all data multiple AWS Regions.
+
+How should a solutions architect design the S3 solution?
+
+A. Create an additional S3 bucket in another Region and configure cross-Region replication.
+
+B. Create an additional S3 bucket in another Region and configure cross-origin resource sharing (CORS).
+
+C. Create an additional S3 bucket with versioning in another Region and configure cross-Region replication.
+
+D. Create an additional S3 bucket with versioning in another Region and configure cross-origin resource (CORS).

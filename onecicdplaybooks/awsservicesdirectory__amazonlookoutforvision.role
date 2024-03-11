@@ -1,0 +1,23 @@
+Spot product defects using computer vision to automate quality inspection
+Amazon Lookout for Vision is an ML service that uses computer vision to spot defects in manufactured products at scale.
+
+Easily create a machine learning (ML) model to spot anomalies from your live process line with as few as 30 images.
+
+Identify visual anomalies in real time to reduce and prevent defects and improve production quality.
+
+Prevent unplanned downtime and reduce operational costs by using visual inspection data to spot potential issues and take corrective action.
+
+Use cases:
+
+Detect part damage:
+Spot damage to a product’s surface quality, color, and shape during the fabrication and assembly process.
+
+PCB:
+Identify missing components
+Determine what’s missing based on the absence, presence, or placement of objects, like a missing capacitor in a printed circuit board.
+
+Silicon Wafer:
+Uncover process issues
+Detect defects with repeating patterns, such as repeated scratches in the same spot on a silicon wafer.
+
+https://aws.amazon.com/lookout-for-vision/

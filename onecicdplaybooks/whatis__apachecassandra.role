@@ -1,0 +1,24 @@
+Apache Cassandra is an open-source, NoSQL database designed to store data for applications that require fast read and write performance. For example, you can use Cassandra to store user profile information for online video games, device metadata for internet of things (IoT) applications, or records for events.
+
+Learn how Amazon Keyspaces (for Apache Cassandra) can help you run Cassandra workloads more easily by using a scalable, serverless, highly available, and fully managed Apache Cassandra-compatible database service.
+
+https://aws.amazon.com/keyspaces/what-is-cassandra/
+
+Cassandra data model:
+
+Cassandra is a nonrelational data store. You organize Cassandra data into keyspaces and tables. Keyspaces are collections of tables that you can use to represent table groupings, such as different system components, applications, or environments. Each table in Cassandra has a schema. Schemas define the columns within a table, and the data type of each column. Cassandra stores data within tables in rows. Each row in a table has a primary key which uniquely identifies the row within the table. Primary keys are composed of partition keys and optional clustering columns. Partition keys can be simple and made up of a single column, or rows can have compound partition keys composed from multiple columns. Rows also can have clustering columns. Cassandra uses clustering columns to sort rows within the same partition.
+
+Cassandra Query Language (CQL):
+
+You can read, write, update, and delete data from Cassandra by using the Cassandra Query Language (CQL). CQL is a flexible, SQL-like API that enables developers to execute data definition language (DDL) and data manipulation language (DML) statements. You use DDL statements to create and define resources. For example, the following DDL statement creates a table named books in a keyspace named bookstore with a primary key column of isbn.
+
+CREATE TABLE bookstore.books (
+	isbn text,
+	title text,
+	author text,
+	year_of_publication int
+	PRIMARY KEY (isbn)
+);
+You use DML statements to manipulate data in a table. For example, the following DML statement inserts a new row into books table.
+
+INSERT INTO bookstore.books (isbn, title, author, year_of_publication,) VALUES (‘0101010101010’, ‘The Long River’, ‘Jim Sozeb’,’1994’);

@@ -1,0 +1,7 @@
+A company is migrating from an on-premises infrastructure to the AWS Cloud. One of the company's applications stores files on a Windows file server farm that uses Distributed File System Replication (DFSR) to keep data in sync. A solutions architect needs to replace the file server farm.
+Which service should the solutions architect use?
+
+A. Amazon EFS
+B. Amazon FSx
+C. Amazon S3
+D. AWS Storage Gateway

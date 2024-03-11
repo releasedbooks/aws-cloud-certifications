@@ -1,0 +1,14 @@
+Improve resilience and performance with controlled experiments
+
+Find performance bottlenecks or other unknown weaknesses missed by traditional software tests.
+
+Define specific conditions to stop an experiment or roll back to the pre-experiment state.
+
+Run experiments in minutes using pre-built scenarios from the FIS Scenario Library.
+
+Get superior insights by generating real-world failure conditions, such as impaired performance of different resources.
+
+How it works
+Part of AWS Resilience Hub, AWS Fault Injection Service (FIS) is a fully managed service for running fault injection experiments to improve an application’s performance, observability, and resilience. FIS simplifies the process of setting up and running controlled fault injection experiments across a range of AWS services, so teams can build confidence in their application behavior.
+
+https://aws.amazon.com/fis/

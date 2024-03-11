@@ -1,0 +1,15 @@
+Correct Answer: B
+Amazon Elastic File System -
+Amazon Elastic File System (Amazon EFS) provides a simple, scalable, fully managed elastic NFS 
+file system for use with AWS Cloud services and on-premises resources. It is built to scale on 
+demand to petabytes without disrupting applications, growing and shrinking automatically as you 
+add and remove files, eliminating the need to provision and manage capacity to accommodate growth.
+
+Amazon EFS is designed to provide massively parallel shared access to thousands of Amazon EC2 instances, enabling your applications to achieve high levels of aggregate throughput and IOPS with consistent low latencies.
+
+Amazon EFS is well suited to support a broad spectrum of use cases from home directories to business-critical applications. Customers can use EFS to lift-and- shift existing enterprise applications to the AWS Cloud. Other use cases include: big data analytics, web serving and content management, application development and testing, media and entertainment workflows, database backups, and container storage.
+
+Amazon EFS is a regional service storing data within and across multiple Availability Zones (AZs) for high availability and durability. Amazon EC2 instances can access your file system across AZs, regions, and VPCs, while on-premises servers can access using AWS Direct Connect or AWS VPN.
+
+Reference:
+https://aws.amazon.com/efs/

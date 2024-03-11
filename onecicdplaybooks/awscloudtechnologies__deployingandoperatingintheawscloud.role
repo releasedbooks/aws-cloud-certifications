@@ -1,0 +1,14 @@
+Welcome to the module on different methods of deploying and operating in Aws cloud. 
+
+In this module, you will learn about different ways of operating in Aws cloud, different types of cloud deployment models and various connectivity options to Aws global network 
+
+AWS management console is a web application helps you to manage all the Aws resources. It is a single place to access the information you need to perform your Aws related tasks and has an option to protect it by two level authorization. First level is user name and password and MFA is the second level authorization. The Aws command line interface. AWS CLI is used to manage your AWS services using commands and your command line shall it is authorized by access key and secret key that you can download through my security credentials in AWS. I am services.
+ AWS software development kit AWS SDK is a set of language specific API enables you to access and manage Aws services Programmatically. it supports various programming languages like javascript, Python PHP dot net, Java Ruby etc. And it is also authorized by access key and secret key.
+
+All in cloud or cloud native deployment means cloud based application is completely deployed in cloud. In all parts of the application run in the cloud user application would be created in the cloud or been migrated from an existing infrastructure to utilize the benefits of the cloud.
+
+Hybrid deployment is a method to combine on premises infrastructure with cloud based infrastructure. It is considered by organizations which are invested on on premises and want to use AWS resources as well. 
+
+On premises deployment is deploying resources using your own on premises infrastructure using virtualization and resource management tools is also called as private cloud. Aws virtual private network used to establish a secure connection between your on premises networks and AWS global network. Using AWS VPN. Using AWS VPN, you can securely connect from remote offices or client devices to Aws global network. 
+
+Aws direct connect creates a dedicated network connection to Aws global network. It is the fastest way to access your Aws resources and moreover, your data traffic remains an Aws network while in transit and it never touches public internet. Aws direct connect is available at various location in the world to make connection. Aws is publicly available in internet under Aws dot amazon dot com and you can straight away connect to Aws global network from any computer which has access to a public internet. In this module, you have learnt different ways of operating in Aws cloud, different types of cloud deployment model and various connectivity options to AWS global network.

@@ -1,0 +1,2 @@
+AWS DMS can be used to migrate data from an on-premises database to a database in AWS. However, AWS DMS does not migrate the actual server to an EC2 instance.
+https://docs.aws.amazon.com/dms/latest/userguide/Welcome.html

@@ -1,0 +1,19 @@
+✔ Decouple and scale microservices, distributed systems, and serverless applications with a fully managed messaging queuing service.
+
+✔ Send, store, and receive messages between software components an any volume, without losing messages or requiring other service to be available.
+
+✔ Create Standard and FIFO (first-in-first-out) messaging queues for maximum throughput, best-effort ordering, and at-least-once delivery, or processing in the exact order messages are received.
+
+Benefits:
+
+Lower management burden:
+Manage all ongoing operations and underlying infrastructure needed to provide a highly available and scalable message queuing service
+
+Deliver messages reliably:
+Let you decouple application components so that they run and fail independently, increasing the overall fault tolerance of the system.
+
+Secure sensitive data:
+Exchange sensitive data between applications using server-side encryption (SSE) to encrypt each message body.
+
+Scale to meet demand:
+Leverage AWS to dynamically scale based on demand and pay only for what you use, which provides significant cost saving versus the “always-on” model.

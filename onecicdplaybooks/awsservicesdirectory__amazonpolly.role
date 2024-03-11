@@ -1,0 +1,7 @@
+Amazon Polly is a cloud service that converts text into lifelike speech. You can use Amazon Polly to develop applications that increase engagement and accessibility. Amazon Polly supports multiple languages and includes a variety of lifelike voices, so you can build speech-enabled applications that work in multiple locations and use the ideal voice for your customers. With Amazon Polly, you only pay for the text you synthesize. You can also cache and replay Amazon Polly’s generated speech at no additional cost.
+
+Amazon Polly offers many voice options, including: Long-form voices, which produce human-like, highly expressive, and emotionally adept voices, and Neural Text-to-Speech (NTTS) voices. These voices deliver ground-breaking improvements in speech quality through new machine learning technology, and offer the most natural and human-like text-to-speech voices possible. Neural TTS technology also supports a Newscaster speaking style that is tailored to news narration use cases.
+
+Common use cases for Amazon Polly include, but are not limited to, mobile applications such as newsreaders, games, eLearning platforms, accessibility applications for visually impaired people, and the rapidly growing segment of Internet of Things (IoT).
+
+https://docs.aws.amazon.com/polly/latest/dg/what-is.html

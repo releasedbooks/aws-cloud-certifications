@@ -1,0 +1,10 @@
+[INFO ] 2024-03-09 23:30:11.786 [AWT-EventQueue-0] OneCICD - Entering countLines
+[INFO ] 2024-03-09 23:30:11.843 [AWT-EventQueue-0] OneCICD - Entering countLines
+[INFO ] 2024-03-09 23:30:11.843 [AWT-EventQueue-0] OneCICD -  getLyric: MAXLINES: 25 MAXWORDS: 306
+[INFO ] 2024-03-09 23:30:11.843 [AWT-EventQueue-0] OneCICD - getLyric: revised Max lines: 306 Max words: 306
+[INFO ] 2024-03-09 23:30:11.843 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:61
+[INFO ] 2024-03-09 23:30:11.844 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'AWS Step Functions'
+[INFO ] 2024-03-09 23:30:11.844 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Services Directory ANCICDRoleName:AWS Step Functions
+[INFO ] 2024-03-09 23:30:11.844 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awsservicesdirectory_4fanz_awsstepfunctions
+[INFO ] 2024-03-09 23:30:11.844 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:61
+[INFO ] 2024-03-09 23:30:11.844 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'AWS Step Functions'

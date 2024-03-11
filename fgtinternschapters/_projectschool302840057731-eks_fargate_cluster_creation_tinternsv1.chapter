@@ -1,0 +1,121 @@
+Login to AWS Console and go to EKS service
+curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip" && unzip awscliv2.zip && sudo ./aws/install
+go to iam -> roles - create a rold fg_pod_execution_role_dev_4fanz
+edit the trust policy
+https://docs.aws.amazon.com/eks/latest/userguide/pod-execution-role.html
+https://docs.aws.amazon.com/eks/latest/userguide/fargate-getting-started.html
+create a cluster named dev-4fanz
+go to compute and create a fargate profile: fg-dev-4fanz-profile
+wait for it to be get created
+https://docs.aws.amazon.com/eks/latest/userguide/iam-roles-for-service-accounts.html
+
+export AWS_PROFILE=sitmkp
+
+ubuntu@4fanz-devops-devhub-01:~$ aws eks describe-cluster --region us-east-1 --name dev-4fanz
+{
+    "cluster": {
+        "name": "dev-4fanz",
+        "arn": "arn:aws:eks:us-east-1:302840057731:cluster/dev-4fanz",
+        "createdAt": 1662435201.0,
+        "version": "1.23",
+        "endpoint": "https://D6459341AC3681615781664049D82431.gr7.us-east-1.eks.amazonaws.com",
+        "roleArn": "arn:aws:iam::302840057731:role/FgElkAdmin",
+        "resourcesVpcConfig": {
+            "subnetIds": [
+                "subnet-0f0bd0eee846b3312",
+                "subnet-0760559b8177ff10b"
+            ],
+            "securityGroupIds": [
+                "sg-0b3ccfaef27549cdc"
+            ],
+            "clusterSecurityGroupId": "sg-0b8a9cae5d70738a6",
+            "vpcId": "vpc-0a008c3edd47cca66",
+            "endpointPublicAccess": true,
+            "endpointPrivateAccess": true,
+            "publicAccessCidrs": [
+                "0.0.0.0/0"
+            ]
+        },
+        "logging": {
+            "clusterLogging": [
+                {
+                    "types": [
+                        "api",
+                        "audit",
+                        "authenticator",
+                        "controllerManager",
+                        "scheduler"
+                    ],
+                    "enabled": false
+                }
+            ]
+        },
+        "identity": {
+            "oidc": {
+                "issuer": "https://oidc.eks.us-east-1.amazonaws.com/id/D6459341AC3681615781664049D82431"
+            }
+        },
+        "status": "ACTIVE",
+        "certificateAuthority": {
+            "data": "LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSUMvakNDQWVhZ0F3SUJBZ0lCQURBTkJna3Foa2lHOXcwQkFRc0ZBREFWTVJNd0VRWURWUVFERXdwcm=="
+        },
+        "platformVersion": "eks.1",
+        "tags": {
+            "Why": "Deploying 4FANZ PHP Images",
+            "When": "09-05-2022",
+            "Who": "Manoj Padhi"
+        }
+    }
+
+=====
+eksctl create iamserviceaccount --cluster dev-4fanz --namespace kube-system --name efs-csi-controller-sa --attach-policy-arn arn:aws:iam::302840057731:policy/AmazonEKS_EFS_CSI_Driver_Policy --approve --region us-east-1
+
+ubuntu@4fanz-devops-devhub-01:~$ kubectl describe sa -n kube-system efs-csi-controller-sa
+The connection to the server localhost:8080 was refused - did you specify the right host or port?
+
+
+Creating an IAM OIDC provider for your cluster
+ubuntu@4fanz-devops-devhub-01:~$ oidc_id=$(aws eks describe-cluster --name dev-4fanz --region us-east-1 --query "cluster.identity.oidc.issuer" --output text | cut -d '/' -f 5)
+ubuntu@4fanz-devops-devhub-01:~$ aws iam list-open-id-connect-providers | grep $oidc_id            "Arn": "arn:aws:iam::302840057731:oidc-provider/oidc.eks.us-east-1.amazonaws.com/id/D6459341AC3681615781664049D82431"
+ubuntu@4fanz-devops-devhub-01:~$ eksctl utils associate-iam-oidc-provider --cluster dev-4fanz --region us-east-1 --approve
+2022-09-07 04:41:04 [ℹ]  IAM Open ID Connect provider is already associated with cluster "dev-4fanz" in "us-east-1"
+ubuntu@4fanz-devops-devhub-01:~$ 
+
+====
+
+ubuntu@4fanz-devops-devhub-01:~$ aws eks update-kubeconfig --region us-east-1 --name dev-4fanz
+Added new context arn:aws:eks:us-east-1:302840057731:cluster/dev-4fanz to /home/ubuntu/.kube/config
+
+downgrade kubectl
+buntu@4fanz-devops-devhub-01:~$ kubectl version
+error: exec plugin: invalid apiVersion "client.authentication.k8s.io/v1alpha1"
+ubuntu@4fanz-devops-devhub-01:~$ curl -LO https://storage.googleapis.com/kubernetes-release/release/v1.23.6/bin/linux/amd64/kubectl mv ./kubectl /usr/local/bin/kubectl
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 44.4M  100 44.4M    0     0  3040k      0  0:00:14  0:00:14 --:--:-- 3022k
+curl: (6) Could not resolve host: mv
+curl: (6) Could not resolve host: 
+curl: (3) <url> malformed
+ubuntu@4fanz-devops-devhub-01:~$ curl -LO https://storage.googleapis.com/kubernetes-release/release/v1.23.6/bin/linux/amd64/kubectl 
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 44.4M  100 44.4M    0     0  3892k      0  0:00:11  0:00:11 --:--:-- 5753k
+ubuntu@4fanz-devops-devhub-01:~$ sudo  mv ./kubectl /usr/local/bin/kubectlubuntu@4fanz-devops-devhub-01:~$ /usr/local/bin/kubectl version
+-bash: /usr/local/bin/kubectl: Permission denied
+ubuntu@4fanz-devops-devhub-01:~$ sudo chmod +x /usr/local/bin/kubectl
+ubuntu@4fanz-devops-devhub-01:~$ /usr/local/bin/kubectl version
+Client Version: version.Info{Major:"1", Minor:"23", GitVersion:"v1.23.6", GitCommit:"ad3338546da947756e8a88aa6822e9c11e7eac22", GitTreeState:"clean", BuildDate:"2022-04-14T08:49:13Z", GoVersion:"go1.17.9", Compiler:"gc", Platform:"linux/amd64"}
+
+ubuntu@4fanz-devops-devhub-01:~$ aws sts get-caller-identity
+{
+    "UserId": "AIDAJDZ3MPU6FXCE64IS2",
+    "Account": "302840057731",
+    "Arn": "arn:aws:iam::302840057731:user/awsuser"
+}
+
+ubuntu@4fanz-devops-devhub-01:~$ aws eks update-kubeconfig --name dev-4fanz --region us-east-1 --role-arn arn:aws:iam::302840057731:user/awsuser
+Updated context arn:aws:eks:us-east-1:302840057731:cluster/dev-4fanz in /home/ubuntu/.kube/config
+
+
+}
+

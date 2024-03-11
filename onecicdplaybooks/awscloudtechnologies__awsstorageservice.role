@@ -1,0 +1,82 @@
+Object, file, and block storage
+
+Amazon Simple Storage Service (S3)
+Object storage with industry-leading scalability, availability, and security for you to store and retrieve any amount of data from anywhere.
+
+Amazon Elastic File System (EFS)
+A simple, serverless, elastic, set-and-forget file system for you to share file data without managing storage.
+
+Amazon FSx
+Fully managed, cost-effective file storage offering the capabilities and performance of popular commercial and open-source file systems.
+
+Amazon Elastic Block Store (EBS)
+Easy to use, high-performance block storage service for both throughput and transaction-intensive workloads at any scale.
+
+Amazon File Cache
+High-speed cache for datasets stored anywhere, accelerate cloud bursting workloads.
+
+
+In this module, you will learn about Amazon S3. Amazon elastic block store. Amazon S3 glacier, AWS snowball, Amazon elastic file system, Aws storage gateway.
+
+Amazon S3 are simple storage services used for storing objects. It offers industry leading scalability performance and security. S3 offers storage to all kinds of customer data has easy management features. Let's look at some of the cases, 
+
+backup and restore. S3 offers durable scalable and secure data backup and restore solutions, 
+
+disaster recovery. S3 offers cross region data replication through which you can easily recover the lost data 
+
+archive. S3 offers long term object storage at lower rates, 
+
+data lakes and big data analytics - You can accelerate big data analytics by building data lakes on S3 
+
+hybrid cloud storage. Connect your on premise applications to AWS storage using S3 storage, gateway, 
+
+cloud native applications. You can easily build cloud native applications using S3 and other AWS services at cheaper rates 
+
+based on the requirement. Customers have the flexibility to choose a suitable storage options. Types of storage available are 
+
+standard, a general storage for frequently accessed data 
+
+standard. IA less frequently accessed data which is long lived 
+
+one zone IA less frequently accessed but provides fast access 
+
+intelligent tier cost optimized storage solution where data is moved to automatically to more cost efficient access tier 
+
+glacier low cost archival solution with a very high percentage of durability, 
+
+Glacier Deep Archive is the lowest cost storage to support long term retention. 
+
+Outposts deliver object storage to Aws outposts environment. And on premise, 
+
+what is EBS? EBS are suitable for usage as primary storage volume for any databases file systems or any other applications which need raw and un formatted storage. EBS is a persistent block storage. In our specific to an availability zone, it can be attached only to one instance at a time. EBS volume size can range from one gigabyte to 16 gigabytes. Volumes can be backed up as snapshots for durability. It offers 99.999% availability and durability. You can encrypt data stored in EBS volumes if required and can create images or snapshots of data stored in EBS volumes. 
+
+Aws offers different types of volumes which differ in features like performance price etc. It is classified as SSD backed in HDD backed volumes.
+
+SSD backed volumes is further classified into es general purpose and EBS provision IOPS 
+
+HDD back volumes is also further classified into throughput optimized HDD and cold HDD. 
+
+Based on the business requirement, the organization can choose the suitable volume type when to use Amazon EBS. 
+
+You will explore the use cases that are associated to EBS. Amazon EBS provides high availability and high durability, block storage to reliably run enterprise applications. Amazon EBS scales with your performance needs to support your relational databases, business continuity where the data loss and recovery time should be minimal. Amazon EBS volumes provide consistent and low latency performance for running no SQL databases. Amazon EBS is ideal for big data analytics engines. Amazon EBS lets you scale easily with additional volumes to support growing file systems and media work flows. 
+
+Amazon S3 glacier is an archival storage solution from AWS data stored in S3 glacier is called as archives. It can store all kinds of data, photos, videos, documents, etc A single archive can go up to 40 terabytes. However, there's no limit on the number of archives you can store on Amazon S3 Glacier. Some of its features include a retrieval feature. 
+
+Amazon S3 Glacier offers three types of data retrieval, standard expedited and bulk retrievals, expedited, retrieval, fast tracks your retrieval and the data is available within five minutes with standard data is typically available within 3 to 5 hours. Bulk retrieval will allow you to retrieve petabytes of data from S3 glacier. 
+
+Amazon S3 glacier select feature allows you to run queries directly on S3 glacier. It's integrated with AWS snowball and direct connect to accelerate data movements and to establish high quality network connection. S3 glacier vault lock allows you to deploy and manage access controls on individual glacier vaults. Access control is managed by AWS. I am Amazon S3 glacier imports says three life cycle rules to automate the archival process. 
+
+Aws. Snowball. It is a low cost petabyte scale data transportation service. It is an edge computing data migration and edge storage device accelerates transporting large quantities of data into an out of AWS. Data is encrypted with 256 bit encryption keys. It can store data in up to 100 terabytes. It can be used during cloud migration, disaster recovery data center decommission and for content distribution. 
+
+Snowball service has two device types. The standard snowball snowball edge Amazon elastic file system delivers a serverless and simple file system which can be used with AWS cloud. In the resources present on premise, there is no need of any provisioning and it can scale to petabytes without affecting ongoing applications. It offers a simple interface to configure and create any sort of file system easily and quickly. 
+
+Efs has storage classes, standard I and one zone EFS is posi compliant in order to meet the customer's satisfaction. Discover financial services decided to store its data in Amazon. Efs. Efs allows Discover to implement a shared storage service that's fully managed in cloud native. This allowed the teams to store and retrieve very large data sets in EFS and share them whenever the demands came in. Use of EFS has greatly increased the scalability and security and has also reduced costs considerably. 
+
+Storage. Gateway is used to connect a on premise service or software appliances with the cloud. This provides a secure channel for communication between on premise it environment and infrastructure storage of Aws storage gateway service provides a cost effective secured and scalable data storage. Once the storage gateway is installed, it can be linked with your Aws account with the help of activation process. Then with the help of Aws management console, different gateway options can be created. 
+
+There are three kinds of storage, gateway, 
+file, gateway, tape, gateway and volume gateway. 
+
+In order to address the challenges faced. So leveraged storage gateway service from Aws. Aws provided a solution that allowed the university to save both cost and time. It reduced costs together with physical tapes, hardware refreshes, tape library support and off site storage solution also removed time consuming administration of physical tapes saving staff time reduced the risk by means of geographically remote backup for improved disaster recovery capabilities. So uploads around 30 terabytes to Aws for backup and it is keeping around 320 terabytes on Amazon Glacier through storage gateway. It just took three hours at most to set up the virtual tapes. We can now provision virtual tapes on Aws with the click of a button says Jesse Network service manager of SOU.
+
+https://aws.amazon.com/products/storage/

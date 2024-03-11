@@ -1,0 +1,18 @@
+Keeping track of security issues these days can be a full-time job. And the amount of attack vectors Amazon Web Services (AWS) accounts expose to the internet is rising with every new service they release. 
+
+In the past, AWS has introduced various services to assist with your investigations. Here are three familiar faces.
+
+You've got AWS CloudTrail, which logs all activity on your accounts occuring via API calls, the AWS command-line tool, and in the AWS console. 
+There’s Amazon VPC Flow Logs, an option introduced as part of Amazon VPC, their virtual private cloud. This logs all traffic coming into and out of your virtual network interfaces attached to your virtual machines in Amazon EC2. 
+And then there’s Amazon GuardDuty, a service specifically designed to intelligently detect threats in your AWS account. It has the ability to continuously monitor your AWS account for malicious activity and unauthorized behavior. 
+These three services do well to individually log what’s happening in your AWS account. But when it comes time for investigation, it can be difficult to pull all three services together to find out what happened where and when. Enter: Amazon Detective. 
+
+Amazon Detective makes it easy to analyze the potential cause of security issues
+
+Amazon Detective is a fully managed AWS service that brings together AWS CloudTrail, VPC Flow Logs, and Amazon GuardDuty. It automatically combines the log data from all of these services and uses machine learning, statistical analysis, and graph theory to build out its interface of graphs. This gives you the ability to investigate security issues faster and with more efficiency. 
+
+Amazon Detective will graph your log data over time, giving you a timeline of “business as usual” at a quick glance, which may allow you to immediately determine when an issue started, such as increase in traffic due to a DDoS attack or one of your in-house applications going a bit rogue. This allows you to quickly determine the root cause of your issues.
+
+
+
+Amazon Detective also has built-in detection for many different types of denial of service attacks, unusual behavior, or potential security issues. It can detect cryptocurrency being mined on your virtual machines, find potential open backdoors, or even identify port scanning attempts on your servers. 

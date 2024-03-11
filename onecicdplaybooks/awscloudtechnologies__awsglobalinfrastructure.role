@@ -1,0 +1,22 @@
+Welcome to the module on Aws global infrastructure. 
+In this module, you will learn about Aws global infrastructure, Aws regions, Aws availability zones, Aws point of presence, Aws local zones, Aws wavelength zones and Aws outposts. 
+
+The AWS global cloud infrastructure is popular cloud platform and it is the most secure, extensive and reliable platform. It offers many featured services from various data centers around the globe. Aws offers you the cloud infrastructure at any place and at any time you need it.
+
+using AWS, you can deploy your application workload in a single click or if you want to build and deploy applications closer to your users with less latency. As of February 2022 the Aws cloud has 26 regions and 84 availability zones around the world. Aws announced plans for 24 more availability zones and eight more AWS regions. 
+
+Aws region- It is a physical location around the world where we cluster data centers. Each Aws region has multiple availability zones. AZ and these availability zones are isolated and physically separated within the region. Aws customers can design their application to run more than one AZ to achieve high availability and greater fault tolerance. It is aws responsibility to maintain all AWS regions has highest levels of security compliance and data protection and availability zone. 
+
+AZ is one or more distinct data centers with multiple power source networking and connectivity. AZ provides customer to operate production applications and databases with highly available greater fault tolerant and high scalable than a single data center. All AZ are interconnected with dedicated fiber optics cable to provide high bandwidth, low latency and high throughput networking between AZ 
+
+Point of presence are sites that cloudfront uses to cash copies of your content for faster delivery to users at any location. Amazon cloudfront is a web service that speeds up distribution of your static and dynamic web content to your users. Cloudfront uses edge locations to delivers your content worldwide with best possible performance and lowest latency. For example, when a user requests a content cloudfront routed the request to the edge location and the content is delivered at once. Since these edge locations are available near to the user. 
+
+Aws Global Accelerator is a networking service that improves the performance of network traffic by 60% when the internet is congested Aws global Accelerator optimizes the application path to provide latency, low, no packet loss and jitter less connectivity in Aws global network Aws Global Accelerator automatically re routes your traffic to your nearest healthy available endpoint to mitigate endpoint failure
+
+Local zones. It is an extension of an Aws region in geographic proximity, it has dedicated connection to internet and supports AWS direct connect. So the resource in local zone can serve our local users with low latency, local zone. Example us west two lax one, it consists of AWS region code for Los Angeles followed by identifier that indicates it physical location, 
+
+Wavelength zones, wavelength zones, deploy standard AWS compute and storage services to the edge of telecommunication carriers. Five G networks that enables developers to build and deliver ultra low agencies applications for mobile and end users. Developers can extend a VPC to one or more wavelength zones and resources like Amazon. They see two instances to run applications. 
+
+Aws outpost is a fully managed service that extends Aws infrastructure. Aws customers can use the same programming interfaces as in Aws regions to build and run applications on premises. An outpost is a pool of Aws compute and storage capacity deployed at a customer site. Aws operates monitors and manages this capacity considering as part of an Aws region itself.
+
+In this module, you have learned about Aws global infrastructure, AW S regions, AW S availability zones, Aws point of presence AW S local zones, AW S wavelength zones and Aws outposts.

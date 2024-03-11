@@ -1,0 +1,11 @@
+AWS App Runner is an AWS service that provides a fast, simple, and cost-effective way to deploy from source code or a container image directly to a scalable and secure web application in the AWS Cloud. You don't need to learn new technologies, decide which compute service to use, or know how to provision and configure AWS resources.
+
+App Runner connects directly to your code or image repository. It provides an automatic integration and delivery pipeline with fully managed operations, high performance, scalability, and security.
+
+Who is App Runner for?
+
+If you're a developer, you can use App Runner to simplify the process of deploying a new version of your code or image repository.
+
+For operations teams, App Runner enables automatic deployments each time a commit is pushed to the code repository or a new container image version is pushed to the image repository.
+
+https://docs.aws.amazon.com/apprunner/latest/dg/what-is-apprunner.html

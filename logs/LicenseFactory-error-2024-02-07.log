@@ -1,0 +1,10 @@
+[INFO ] 2024-02-07 11:59:22.448 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 6 row !!
+[INFO ] 2024-02-07 11:59:22.449 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 5 row !!
+[INFO ] 2024-02-07 11:59:22.449 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 4 row !!
+[INFO ] 2024-02-07 11:59:22.450 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 3 row !!
+[INFO ] 2024-02-07 11:59:22.450 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 2 row !!
+[INFO ] 2024-02-07 11:59:22.450 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 1 row !!
+[INFO ] 2024-02-07 11:59:22.450 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 0 row !!
+[INFO ] 2024-02-07 11:59:22.451 [AWT-EventQueue-0] OneCICD - SELECT songid as ANCICDRoleID,moviename as PlayBookName,songtitle as ANCICDRole,singername1 as DeployRole1,singername2 as DeployRole2,singername3 as DeployRole3,singername4 as DeployRole4 from ANCICDPLAYBOOKTOCS order by moviename
+[INFO ] 2024-02-07 11:59:22.452 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 4 row !!
+[INFO ] 2024-02-07 11:59:22.452 [AWT-EventQueue-0] OneCICD - ANCICD Role Removed 3 row !!

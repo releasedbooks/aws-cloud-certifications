@@ -1,0 +1,8 @@
+A company has application running on Amazon EC2 instances in a VPC. One of the applications needs to call an Amazon S3 API to store and read objects. The company's security policies restrict any internet-bound traffic from the applications.
+
+Which action will fulfill these requirements and maintain security?
+
+A. Configure an S3 interface endpoint.
+B. Configure an S3 gateway endpoint.
+C. Create an S3 bucket in a private subnet.
+D. Create an S3 bucket in the same Region as the EC2 instance.

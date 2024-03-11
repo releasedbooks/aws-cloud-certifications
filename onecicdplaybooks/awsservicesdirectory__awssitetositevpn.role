@@ -1,0 +1,2 @@
+Site-to-Site VPN creates an encrypted network path between your on-premises network and your AWS Cloud network. This connection between your on-premises network and your AWS Cloud network uses the internet.
+https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html

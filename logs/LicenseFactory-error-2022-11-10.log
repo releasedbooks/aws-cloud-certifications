@@ -1,0 +1,9 @@
+[INFO ] 2022-11-10 23:41:01.012 [AWT-EventQueue-1] OneCICD - ANCICDRoleFileBody Requested:techmalls.com_4fanz_deploy2eks
+[INFO ] 2022-11-10 23:41:01.014 [AWT-EventQueue-1] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:0
+[INFO ] 2022-11-10 23:41:01.014 [AWT-EventQueue-1] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'deploy2eks'
+[INFO ] 2022-11-10 23:41:01.015 [AWT-EventQueue-1] OneCICD - PlayBook:techmalls.com ANCICDRoleName:deploy2eks
+[INFO ] 2022-11-10 23:41:01.015 [AWT-EventQueue-1] OneCICD - ANCICDRoleFileBody Requested:techmalls.com_4fanz_deploy2eks
+[INFO ] 2022-11-10 23:41:01.082 [AWT-EventQueue-1] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:0
+[INFO ] 2022-11-10 23:41:01.083 [AWT-EventQueue-1] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'deploy2eks'
+[INFO ] 2022-11-10 23:41:01.084 [AWT-EventQueue-1] OneCICD - PlayBook:techmalls.com ANCICDRoleName:deploy2eks
+[INFO ] 2022-11-10 23:41:01.084 [AWT-EventQueue-1] OneCICD - ANCICDRoleFileBody Requested:techmalls.com_4fanz_deploy2eks

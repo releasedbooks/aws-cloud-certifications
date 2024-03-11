@@ -1,0 +1,19 @@
+In this module, you will learn about Aws networking services. 
+
+Aws provides a lot of networking services for designing a strong architecture. It provides secured and streamlined network connectivity and deliver the content globally with the high availability. This helps in provisioning logically isolated Aws section. 
+
+Aws networking plays an important role in creating the Aws ecosystem. The networking part is fundamental for many services. So it becomes very important that all of the networking services function properly. The networking service enables communication among all Aws resources without thinking about their physical location. Aws provides a wide range of networking and content delivery services. Some of the examples for networking services are 
+- AWS VPC
+- AWS API gateway
+- Aws direct connect 
+- Aws route53 and AWS AppMesh. 
+
+Amazon VPC means virtual private cloud and it creates a logically different and isolated sections in Aws cloud. Inside this VPC, you can launch your resources which will be private by default until you change the access methods. Amazon VPC allows you to launch the resources in a network that you have defined virtually. This is very similar to a data center that you could have defined on the organization premise. But with the added benefits of AWS scalable infrastructure, VPC has many key components such as subnet, route table, internet gateway, CIDR,  NAT gateway and network ACLs. 
+
+A subnet is the range of IP addresses that we allocate to each machine in our VPC subnet which have access to the internet are called as public subnets subnets which do not have access to outside world. They are private subnets. 
+
+An API gateway is a service managed by AWS which allows two instances present in private subnet for connecting to the internet. These also helps the private instances to connect with other VPC as well as on premise data centers. 
+
+An internet gateway is used to allow communication between your VPC and internet. This is attached to VPC. A virtual private network gateway is a networking means which can be used to connect two or more devices in a VPC and infrastructure. 
+
+A customer gateway can be used to pass the information about customer device or customer application to AWS. VPC pairing will be used for routing traffic between two V PCS with the help of IP four and IP six addresses. The VPC for peering can be in same region or different regions and a stands for network access control list and it acts as first line of defense for our subnets. It controls inward and outward traffic of a subnet. It has both allow and deny rule associated with it. Security groups as a firewall at instance level and it controls the traffic going in and coming out from an instance. Security groups has only allow rule associated with it. They can reference either another S G or IP addresses. A virtual private network gateway is a networking device which is used to connect two or more devices within a VPN infrastructure. With the help of direct connect, we can establish a dedicated private connection between AWS cloud and on premise data center. This reduces network cost provides a better network experience and increases bandwidth throughput. Amazon route 53 is domain name system service which is highly scalable and available. Route 53 can be mainly used for registering domain names, routing internet traffic to the resources present in your domain and checking the health of your resources. So if you need a website for your application, route 53 will help you in registering a name for your website. Once it is registered. Now route 53 will help the user connecting to your website once they enter your registered domain name in the address bar. Finally, route 53 frequently sends automated requests to your resources to check their health.

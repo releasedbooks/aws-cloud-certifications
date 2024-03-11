@@ -1,0 +1,16 @@
+Visualize, understand, and manage your AWS costs and usage over time
+Get costs and usage information, and business insights with preconfigured views.
+
+Deep dive into your costs and usage data with filtering and grouping.
+
+Create a cost and usage forecast for a future time range for your report.
+
+Create, save, and share custom reports  to explore different sets of data.
+
+AWS Cost Explorer has an easy-to-use interface that lets you visualize, understand, and manage your AWS costs and usage over time. Get started quickly by creating custom reports that analyze cost and usage data. Analyze your data at a high level (for example, total costs and usage across all accounts), or dive deeper into your cost and usage data to identify trends, pinpoint cost drivers, and detect anomalies.
+
+You can enable Cost Explorer for your account by opening Cost Explorer for the first time in the AWS Cost Management console. You can't enable Cost Explorer using the API. After you enable Cost Explorer, AWS prepares the data about your costs for the current month and the previous 13 months, and then calculates the forecast for the next 12 months. The current month's data is available for viewing in about 24 hours. The rest of your data takes a few days longer. Cost Explorer updates your cost data at least once every 24 hours.
+
+As part of the process of enabling Cost Explorer, AWS automatically configures Cost Anomaly Detection for your account. Cost Anomaly Detection is an AWS Cost Management feature. This feature uses machine learning models to detect and alert on anomalous spend patterns in your deployed AWS services. To get you started with Cost Anomaly Detection, AWS sets up an AWS services monitor and a daily summary alert subscription. You're alerted about any anomalous spend that exceeds $100 and 40% of your expected spend across the majority of your AWS services in your accounts. For more information, see limitations and Detecting unusual spend with AWS Cost Anomaly Detection.
+
+https://aws.amazon.com/aws-cost-management/aws-cost-explorer/

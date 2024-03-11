@@ -1,0 +1,13 @@
+Redis-compatible, durable, in-memory database service for ultra-fast performance
+
+Amazon MemoryDB for Redis is a durable database with microsecond reads, low single-digit millisecond writes, scalability, and enterprise security. MemoryDB delivers 99.99% availability and near instantaneous recovery without any data loss.
+
+Scale to hundreds of millions of requests per second and over one hundred terabytes of storage per cluster.
+
+Stores data durably using a Multi-AZ transaction log for 99.99% availability and near instantaneous recovery without data loss.
+
+Secure your data with encryption at rest and in-transit, private VPC endpoints, and multiple authentication mechanisms, including IAM authentication.
+
+Build applications quickly with Redis data structures, a rich open source API, and easily integrate with other AWS services.
+
+https://aws.amazon.com/memorydb

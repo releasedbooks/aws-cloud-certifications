@@ -1,0 +1,25 @@
+Correct Answer: A
+What Is Amazon CloudFront?
+Amazon CloudFront is a web service that speeds up distribution of your static and dynamic web content, such as .html, .css, .js, and image files, to your users.
+Deliver personalized, dynamic web content at no additional cost without writing new code
+
+If you are serving dynamic content such as web applications or APIs directly from an Amazon Elastic Load Balancer (ELB) or Amazon EC2 instances to end users on the internet, you can improve the performance, availability, and security of your content by using Amazon CloudFront as your content delivery network. With Amazon CloudFront, your end users connections are terminated at CloudFront locations closer to them, which helps in reducing the overall round trip time required to establish a connection. These CloudFront locations are connected to the highly resilient Amazon Backbone Network that provides superior performance and availability for connection to AWS origins. In addition, various other optimization such as persistent TCP connections to the origin, SSL enhancements such as Session tickets and OCSP stapling helps in improving the performance even for non-cacheable, dynamic content.
+
+CloudFront delivers your content through a worldwide network of data centers called edge locations. When a user requests content that you're serving with
+
+CloudFront, the user is routed to the edge location that provides the lowest latency (time delay), so that content is delivered with the best possible performance.
+Routing traffic to an Amazon CloudFront web distribution by using your domain name.
+
+If you want to speed up delivery of your web content, you can use Amazon CloudFront, the AWS content delivery network (CDN). CloudFront can deliver your entire website ג€" including dynamic, static, streaming, and interactive content ג€" by using a global network of edge locations. Requests for your content are automatically routed to the edge location that gives your users the lowest latency.
+
+To use CloudFront to distribute your content, you create a web distribution and specify settings such as the Amazon S3 bucket or HTTP server that you want
+CloudFront to get your content from, whether you want only selected users to have access to your content, and whether you want to require users to use HTTPS.
+
+When you create a web distribution, CloudFront assigns a domain name to the distribution, such asd111111abcdef8.cloudfront.net. You can use this domain name in the URLs for your content, for example:
+[1]
+Alternatively, you might prefer to use your own domain name in URLs, for example:
+[1]
+If you want to use your own domain name, use Amazon Route 53 to create an alias record that points to your CloudFront distribution. An alias record is a Route
+53 extension to DNS. It's similar to a CNAME record, but you can create an alias record both for the root domain, such as example.com, and for subdomains, such aswww.example.com. (You can create CNAME records only for subdomains.) When Route 53 receives a DNS query that matches the name and type of an alias record, Route 53 responds with the domain name that is associated with your distribution.
+Reference:
+https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-to-cloudfront-distribution.html https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html

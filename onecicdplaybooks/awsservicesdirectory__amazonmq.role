@@ -1,0 +1,11 @@
+Fully managed service for open-source message brokers
+
+Migrate your applications more easily with updated endpoints and industry-standard APIs and protocols.
+
+Offload time-consuming tasks such as administration, maintenance operations, and security management for message brokers.
+
+Ensure high availability of your applications and durability of messages across AWS Availability Zones.
+
+Message brokers allow software systems, which often use different programming languages on various platforms, to communication and exchange information. Amazon MQ is a managed message broker service for Apache ActiveMQ and RabbitMQ that streamlines setup, operation, and management of message brokers on AWS. With a few steps, Amazon MQ can provision your message broker with support for software version upgrades.
+
+https://aws.amazon.com/amazon-mq

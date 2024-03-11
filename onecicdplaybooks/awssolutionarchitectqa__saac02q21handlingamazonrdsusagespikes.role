@@ -1,0 +1,8 @@
+A company's web application uses an Amazon RDS PostgreSQL DB instance to store its application data. During the financial closing period at the start of every month, Accountants run large queries that impact the database's performance due to high usage. The company wants to minimize the impact that the reporting activity has on the web application.
+
+What should a solutions architect do to reduce the impact on the database with the LEAST amount of effort?
+
+A. Create a read replica and direct reporting traffic to the replica.
+B. Create a Multi-AZ database and direct reporting traffic to the standby.
+C. Create a cross-Region read replica and direct reporting traffic to the replica.
+D. Create an Amazon Redshift database and direct reporting traffic to the Amazon Redshift database.

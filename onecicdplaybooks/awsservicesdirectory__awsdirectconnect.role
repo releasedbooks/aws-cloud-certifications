@@ -1,0 +1,2 @@
+Direct Connect links your internal network to a Direct Connect location over a network connection. One end of the connection attaches to your on-premises router. The other end connects to a Direct Connect router. With this connection, you can bypass the ISPs in your network path. However, the company must use an existing internet connection in this scenario.
+https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html

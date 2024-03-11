@@ -1,0 +1,8 @@
+A company wants to migrate a high performance computing (HPC) application and data from on-premises to the AWS Cloud. The company uses tiered storage on premises with hot high-performance parallel storage to support the application during periodic runs of the application, and more economical cold storage to hold the data when the application is not actively running.
+Which combination of solutions should a solutions architect recommend to support the storage needs of the application? (Choose two.)
+
+A. Amazon S3 for cold data storage
+B. Amazon Elastic File System (Amazon EFS) for cold data storage
+C. Amazon S3 for high-performance parallel storage
+D. Amazon FSx for Lustre for high-performance parallel storage
+E. Amazon FSx for Windows for high-performance parallel storage

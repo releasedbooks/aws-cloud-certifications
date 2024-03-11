@@ -1,0 +1,58 @@
+Amazon EventBridge is a serverless, fully managed, and scalable event bus that enables integrations between AWS services, Software as a services (SaaS), and your applications.
+
+EventBridge was formerly called Amazon CloudWatch Events. Amazon CloudWatch Events and EventBridge are the same underlying service and API, however, EventBridge provides more features.
+
+Introduction to AWS EventBridge
+EventBridge makes it easier to connect applications. You can ingest, filter, transform and deliver events without writing custom code.
+
+EventBridge allows you to build event-driven architectures, which are loosely coupled and distributed. This improves developer agility as well as application resiliency and it takes care of event ingestion and delivery, security, authorization, and error-handling for you. It enables you to decouple your architectures to make it faster to build and innovate, using routing rules to deliver events to selected targets.
+
+EventBridge delivers a stream of real-time data from your applications, SaaS applications, and AWS services to targets such as AWS Lambda functions, HTTP invocation endpoints using API destinations, or event buses in other AWS accounts.
+
+Events
+An event is a real-time change in a system, data, or environment. This change can be either in your application or in an AWS service or a SaaS partner service.
+
+Event sources
+An event source is used to ingest events from a SaaS partner, AWS Services, or your own applications.
+
+Event buses
+An event bus is a pipeline that receives events. Rules associated with the event bus evaluate events as they arrive. Each rule checks whether an event matches the rule’s criteria.
+
+Event Bus Types:
+
+Default event bus: Created by default and receives events from any AWS service.
+Custom event bus: Receives events from custom applications you create and must be created manually.
+Partner event bus: Receives events from SaaS partner applications and must be created manually.
+Rules
+A rule matches incoming events and sends them to targets for processing. A single rule can send an event to multiple targets, which then run in parallel. Rules are based either on an event pattern or a schedule.
+
+An event pattern defines the event structure and the fields that a rule matches.
+Rules that are based on a schedule perform an action at regular intervals.
+Targets
+A target is a resource or endpoint that EventBridge sends an event to when the event matches the event pattern defined for a rule. The rule processes the event data and sends the pertinent information to the target. To deliver event data to a target, EventBridge needs permission to access the target resource. You can define up to five targets for each rule.
+
+Features
+Advanced Event Rules Filtering
+You can filter events with rules. Rules allow different application components to look for and process the events that are of interest to them. A rule can customize an event before it is sent to the target by passing along only certain parts or by overwriting it with a constant. You can also have multiple rules that match on the same event, so different microservices or applications can choose to match events based on specific filters.
+
+Content-based Event Filtering
+EventBridge supports declarative content filtering using event patterns. With content filtering, you can write complex event patterns that only match events under very specific conditions.
+
+It supports the following types of pattern matching:
+
+Prefix matching.
+Anything-but matching.
+Numeric matching.
+IP address matching.
+Exists matching.
+Complex example with multiple matching.
+Schema Registry
+Schema registries are containers for schemas. EventBridge schema registry stores event schema in a registry that other developers can easily search and access, so you don’t have to find events and their structure manually.
+
+Custom Events
+You can send custom events from your own applications to an event bus. Other applications can receive events through any of supported AWS target services.
+
+Archive and Replay Events
+You can create an archive of events so that you can easily replay (reprocess) them at a later time. This feature enables developers to debug their applications quickly, extend them by hydrating targets with historic events, and recover from errors. For example, you might want to replay events to recover from errors or to validate new functionality in your application.
+
+https://medium.com/awesome-cloud/aws-amazon-eventbridge-overview-what-is-aws-eventbridge-eventbus-introduction-features-use-cases-benefits-41c05f411317

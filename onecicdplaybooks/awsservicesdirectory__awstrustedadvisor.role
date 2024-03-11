@@ -1,0 +1,11 @@
+AWS Trusted Advisor helps you optimize costs, increase performance, improve security and resilience, and operate at scale in the cloud. Trusted Advisor continuously evaluates your AWS environment using best practice checks across the categories of cost optimization, performance, resilience, security, operational excellence, and service limits, and recommend actions to remediate any deviations from best practices.
+
+Trusted Advisor Priority helps Enterprise Support customers focus on the most important recommendations by providing both context driven and prioritized recommendations from your AWS account team. 
+
+https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor-check-reference.html
+https://aws.amazon.com/premiumsupport/technology/trusted-advisor/
+
+AWS Trusted Advisor Priority helps you focus on the most important recommendations to optimize your cloud deployments, improve resilience, and address security gaps. Available to AWS Enterprise Support customers, Trusted Advisor Priority provides prioritized and context-driven recommendations that come from your AWS account team as well as machine-generated checks from AWS services.
+Customers and their Technical Account Managers (TAMs) can keep track of the recommendation lifecycle and history from the creation of a recommendation to its acceptance, resolution, or rejection. You can use Trusted Advisor Priority to view and search recommendations for all member accounts in your organization.
+
+https://aws.amazon.com/premiumsupport/technology/trusted-advisor-priority/

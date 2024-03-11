@@ -1,0 +1,38 @@
+Correct Answer: AD
+
+Amazon FSx makes it easy and cost effective to launch, run, and scale feature-rich, 
+high-performance file systems in the cloud. It supports a wide range of workloads with its 
+reliability, security, scalability, and broad set of capabilities. Amazon FSx is built on the 
+latest AWS compute, networking, and disk technologies to provide high performance and lower TCO.
+
+And as a fully managed service, it handles hardware provisioning, patching, and backups 
+-- freeing you up to focus on your applications, your end users, and your business.
+
+You can choose between four widely-used file systems: 
+NetApp ONTAP, OpenZFS, Windows File Server, and Lustre.
+
+ONTAP: Fully managed shared storage built on NetApp’s popular ONTAP file system.
+
+OpenZFS: Fully managed shared storage built on the popular OpenZFS file system.
+
+WFS: Fully managed shared storage built on Windows Server.
+
+Lustre: Fully managed shared storage built on the world’s most popular high-performance file system.
+
+Amazon FSx lets you choose between four widely-used file systems: NetApp ONTAP, OpenZFS, 
+Windows File Server, and Lustre. This choice is typically based on your familiarity with a 
+given file system or by matching the file system's feature sets, performance profiles, and 
+data management capabilities to the requirements of your workload.
+
+Amazon FSx file systems support industry-standard protocols that offer connectivity to Linux, 
+Windows, and macOS users and applications. Amazon FSx also delivers sub-millisecond latencies 
+and high throughput to meet the performance needs of your most demanding workloads.  
+By combining the capabilities of widely-used file systems with the simplicity of a fully 
+managed AWS service, Amazon FSx helps you migrate legacy applications and build rich new 
+applications more easily.
+
+Hybrid-enabled:
+Amazon FSx makes it easy to do more with your data.  You can migrate and synchronize data from 
+on premises to AWS and make it immediately available to a broad set of integrated AWS services. 
+You can provide storage to global users by storing data in the cloud with low-latency 
+local access provided by Amazon FSx File Gateway and NetApp ONTAP’s Global File Cache. 

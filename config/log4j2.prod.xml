@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration name="PRODUCTION" status="OFF" >
+<Properties>
+<Property name="log-path">logs</Property>
+</Properties>
+ <ThresholdFilter level="off"/>
+<Appenders>
+<Console name="console-log" target="SYSTEM_OUT">
+<PatternLayout pattern="[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n"/>
+</Console>
+<RollingFile name="trace-log" fileName="${log-path}/OneCICD-trace.log"
+filePattern="${log-path}/OneCICD-trace-%d{yyyy-MM-dd}.log">
+<PatternLayout>
+<pattern>[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n</pattern>
+</PatternLayout>
+<Policies>
+<SizeBasedTriggeringPolicy size="1 MB" />
+</Policies>
+<DefaultRolloverStrategy max="4"/>
+</RollingFile>
+<RollingFile name="error-log" fileName="${log-path}/OneCICD-error.log"
+filePattern="${log-path}/OneCICD-error-%d{yyyy-MM-dd}.log">
+<PatternLayout>
+<pattern>[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n</pattern>
+</PatternLayout>
+<Policies>
+<SizeBasedTriggeringPolicy size="1 KB" />
+</Policies>
+<DefaultRolloverStrategy max="4"/>
+</RollingFile>
+</Appenders>
+<Loggers>
+<Logger name="com.bollywoodbands.songs.main.OneCICD" level="debug" additivity="false">
+<appender-ref ref="trace-log" level="debug"/>
+<appender-ref ref="error-log" level="error"/>
+<appender-ref ref="console-log" level="debug"/>
+</Logger>
+<Logger name="com.bollywoodbands.songs.main.BBCOMConfig" level="debug" additivity="false">
+<appender-ref ref="trace-log" level="debug"/>
+<appender-ref ref="error-log" level="error"/>
+<appender-ref ref="console-log" level="debug"/>
+</Logger>
+<Logger name="com.bollywoodbands.songs.main.BBCOMGetPropertyValues" level="debug" additivity="false">
+<appender-ref ref="trace-log" level="debug"/>
+<appender-ref ref="error-log" level="error"/>
+<appender-ref ref="console-log" level="debug"/>
+</Logger>
+<Root level="info" additivity="false">
+<AppenderRef ref="console-log"/>
+</Root>
+</Loggers>
+</Configuration>

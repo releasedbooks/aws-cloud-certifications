@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration name="PRODUCTION" status="debug" >
+<Properties>
+<Property name="log-path">logs</Property>
+</Properties>
+ <ThresholdFilter level="debug"/>
+<Appenders>
+<Console name="console-log" target="SYSTEM_OUT">
+<PatternLayout pattern="[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n"/>
+</Console>
+
+<RollingFile name="trace-log" fileName="${log-path}/OneCICD-trace.log"
+filePattern="${log-path}/OneCICD-trace-%d{yyyy-MM-dd}.log">
+<PatternLayout>
+<pattern>[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n</pattern>
+</PatternLayout>
+<Policies>
+<SizeBasedTriggeringPolicy size="1 MB" />
+</Policies>
+<DefaultRolloverStrategy max="4"/>
+</RollingFile>
+<RollingFile name="error-log" fileName="${log-path}/OneCICD-error.log"
+filePattern="${log-path}/OneCICD-error-%d{yyyy-MM-dd}.log">
+<PatternLayout>
+<pattern>[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n</pattern>
+</PatternLayout>
+<Policies>
+<SizeBasedTriggeringPolicy size="1 KB" />
+</Policies>
+<DefaultRolloverStrategy max="4"/>
+</RollingFile>
+<RollingFile name="trace-log" fileName="${log-path}/OneCICDGetPropertyValues-trace.log"
+filePattern="${log-path}/OneCICDGetPropertyValues-trace-%d{yyyy-MM-dd}.log">
+<PatternLayout>
+<pattern>[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n</pattern>
+</PatternLayout>
+<Policies>
+<SizeBasedTriggeringPolicy size="1 MB" />
+</Policies>
+<DefaultRolloverStrategy max="4"/>
+</RollingFile>
+<RollingFile name="error-log" fileName="${log-path}/OneCICDGetPropertyValues-error.log"
+filePattern="${log-path}/OneCICDGetPropertyValues-error-%d{yyyy-MM-dd}.log">
+<PatternLayout>
+<pattern>[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n</pattern>
+</PatternLayout>
+<Policies>
+<SizeBasedTriggeringPolicy size="1 KB" />
+</Policies>
+<DefaultRolloverStrategy max="4"/>
+</RollingFile>
+<RollingFile name="error-log" fileName="${log-path}/OneCICDLicense-error.log"
+filePattern="${log-path}/OneCICDLicense-error-%d{yyyy-MM-dd}.log">
+<PatternLayout>
+<pattern>[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n</pattern>
+</PatternLayout>
+<Policies>
+<SizeBasedTriggeringPolicy size="1 KB" />
+</Policies>
+<DefaultRolloverStrategy max="4"/>
+</RollingFile>
+<RollingFile name="error-log" fileName="${log-path}/OneCICDLicense-error.log"
+filePattern="${log-path}/OneCICDLicense-error-%d{yyyy-MM-dd}.log">
+<PatternLayout>
+<pattern>[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n</pattern>
+</PatternLayout>
+<Policies>
+<SizeBasedTriggeringPolicy size="1 KB" />
+</Policies>
+<DefaultRolloverStrategy max="4"/>
+</RollingFile>
+<RollingFile name="error-log" fileName="${log-path}/LicenseProperties-error.log"
+filePattern="${log-path}/LicenseProperties-error-%d{yyyy-MM-dd}.log">
+<PatternLayout>
+<pattern>[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n</pattern>
+</PatternLayout>
+<Policies>
+<SizeBasedTriggeringPolicy size="1 KB" />
+</Policies>
+<DefaultRolloverStrategy max="4"/>
+</RollingFile>
+<RollingFile name="error-log" fileName="${log-path}/LicenseFactory-error.log"
+filePattern="${log-path}/LicenseFactory-error-%d{yyyy-MM-dd}.log">
+<PatternLayout>
+<pattern>[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n</pattern>
+</PatternLayout>
+<Policies>
+<SizeBasedTriggeringPolicy size="1 KB" />
+</Policies>
+<DefaultRolloverStrategy max="4"/>
+</RollingFile>
+</Appenders>
+<Loggers>
+<Logger name="com.fansglobal.onecicd.cloudnotes.OneCICD" level="debug" additivity="true">
+<appender-ref ref="trace-log" level="debug"/>
+<appender-ref ref="error-log" level="debug"/>
+<appender-ref ref="console-log" level="debug"/>
+</Logger>
+<Logger name="com.fansglobal.onecicd.cloudnotes.BBCOMConfig" level="debug" additivity="true">
+<appender-ref ref="trace-log" level="debug"/>
+<appender-ref ref="error-log" level="debug"/>
+<appender-ref ref="console-log" level="debug"/>
+</Logger>
+<Logger name="com.fansglobal.properties.OneCICDGetPropertyValues" level="debug" additivity="true">
+<appender-ref ref="trace-log" level="debug"/>
+<appender-ref ref="error-log" level="debug"/>
+<appender-ref ref="console-log" level="debug"/>
+</Logger>
+<Logger name="com.fansglobal.license.OneCICDLicense" level="debug" additivity="true">
+<appender-ref ref="trace-log" level="debug"/>
+<appender-ref ref="error-log" level="debug"/>
+<appender-ref ref="console-log" level="debug"/>
+</Logger>
+<Logger name="com.fansglobal.properties.LicenseProperties" level="debug" additivity="true">
+<appender-ref ref="trace-log" level="debug"/>
+<appender-ref ref="error-log" level="debug"/>
+<appender-ref ref="console-log" level="debug"/>
+</Logger>
+<Logger name="com.fansglobal.factory.LicenseFactory" level="debug" additivity="true">
+<appender-ref ref="trace-log" level="debug"/>
+<appender-ref ref="error-log" level="debug"/>
+<appender-ref ref="console-log" level="debug"/>
+</Logger>
+<Root level="debug" additivity="false">
+<AppenderRef ref="console-log"/>
+</Root>
+</Loggers>
+</Configuration>

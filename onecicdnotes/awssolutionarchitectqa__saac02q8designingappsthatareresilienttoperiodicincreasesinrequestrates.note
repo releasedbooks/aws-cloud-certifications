@@ -1,0 +1,17 @@
+Correct Answer: DE
+AWS Global Accelerator - Acceleration for latency-sensitive applications
+Many applications, especially in areas such as gaming, media, mobile apps, and financials, 
+require very low latency for a great user experience. To improve the user experience, 
+Global Accelerator directs user traffic to the application endpoint that is nearest to 
+the client, which reduces internet latency and jitter. 
+
+Global Accelerator routes traffic to the closest edge location by using Anycast, and then 
+routes it to the closest regional endpoint over the AWS global network. Global Accelerator 
+quickly reacts to changes in network performance to improve your users' application performance.
+
+Amazon CloudFront -
+Amazon CloudFront is a fast content delivery network (CDN) service that securely delivers data,
+videos, applications, and APIs to customers globally with low latency, high transfer speeds,
+all within a developer-friendly environment.
+Reference:
+https://docs.aws.amazon.com/global-accelerator/latest/dg/introduction-benefits-of-migrating.html

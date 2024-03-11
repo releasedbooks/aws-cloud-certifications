@@ -1,0 +1,86 @@
+http://ec2-34-231-204-220.compute-1.amazonaws.com/
+
+http://ec2-34-231-204-220.compute-1.amazonaws.com/ADMIN/index.php
+administrator/abc123
+
+apk update
+apk add mysql-client
+
+mysql -h db4fanz-aurora-prod1.cluster-ro-civ4ygydnalc.us-east-1.rds.amazonaws.com -u admin -p
+
+app # php -v
+PHP 8.1.8 (cli) (built: Jul 19 2022 00:48:48) (NTS)
+Copyright (c) The PHP Group
+Zend Engine v4.1.8, Copyright (c) Zend Technologies
+/app # 
+
+
+/app # php -m
+[PHP Modules]
+amqp
+apcu
+bcmath
+bz2
+Core
+ctype
+curl
+date
+dom
+exif
+fileinfo
+filter
+ftp
+gd
+gettext
+gmp
+hash
+iconv
+imagick
+imap
+intl
+json
+libxml
+mbstring
+memcache
+mongodb
+mysqli
+mysqlnd
+OAuth
+openssl
+pcntl
+pcre
+PDO
+pdo_dblib
+pdo_mysql
+pdo_pgsql
+pdo_sqlite
+pgsql
+Phar
+posix
+psr
+readline
+Reflection
+session
+SimpleXML
+soap
+sockets
+sodium
+SPL
+sqlite3
+ssh2
+standard
+swoole
+sysvmsg
+sysvsem
+sysvshm
+tidy
+tokenizer
+vips
+xml
+xmlreader
+xmlwriter
+xsl
+yaml
+zip
+zlib
+

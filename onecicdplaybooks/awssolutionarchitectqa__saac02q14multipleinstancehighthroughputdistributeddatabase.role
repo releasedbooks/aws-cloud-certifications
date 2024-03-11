@@ -1,0 +1,8 @@
+A solutions architect is deploying a distributed database on multiple Amazon EC2 instances. The database stores all data on multiple instances so it can withstand the loss of an instance. The database requires block storage with latency and throughput to support several million transactions per second per server.
+
+Which storage solution should the solutions architect use?
+
+A. EBS Amazon Elastic Block Store (Amazon EBS)
+B. Amazon EC2 instance store
+C. Amazon Elastic File System (Amazon EFS)
+D. Amazon S3

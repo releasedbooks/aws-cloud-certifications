@@ -1,0 +1,49 @@
+Aws cloud is a highly secure scalable cloud computing platform which offers computing power storage, databases, content delivery with low latency and other functionalities to help various businesses grow it better. 
+
+Aws cloud was launched in the year 2006 by Amazon INC USA. It was launched as Amazons internal project for resource management. 
+
+AWS uses the subscription pricing model of pay as you go or pay for what you use. 
+
+It packages highly scalable and virtually unlimited compute storage and bandwidth resources of many kinds. 
+
+It offers platform as a service software is a service infrastructure as a service function as a service container is a service as various service offering options in cloud computing, Aws services will be accessible from a private network like virtual private network or AW S direct connect and also through public internet ability of a business to adapt rapid changes in a cost effective manner can be termed as agility. 
+
+Your solution should be able to handle the changes that occur in business environment. This in turn drives the business agility, elasticity and cloud provide different services on a demand basis. This is very helpful when the demand of resources goes up and down. So elasticity helps us in saving cost its well by stopping the resources when it is not required, different projects, use different kind of programming models, programming languages and operating systems flexibility supported by AWS helps us in adopting new technologies without learning new skills, flexibility helps in delivering products with newer technology in no time which enhances the overall productivity. Scalability in cloud computing is the capability of system architecture to decrease or increase its functions by handling its resource requirements by catering to the workload capacities while retaining its performance. 
+
+Aws does not mandate any long term commitments from customer and it means that customers are free to literally throw things away if they do not require them. 
+
+Reliability discusses about capacity of a workload which perform its dedicated functionalities regularly and correctly. The ability of the workload in Aws can be tested through its life cycle. 
+
+Aws has its own global infrastructure which offers high availability for all workloads running in the cloud. The main components for high availability are regions and zones present in Aws. There is different mechanism through which Aws provides high availability for different services. 
+
+For example, if you discuss about high availability of databases, you can think of multi AZ deployment pay as you go cloud computing P A Y G cloud computing is a payment method for cloud computing. Those charges based on usage. Aws gives you the control and confidence on how you manage your resources. It gives you the security and flexibility for running your businesses in a better and more profitable way. 
+
+Aws has a wide network of its data centers and own dedicated networks which helps us in protecting our information devices and identities. 
+
+Cloud computing supports online access for data storage and other resources in a centralized manner as multi tenancy are deployed on same hardware piece. So it leads to economy of scale the pool resources are shared among multiple users. 
+
+Cloud scaling is a method in which you can add or delete resources based on the need of your application. The resources will be built based on what is used. Scaling can be achieved using horizontal scaling, vertical scaling and diagonal scaling. 
+
+Vertical scaling adds extra computing capacity to the existing infrastructure. Scaling up means that you are improving power of a single computer that you were being used before. Hence boosting up its throughput. For example, replacing A t2-micro with t-2 medium or t2-large. 
+
+Horizontal scaling adds additional resources to the existing resource pool rather than adding resources in a vertical manner. It simply means that you are adding more computers instead of a adding more capacity to a single computer by scaling out load balancing is done among many servers and processing capacity is shared. For example, adding multiple two instances of type t2-micro
+
+ Diagonal scaling is an approach which combines the advantages of horizontal as well as vertical scaling. You can consider an example of a three tier web application. It would be possible add web servers in case traffic increases, but it might not be possible to distribute the logic of the application among multiple servers. In this case, you can apply vertical scaling for application logic and use horizontal scaling web application tier diagonal scaling offers flexibility for the workloads which need extra storage resources at specific point of time. This is cost efficient and good for the workloads which have variable volumes of workloads.
+
+ Now you will learn about few use cases for elasticity, e commerce in e commerce industry. There will be huge spike in the web traffic. Whenever there is a Black Friday or Festive season with auto scaling feature, your platform can handle more traffic and serve more demands, streaming services. When a new episode of any web series is released, the number of viewers goes in billions in no time. With the cloudfront feature of AWS, the content will be made available near to user locations and hence they will not face any delay.
+
+ Now, you will learn about a recent case study by mckinsey. They have found that organizational agility brings significant improvement in employee engagement, satisfactions of customers and financial performances. 
+
+The seven s of organizational goes like this.
+sense, the threat and newer opportunities before you start adapting changes, 
+searching information through sensing, de shape activities inside the organization. After getting   information, through sensing and generating ideas through searching, decide how these will affect your operations under seizing phase. 
+shifting is capability associated with implementation of new strategy. 
+Scaling helps in transforming your strategies into actions whenever it is required 
+scope is about making your organization more agile 
+speed. In this model means that your organization should act quickly on the above discussed phases. 
+
+Cloud computing works on pay for what you use model. Its like using any taxi services such as Uber, Ola Lyft and taxi EU as a user, you will be only paying for your trip or round trip. Once you finish your ride, no need to pay further for these taxi service providers on the similar line in cloud computing. 
+
+If you rent a virtual server for three hours, you must only pay for the three hours. Another benefits of pay as you go model is no resources are wasted. Now, you will learn about few benefits of the cloud computing. You can pay only for what you are going to consume. So now there is no need to spend a fortune of money in the data centers. 
+
+Usage from millions of customers are gathered in cloud which helps the cloud service providers in achieving greater economy of scale. This converts in low pay as you go pricing model. When you choose a capacity decision before making the actual deployment for your applications, you end up either with excess resources or with no or limited resources left in cloud computing approach, you do not think about that. You can scale down or scale up easily in the cloud computing era. Resources are just a click away. It means that your developers can access these in minutes instead of days, which was the delay in traditional computing. The cost and time taken to develop any application reduces drastically which again increase the agility for your organization. With the help of cloud computing, you can focus more on business aspects rather than infrastructure. Customers can be made as primary point of focus rather than heavy lifting of virtual servers and their maintenance. You can offer lower latency, an improved experience for your customers by going global. In few clicks, you can make the change in your local space and that can become global in no time. In this module. You have learned about definition of a aws cloud Aws value proposition, Aws business value.

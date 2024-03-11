@@ -1,0 +1,8 @@
+An application running on AWS uses an Amazon Aurora Multi-AZ deployment for its database. When evaluating performance metrics, a solutions architect discovered that the database reads are causing high I/O and adding latency to the write requests against the database.
+
+What should the solutions architect do to separate the read requests from the write requests?
+
+A. Enable read-through caching on the Amazon Aurora database.
+B. Update the application to read from the Multi-AZ standby instance.
+C. Create a read replica and modify the application to use the appropriate endpoint.
+D. Create a second Amazon Aurora database and link it to the primary database as a read replica.

@@ -1,0 +1,8 @@
+A company has been storing analytics data in an Amazon RDS instance for the past few years. The company asked a solutions architect to find a solution that allows users to access this data using an API. The expectation is that the application will experience periods of inactivity but could receive bursts of traffic within seconds.
+
+Which solution should the solutions architect suggest?
+
+A. Set up an Amazon API Gateway and use Amazon ECS.
+B. Set up an Amazon API Gateway and use AWS Elastic Beanstalk.
+C. Set up an Amazon API Gateway and use AWS Lambda functions.
+D. Set up an Amazon API Gateway and use Amazon EC2 with Auto Scaling.

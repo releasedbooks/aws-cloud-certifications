@@ -1,0 +1,17 @@
+Correct Answer: C
+How do I encrypt Amazon RDS snapshots?
+The following steps are applicable to Amazon RDS for MySQL, Oracle, SQL Server, PostgreSQL, or MariaDB.
+Important: If you use Amazon Aurora, you can restore an unencrypted Aurora DB cluster snapshot to an encrypted Aurora DB cluster if you specify an AWS Key
+Management Service (AWS KMS) encryption key when you restore from the unencrypted DB cluster snapshot. For more information, see Limitations of Amazon
+
+RDS Encrypted DB Instances:
+- Open the Amazon RDS console, and then choose Snapshots from the navigation pane.
+Select the snapshot that you want to encrypt.
+- Under Snapshot Actions, choose Copy Snapshot.
+Choose your Destination Region, and then enter your New DB Snapshot Identifier.
+- Change Enable Encryption to Yes.
+- Select your Master Key from the list, and then choose Copy Snapshot.
+- After the snapshot status is available, the Encrypted field will be True to indicate that the snapshot is encrypted.
+You now have an encrypted snapshot of your DB. You can use this encrypted DB snapshot to restore the DB instance from the DB snapshot.
+Reference:
+https://aws.amazon.com/premiumsupport/knowledge-center/encrypt-rds-snapshots/

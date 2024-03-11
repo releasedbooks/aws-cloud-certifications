@@ -1,0 +1,11 @@
+Correct Answer: BD 
+Kinesis Data Streams and Kinesis Client Library (KCL) Data from the data source can be 
+continuously captured and streamed in near real-time using Kinesis Data Streams. 
+With the Kinesis Client Library (KCL), you can build your own application that can preprocess 
+the streaming data as they arrive and emit the data for generating incremental views and 
+downstream analysis. Kinesis Data Analytics This service provides the easiest way to 
+process the data that is streaming through Kinesis Data Stream or Kinesis Data Firehose using 
+SQL. This enables customers to gain actionable insight in near real-time from the incremental 
+stream before storing it in Amazon S3.
+Reference:
+https://d1.awsstatic.com/whitepapers/lambda-architecure-on-for-batch-aws.pdf

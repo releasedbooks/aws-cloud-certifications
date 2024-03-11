@@ -1,0 +1,27 @@
+ Is it the customer or the cloud service provider, elements of shared responsibility model, shared responsibility model who is responsible for security in Aws cloud customer or Aws CSP. 
+
+The answer is both security on Aws is a combined effort of a Aws and the customer who are responsible for securing the resources. The reason behind responsibility is shared with Aws and customer is that you don't consider Aws is a single entity rather it is a collection of objects build upon each other. Hence, 
+
+Aws is responsible for some parts and the user is responsible of other parts. 
+
+Take an example of securing a house who is responsible for security, the owner or the builder. It is both build a responsibility to build strong walls and solid doors and house owner responsibility to close and look the doors. 
+
+Similarly, security in Aws is responsible of both user and Aws.
+
+ Now you will see about element of shared responsibility model. It has two elements, first customer and second Aws.
+customer responsibility is referred as security in the cloud and 
+AWS responsibility is referred as security of the cloud customer responsibilities. 
+
+Customers are responsible for security of entire data created and put in Aws cloud. Customer also responsible for data in rest and for data in transit. Customer also control how the access rights are controlled and managed using ID access management. Customer has full control over the OS activities such that selecting configuring, patching and managing user accounts and network firewall configurations through security group to manage the inbound and outbound traffics. In addition to that customer need to take care of selecting client side and server side encryption. 
+
+Aws responsibilities. Aws is responsible for security on cloud. It manages operates and controls all the component of AWS infrastructure at all the layers and physical security of data centers. Aws is responsible for the global infrastructure that includes Aws regions, availability zones and point of presence P O P or edge locations.
+
+ Customer responsibilities. Customer are responsible for security of entire data created and put in Aws cloud. 
+
+Customer also responsible for data in rest and for data in transit. Customer also control how the access rights are controlled and managed using identity access management. Firewall configuration is shared responsibility for customer and Aws. 
+
+Aws is responsible for Aws foundation services and it is responsible for Aws global infrastructure that includes Aws regions, availability zones and edge locations. 
+
+Customer responsibilities for abstracted services. Customer are responsible for security of entire data created and put in Aws cloud 
+
+AWS responsibilities for abstracted services. AWS is responsible for security on cloud infra and foundation services along with data protection at rest and transit. 

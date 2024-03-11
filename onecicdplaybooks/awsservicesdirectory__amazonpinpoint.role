@@ -1,0 +1,20 @@
+Connect with customers through scalable, targeted multichannel communications
+
+A channel represents the platform through which you engage your audience segment with messages. For example, to send push notifications to users of your apps, you must have an Amazon Pinpoint project in which the push notifications channel is enabled. Amazon Pinpoint supports the following channels:
+
+Push notifications
+
+Email
+
+SMS
+
+Voice
+
+In-app messages
+
+In addition to these channels, you can also extend the capabilities to meet your specific use case by creating custom channels.
+
+Before you can use Amazon Pinpoint to engage your audience, you have to create an Amazon Pinpoint project. After you create a project, you can use it to send campaigns. To engage your customers using campaigns, start by defining the audience segment that you want to engage. Next, define that campaign that you want to send to the segment.
+
+https://aws.amazon.com/pinpoint/
+

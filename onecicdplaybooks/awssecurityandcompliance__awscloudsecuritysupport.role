@@ -1,0 +1,21 @@
+Welcome to the module on cloud security support. 
+
+In this module, you will learn about: Aws security services like Aws  web application, firewall network, ACL, NAC security groups and Aws, trusted advisor,  Aws web application firewall. It helps to protect your web applications or A PS against most common web exploits and bots. It helps you to control how traffic reaches your applications by security. It helps you to customize rules that filter out specific traffic patterns. It helps you to manage rules for Aws WAF to address issues like a Wasp open web application security project. Top 10 security risks. 
+
+Aws WAF includes a full featured API that you can use to automate the creation, deployment and maintenance of security rules. A network access control list. NAC is an additional layer of security for your VPC, IT acts similar like firewall for controlling traffic of one or more subnets like security group. You need to set inbound and outbound rules for NAC for additions security for your VPC. 
+
+A custom network ACL can be created and associated with a subnet in your VPC. The default network ACL is configured to allow all traffic to flow in and out of the subnets with which it is associated. 
+
+A security group acts as a virtual firewall for your C two instances to control incoming and outgoing traffic. While creating EC two, you control the incoming traffic and outgoing traffic for your instance, using inbound and outbound rules. And that is set through a security group. You can associate one or more security groups to launch an instance. If necessary, you can modify the rules of a security group at any time. 
+
+EC2 evaluates all the rules from all the security groups that are associated with the instance while deciding whether to allow traffic to reach the instance. Aws, trusted advisor, scan your AWS infrastructure and compares with the Aws best practice in five categories like cost optimization, performance, security th tolerance and service limits. 
+
+Aws. Trusted advisor also provides recommendation to optimize your services and resources 
+
+cost optimization. Trusted advisor, analyzes the usage configuration and spend of the customer helps the customer by providing actionable recommendations to save cost. For example, it identifies the idle R DS DB instances, unassociated elastic IP addresses under utilized EBS volumes and excessive timeouts in Lemba functions performance. Trusted advisor analyzes the usage configuration of the customer and helps the customer by providing actionable recommendations to improve the performance. For example, it analyzes the compute usage of EC2 instances, ebs throughput and latency and configurations on cloudfront security. Trusted advisor helps in improving the security of your Aws environment based on security best practices curated by security experts. 
+
+Some of the examples like exposed access unnecessary S3 bucket permissions and risks in RDS. Security group access fault tolerance. 
+
+Trusted advisor helps to improve the reliability of your Aws services. For example, it examines auto scaling ec two groups, disabled availability zones, deleted health checks on route 53 and disabled rds backups and provide suggestion to improve the reliability. 
+
+Service limits. Service limits are the maximum number of resources that can be created in an Aws account. Quotas are available in Aws to provide highly available and reliable service. Using these quotas. Customers can protect unintentional spends when the spend reaches more than 80% of a service quota. Trusted advisor will notify the recommendations based on the recommendation. You can delete the resources in this module. You have learned about Aws security services like Aws web application, firewall, Aws WAF, network, ACL and a security group and Aws trusted advisor and its categories.

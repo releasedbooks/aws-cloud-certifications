@@ -1,0 +1,31 @@
+This is about Aws compliance support encryption choices at Aws. 
+
+Aws, auditing and reporting services and least privileged access. 
+
+Now you are going to know about Aws compliance. 
+
+Aws cloud compliance is a shared responsibility between customer and Aws. Aws supports more security standards and compliance certifications than any other offering. Helping customer to satisfy compliance requirements for every regulatory agency around the globe. Aws participates in over 50 different audit programs. The results of these audits are documented by the assessing body and made available for all Aws customers through Aws artifacts. 
+
+Aws recommends data encryptions as an additional control of compliance. Aws provides various options to encrypt data at rest and data in transit, auditing and reporting. 
+
+Using Aws audit manager. Aws continuously audit the usage of how you use Aws. With this report, you can assess the risk in compliance with the regulations and industry standards. Using audit manager, you can build audit ready reports with less effort. Now you will learn about the encryption choices at Aws data encryption. 
+
+You must ensure to ensure that your application's data is secure while in storage is known as encryption at rest. And while it is transmitted, known as encryption in transit, Aws provides several features that enable customers to encrypt data. 
+
+Aws KMS Aws key management service gives a centralized control over the cryptographic keys used to encrypt customer data in Aws cloud. It can also be integrated with any Aws services to easily encrypt, encrypt the data you store in those aws services, Aws cloud HSM. 
+
+AWS cloud hardware security module is used to generate your own encryption keys on Aws cloud ecosystem. 
+
+Aws cloud HSM is a fully managed server used to automate all the administrative tasks like hardware provisioning software, patching backups and high availability, etcetera. To protect data. At rest, you can choose between server side encryption or clients site encryption. Both will be controlled by Aws KMS using the police as created in it. Server side encryption is easy and best since you can have control on when who and why the encryption and decryption was performed by which Aws service to protect data in transit, you can decide whether and how to use encryption using a protocol like transport layer security TLS. In order to implement TLS connections securely, you should upload SSL digital certificates. Aws provides Amazon certificate manager, ACM service manage and deploy these certificates. Aws certificate manager is a no cost service that removes the time consuming manual process of purchasing, uploading and renewing SSL or TLS certificates. Now you are going to learn about Aws auditing and reporting servicess.
+
+ Aws provides various services for auditing and reporting. Aws config is used to assess audit and evaluate the configuration of your Aws resources. It is used to continuously monitors and records your Aws configuration and you can evaluate your configuration against the desired configuration.
+
+ Aws cloud trail monitors and records account activity across your Aws infrastructure giving you control over storage analysis and remediation actions. Aws security hub is a cloud Security Posture management service. It helps to performs best practice checks against security aggregates alerts regarding the security and enables automated remediation. 
+
+Aws audit manager is used to continuously audit your Aws usage and simplify how you can assess risk and compliance with regulations and industry standards. Audit manager helps you to access your policies, procedures and activities easily and effectively during audit, Aws audit manager allows stakeholders to review the policies, procedures and Aws activities and enable you to build reports with less manual efforts. 
+
+Aws Control Tower is a service that enables you to enforce and manage governance rules for operations, security and compliance at scale across all your organizations and accounts in the Aws cloud.
+
+Aws cloudwatch provides you the complete visibility to your cloud resources and applications. Cloudwatch continuously monitor your cloud and collects operational data in the form of logs, metrics and events and visualizes in your dashboards using cloudwatch. You can get a unified view of your Aws resources, applications and services.
+
+Least privilege is a principle of granting only the permissions required to perform a task. It is one of Aws well, architected best practices that can help you build securely in the cloud. Start with a minimum set of permissions and grant additional permissions as and when it is necessary as an alternative to least privilege, you can use Aws managed polices or policies with wildcard permissions to get started with policies. Consider the security risk of granting your principals more permissions than they need to do the job. Monitor these polices and find which permissions are used and then write least privileged policies. In this module. You have learned about Aws compliance support different encryption choices at Aws, various Aws auditing and reporting services and least privileged access.

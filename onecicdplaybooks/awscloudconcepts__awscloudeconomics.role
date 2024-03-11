@@ -1,0 +1,38 @@
+Benefits of the Aws cloud total cost ownership T C O and cost optimization pillars. 
+
+How much does it cost to access services from AWS cloud? 
+How much is the initial cost to move on Aws? 
+
+The answer is zero. Since customers are not going to procure any hardware or software or networks, they are going to use AWS cloud resources. Hence initial cost is zero. 
+
+What cost customer to migrate their resources from data centers to cloud? 
+
+It involves migration cost and Aws provides various tools that provide exact costs for migration. 
+
+How long does it take to move? 
+
+The duration Depends on the numerous factors. Aws provides migrations tools to help the customers to migrate quickly. 
+
+What will my monthly bill be? 
+Aws provides a lot of tools to manage the billing upfront. This helps the customer to manage the cost and optimize their cost for effective use of Aws cloud cost savings, cost savings on Aws cloud. Aws has ability to match demand and supply and improving consumption of infrastructure based on usage patterns. 
+
+You can elastic the cost cloud eliminates the cost of hardware updates and maintenance programs, staff productivity Aws cloud provides enough  amount of automation tools which drives maintenance more in efficient way. It provides elimination of hardware related tasks and increased developer productivity operational resilience. Aws cloud can reduce the cost of unplanned and planned outages. It can reduce the risk profile or the cost of risk mitigation and it can improve the service level agreement between you and your customer business agility. You can release your product in less time to market. It can increase the operational agility like penetrating to new market divestiture or acquisition of a new company, etc, it can reduce costs and increase the pace of innovation. 
+
+Now you are going to learn about financial benefits by using Aws as per lates IDC white paper. It indicates that Aws customers achieve important financial benefits that help increase growth, improve business and it agility and realize important long term cost reductions. Aws provides 62% more efficient I T infrastructure staff, 51% lower cost of operation for the period of five years and it pays back your initial cost in just six months in addition to it, Aws improves your IT by adding three X new features, 25% more productive development team and 90% less staff time to deploy new storage. Moreover in terms of business operation by using Aws, your organization can save 94% time on unplanned downtime $36.5 million as additional revenue per year and 14% increase on user productivity. 
+
+Total cost of ownership T C O is the sum of all costs involved in the purchase, operation and maintenance of a given asset during its lifetime. TCO is the  amount payable for the procurement and use of resources like virtual machines, storage etc in the cloud computing environment. 
+
+Total cost of ownership has the below elements. 
+Cap X capital expenditures are investments made by an organization for long term benefits in the future computers servers and other hardware needed for on premises. Data centers are all examples of cap X op X operation expenditures are the ongoing costs related to day to day operations. 
+
+Staffing costs for it, staffing involved in managing and support opportunity costs cost involved in alternative resources during the downtime software licensing cost incurred in procuring license software facilities, overhead facilities over head costs are the other costs not related to the cost mentioned above. Aws cloud pricing calculators, organizations often raise the question that how much is it going to cost you compared to running applications on premise? 
+
+Aws provides you with several cloud pricing calculators to estimate your cost savings on incorporating cloud services as per your organizational needs and provides detailed reports that elaborates on the savings that can be achieved. All you must specify the configuration of your hosting environment and get the detailed cost estimation report which includes cost breakdown methodology. Etc. The calculators will help you to modify the resource assumptions to make the best decision for your business requirement. Let us explore some cloud pricing calculators. 
+
+A WS TCO calculator using AWS TCO calculator. You can input details of your application workload, like server details, network bandwidth and storage requirements for your application. So you easily get detailed reports and insights into the cost components that makes Aws a sustainable alternative to lower your organizations costs. Aws. Simple monthly calculator, Aws provides another online tool through which you can easily estimate the monthly cost based on your expected usage on Aws services. 
+
+The pricing of all the Aws services across regions are updated in the tool to make the estimated charge to be an accurate one. Now you will learn about cost optimization pillars which include right sized infrastructure always provision the resources which matches your need increase elasticity in traditional it infrastructure hardware requirements are custom made for peak usage, however, they are always under utilized. Whereas in the cloud environment, you can optimize cost to meet your demand and turn off your unused resources when they are not necessary. Leverage the right pricing model. 
+
+Aws provides a range of pricing models like on demand and spot instances for flexible workloads and reserved instances for predictable workloads based on your workload, pick the right pricing model to optimize costs, optimize storage to meet performance. Aws provides multiple storage tiers at different prices by identifying the most suitable target for specific types of data, you can reduce the size of a Amazon EBS and Amazon S3 for maintaining performance and availability measure monitor and improve to optimize 
+
+Aws at the best in force cost based resource allocation tagging, define the metrics, set the targets and review at a reasonable interval. Enable your teams to architect the application based on cost by providing adequate training, identify a team or an individual and assign cost optimization responsibility. Thank you for watching this video on Aws cloud economics. In this module, you have learned about Aws economics benefits of Aws cloud total cost ownership TCO and cost optimization pillars.

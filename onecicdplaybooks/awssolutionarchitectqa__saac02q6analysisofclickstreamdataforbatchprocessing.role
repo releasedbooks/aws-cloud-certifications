@@ -1,0 +1,9 @@
+A company captures clickstream data from multiple websites and analyzes it using batch processing. The data is loaded nightly into Amazon Redshift and is consumed by business analysts. The company wants to move towards near-real-time data processing for timely insights. The solution should process the streaming data with minimal effort and operational overhead.
+
+Which combination of AWS services are MOST cost-effective for this solution? (Choose two.)
+
+A. Amazon EC2
+B. AWS Lambda
+C. Amazon Kinesis Data Streams
+D. Amazon Kinesis Data Firehose
+E. Amazon Kinesis Data Analytics
