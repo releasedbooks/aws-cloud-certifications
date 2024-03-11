@@ -1,9 +1,0 @@
-[INFO ] 2022-11-18 13:04:43.040 [AWT-EventQueue-1] OneCICDLicense - OCICDDB-121:is_license_valid_with_date_check: false
-[INFO ] 2022-11-18 13:04:43.118 [AWT-EventQueue-1] OneCICDLicense - OCICDCDAVV-100Today:2022-11-18
-[INFO ] 2022-11-18 13:04:43.126 [AWT-EventQueue-1] OneCICDLicense - OCICDCDAVV-101todayLD:2022-11-18
-[INFO ] 2022-11-18 13:04:43.128 [AWT-EventQueue-1] OneCICDLicense - OCICDCDAVV-104Inside checkDateAndVersionValidity: Issue Check :
-[INFO ] 2022-11-18 13:04:43.128 [AWT-EventQueue-1] OneCICDLicense - OCICDCDAVV-105is_license_valid_with_date_check:true
-[INFO ] 2022-11-18 13:04:43.128 [AWT-EventQueue-1] OneCICDLicense - OCICDDB-122:Inside: OneCICDLicense:computedLicenseEntitlement
-[INFO ] 2022-11-18 13:04:43.128 [AWT-EventQueue-1] OneCICDLicense - OCICDDB-123:Inside checkDateAndVersionValidity
-[INFO ] 2022-11-18 13:04:43.129 [AWT-EventQueue-1] OneCICDGetPropertyValues - Inside: OneCICDGetPropertyValues
-[INFO ] 2022-11-18 13:04:43.129 [AWT-EventQueue-1] OneCICDGetPropertyValues - properties file: config.properties found

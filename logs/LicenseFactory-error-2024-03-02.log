@@ -1,7 +1,0 @@
-[INFO ] 2024-03-02 19:27:46.938 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'SAAC02 Q11 blocking subscriber contents in certain countries'
-[INFO ] 2024-03-02 19:27:46.939 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Solution Architect QA ANCICDRoleName:SAAC02 Q11 blocking subscriber contents in certain countries
-[INFO ] 2024-03-02 19:27:46.939 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awssolutionarchitectqa_4fanz_saac02q11blockingsubscribercontentsincertaincountries
-[INFO ] 2024-03-02 19:27:46.939 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:25
-[INFO ] 2024-03-02 19:27:46.940 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'SAAC02 Q11 blocking subscriber contents in certain countries'
-[INFO ] 2024-03-02 19:27:46.940 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Solution Architect QA ANCICDRoleName:SAAC02 Q11 blocking subscriber contents in certain countries
-[INFO ] 2024-03-02 19:27:46.940 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awssolutionarchitectqa_4fanz_saac02q11blockingsubscribercontentsincertaincountries

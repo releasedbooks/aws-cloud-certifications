@@ -1,8 +1,0 @@
-[INFO ] 2024-02-05 14:20:42.169 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'AWS Network Services'
-[INFO ] 2024-02-05 14:20:42.170 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Cloud Technologies ANCICDRoleName:AWS Network Services
-[INFO ] 2024-02-05 14:20:42.170 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awscloudtechnologies_4fanz_awsnetworkservices
-[INFO ] 2024-02-05 14:20:42.170 [AWT-EventQueue-0] OneCICD - ANCICDRoleID:ANCICDRole Picked from List:8
-[INFO ] 2024-02-05 14:20:42.170 [AWT-EventQueue-0] OneCICD - select * from ANCICDPLAYBOOKTOCS where songtitle = 'AWS Network Services'
-[INFO ] 2024-02-05 14:20:42.171 [AWT-EventQueue-0] OneCICD - PlayBook:AWS Cloud Technologies ANCICDRoleName:AWS Network Services
-[INFO ] 2024-02-05 14:20:42.171 [AWT-EventQueue-0] OneCICD - ANCICDRoleFileBody Requested:awscloudtechnologies_4fanz_awsnetworkservices
-[INFO ] 2024-02-05 14:20:42.171 [AWT-EventQueue-0] OneCICD - SettingsFromPropertyFile:auto:write:ifloop:24: dividerstudio is now 11

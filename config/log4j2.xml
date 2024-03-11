@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Configuration name="PRODUCTION" status="debug" >
+<Configuration name="PRODUCTION" status="OFF" >
 <Properties>
 <Property name="log-path">logs</Property>
 </Properties>
- <ThresholdFilter level="debug"/>
+ <ThresholdFilter level="off"/>
 <Appenders>
 <Console name="console-log" target="SYSTEM_OUT">
 <PatternLayout pattern="[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n"/>

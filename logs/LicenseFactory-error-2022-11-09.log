@@ -1,9 +1,0 @@
-[INFO ] 2022-11-09 20:22:19.412 [AWT-EventQueue-1] OneCICD - SettingsFromPropertyFile:auto:write:outof loop:dividerstudio is now 14
-[INFO ] 2022-11-09 20:22:19.414 [AWT-EventQueue-1] OneCICD - SettingsFromPropertyFile:auto:dividerstudio is now 14
-[INFO ] 2022-11-09 20:22:24.354 [AWT-EventQueue-1] OneCICDGetPropertyValues - Inside: OneCICDGetPropertyValues
-[INFO ] 2022-11-09 20:22:24.355 [AWT-EventQueue-1] OneCICDGetPropertyValues - properties file: config.properties found
-[INFO ] 2022-11-09 20:22:24.355 [AWT-EventQueue-1] OneCICDGetPropertyValues - licensor: 4FANZ found
-[INFO ] 2022-11-09 20:22:24.380 [AWT-EventQueue-1] OneCICDLicense - OCICDDB-106:Inside: OneCICDLicense:computedLicenseEntitlement
-[INFO ] 2022-11-09 20:22:24.381 [AWT-EventQueue-1] OneCICDLicense - OCICDDB-107:readLicenseFiles: Failure
-[INFO ] 2022-11-09 20:22:24.382 [AWT-EventQueue-1] OneCICDLicense - OCICDDB-108:Bad or Tempered License File - contact Fans-Care
-[INFO ] 2022-11-09 20:22:24.383 [AWT-EventQueue-1] OneCICD - OCICDIC:Inside: OneCICD:initComponents:saveLyricButton.addActionListener

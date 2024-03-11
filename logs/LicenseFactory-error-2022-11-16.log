@@ -1,9 +1,0 @@
-[INFO ] 2022-11-16 17:02:14.099 [AWT-EventQueue-1] OneCICDLicense - OCICDCDAVV-100Today:2022-11-16
-[INFO ] 2022-11-16 17:02:14.117 [AWT-EventQueue-1] OneCICDLicense - OCICDCDAVV-101todayLD:2022-11-16
-[INFO ] 2022-11-16 17:02:14.120 [AWT-EventQueue-1] OneCICDLicense - OCICDCDAVV-104Inside checkDateAndVersionValidity: Issue Check :
-[INFO ] 2022-11-16 17:02:14.121 [AWT-EventQueue-1] OneCICDLicense - OCICDCDAVV-105is_license_valid_with_date_check:true
-[INFO ] 2022-11-16 17:02:14.121 [AWT-EventQueue-1] OneCICDLicense - OCICDDB-122:Inside: OneCICDLicense:computedLicenseEntitlement
-[INFO ] 2022-11-16 17:02:14.121 [AWT-EventQueue-1] OneCICDLicense - OCICDDB-123:Inside checkDateAndVersionValidity
-[INFO ] 2022-11-16 17:02:14.123 [AWT-EventQueue-1] OneCICDGetPropertyValues - Inside: OneCICDGetPropertyValues
-[INFO ] 2022-11-16 17:02:14.124 [AWT-EventQueue-1] OneCICDGetPropertyValues - properties file: config.properties found
-[INFO ] 2022-11-16 17:02:14.124 [AWT-EventQueue-1] OneCICDGetPropertyValues - licensor: 4FANZ found

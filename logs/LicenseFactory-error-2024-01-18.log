@@ -1,9 +1,0 @@
-[INFO ] 2024-01-18 12:03:43.003 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-113:Remote Authentication Not Required
-[INFO ] 2024-01-18 12:03:43.003 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-121:is_license_valid_with_date_check: true
-[INFO ] 2024-01-18 12:03:43.004 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-100Today:2024-01-18
-[INFO ] 2024-01-18 12:03:43.004 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-101todayLD:2024-01-18
-[INFO ] 2024-01-18 12:03:43.004 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-104Inside checkDateAndVersionValidity: Issue Check :
-[INFO ] 2024-01-18 12:03:43.004 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-105is_license_valid_with_date_check:true
-[INFO ] 2024-01-18 12:03:43.004 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-122:Inside: OneCICDLicense:computedLicenseEntitlement
-[INFO ] 2024-01-18 12:03:43.004 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-123:Inside checkDateAndVersionValidity
-[INFO ] 2024-01-18 12:03:43.004 [AWT-EventQueue-0] OneCICDGetPropertyValues - Inside: OneCICDGetPropertyValues

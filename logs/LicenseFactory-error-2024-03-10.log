@@ -1,9 +1,0 @@
-[INFO ] 2024-03-10 23:52:48.378 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-100:Inside: OneCICDLicense:computedLicenseEntitlement
-[INFO ] 2024-03-10 23:52:48.379 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-101:compareConfigValuesWithEncrypted: Success
-[INFO ] 2024-03-10 23:52:48.379 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-111:Inside: OneCICDLicense:computedLicenseEntitlement
-[INFO ] 2024-03-10 23:52:48.379 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-112:license_auth_status: PAIDLICENSEISVALIDLOCAL
-[INFO ] 2024-03-10 23:52:48.379 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-113:Remote Authentication Not Required
-[INFO ] 2024-03-10 23:52:48.379 [AWT-EventQueue-0] OneCICDLicense - OCICDDB-121:is_license_valid_with_date_check: true
-[INFO ] 2024-03-10 23:52:48.379 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-100Today:2024-03-10
-[INFO ] 2024-03-10 23:52:48.379 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-101todayLD:2024-03-10
-[INFO ] 2024-03-10 23:52:48.379 [AWT-EventQueue-0] OneCICDLicense - OCICDCDAVV-104Inside checkDateAndVersionValidity: Issue Check :
