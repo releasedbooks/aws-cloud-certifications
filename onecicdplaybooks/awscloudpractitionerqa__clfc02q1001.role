@@ -1,0 +1,8 @@
+A company is planning to run a global marketing application in the AWS Cloud. The application will feature videos that can be viewed by users. The company must ensure that all users can view these videos with low latency.
+
+Which AWS service should the company use to meet this requirement?
+
+A. AWS Auto Scaling
+B. Amazon Kinesis Video Streams
+C. Elastic Load Balancing
+D. Amazon CloudFront Most Voted

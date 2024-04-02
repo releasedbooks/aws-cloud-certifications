@@ -1,0 +1,3 @@
+In cases where data is to be made available in the on premise environment and backup is to be stored in the cloud environment - Storage Gateway Stored Volumes can be used.
+
+ if frequently accessed, data has to be  cached in the on-premise environment and primary data has to be there in the cloud environment storage gateway cached volumes can be used. 

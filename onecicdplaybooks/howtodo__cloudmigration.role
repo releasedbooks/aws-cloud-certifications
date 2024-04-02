@@ -1,0 +1,37 @@
+When an enterprise decides to migrate the workload hosted in their on premises data center, it could be due to the fact that their infrastructure was purchased a few years ago and is approaching its support end of life.
+
+The enterprise starts evaluating the possible solutions to host the workload with minimal or zero downtime. One of the primary requirements is to reduce the total cost of ownership for the enterprise. 
+
+The architects of the enterprise have to identify the right solution to migrate the workload from on premises infrastructure to the target cloud services provider at a very high level.
+
+ This is accomplished through three phases, discovery assessment, end migration server. 
+
+- Discovery is required to understand current infrastructure landscapes such as hardware platform storage network, etc. You will be able to identify the provision capacity and utilization. You will also discover various applications running on different servers in the on premises environment and understand the application characteristics. All the information collected during discovery phase is crucial in making the right decision towards choosing migration strategy. 
+
+-Assessment: 
+ - server inventory:  in the on premises
+- architecture: Environment assessment is performed in order to identify the architecture of on premise infrastructure. Additionally, application portfolio and associated dependencies are identified. 
+- Application Portfolio
+- Assess TCO
+- TCO analysis is performed to understand approximate cost benefit associated with migration. Not all applications can be migrated to cloud. So as part of assessment, migration readiness assessment is also performed. 
+- migration readiness assessment.
+
+Let us look at the migration strategies
+- Re Host: lift and shift strategy is used to migrate the existing application to cloud based infrastructure. No changes are made to the application architecture. This can be achieved quickly and the overall cost of ownership can be reduced, relat. 
+- Re-Platform: lift, Tinker and shift is used to migrate the applications to cloud based infrastructure with a few optimizations to take advantage of the cloud environment reactor involves significant changes to the application while migrating to cloud environment
+-  Re-architect or rebuild involves reimagining the entire architecture of the application in order to enrich user experience with additional features, improve usability, reliability, extensibility and its availability. 
+
+Application is retired if another cost effective solution is readily available or there is no ROI due to the application 
+
+Application is retained in the on premise environment. If it is not prioritized for migration. 
+
+Migration process consists of analyze build validate, deploy stages, migration tools automate the overall migration process. Let's discuss a few migration tools cloud endure helps in the migration of workload from on premises to AWS. 
+
+Orchestration engine automatically launches fully operational workloads in the target AWS region offers automated disaster recovery solution as Well.
+CloudEndure, Matilda, StratoBeam etc are a few Cloud Migration Tools.
+
+CloudEndure offers automated Orchestration. Also offers automated disaster recovery and migration solutions.
+
+Matilda supports rapid application deployment in cloud capable of performing multi cloud deployments helps in controlling cost by optimizing the cloud spending allows you to view the cloud spending information at the application level 
+
+StratoBeam helps in performing automated low cost migrations also provides comprehensive migration suite to help seamless migration to cloud environment.
